@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Parsed by jbart3h -->
 <resources>
     <string-array name="animator_duration_scale_entries">
         <item>Animácia je vypnutá</item>
@@ -18,10 +17,16 @@
         <item>Najviac 3 procesy</item>
         <item>Najviac 4 procesy</item>
     </string-array>
+    <array name="avatar_image_descriptions" />
     <string-array name="battery_labels">
         <item>0 %</item>
         <item>50 %</item>
         <item>100 %</item>
+    </string-array>
+    <string-array name="battery_options">
+        <item>Vždy zobrazovať percentá</item>
+        <item>Zobrazovať percentá počas nabíjania (predvolené)</item>
+        <item>Nezobrazovať túto ikonu</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_bits_per_sample_summaries">
         <item>Použiť voľbu systému (predvolené)</item>
@@ -116,9 +121,14 @@
         <item>MAP 1.4</item>
     </string-array>
     <string-array name="bt_hci_snoop_log_entries">
-        <item>Deaktivované</item>
+        <item>Vypnuté</item>
         <item>Aktivované filtrované</item>
         <item>Aktivované</item>
+    </string-array>
+    <string-array name="clock_options">
+        <item>Zobrazovať hodiny, minúty a sekundy</item>
+        <item>Zobrazovať hodiny a minúty (predvolené)</item>
+        <item>Nezobrazovať túto ikonu</item>
     </string-array>
     <string-array name="color_mode_descriptions">
         <item>Vylepšené farby</item>
@@ -251,6 +261,11 @@
         <item>Vypnuté</item>
         <item>Zapnuté</item>
     </string-array>
+    <string-array name="tile_states_color_correction">
+        <item>Nedostupné</item>
+        <item>Vypnuté</item>
+        <item>Zapnuté</item>
+    </string-array>
     <string-array name="tile_states_controls">
         <item>Nie je k dispozícii</item>
         <item>Vypnuté</item>
@@ -300,6 +315,16 @@
         <item>Nie je k dispozícii</item>
         <item>Vypnuté</item>
         <item>Zapnuté</item>
+    </string-array>
+    <string-array name="tile_states_onehanded">
+        <item>Nedostupné</item>
+        <item>Vypnuté</item>
+        <item>Zapnuté</item>
+    </string-array>
+    <string-array name="tile_states_qr_code_scanner">
+        <item>Nie je k dispozícii</item>
+        <item>Vypnutý</item>
+        <item>Zapnutý</item>
     </string-array>
     <string-array name="tile_states_reduce_brightness">
         <item>Nie je k dispozícii</item>
@@ -366,6 +391,12 @@
         <item>Veľmi rýchlo</item>
         <item>Najrýchlejšie</item>
     </string-array>
+    <string-array name="udfps_accessibility_touch_hints">
+        <item>Posunúť doľava</item>
+        <item>Posunúť nadol</item>
+        <item>Posunúť doprava</item>
+        <item>Posunúť nahor</item>
+    </string-array>
     <string-array name="usb_configuration_titles">
         <item>Nabíja sa</item>
         <item>MTP (Media Transfer Protocol – protokol na prenos médií)</item>
@@ -373,6 +404,34 @@
         <item>RNDIS (USB Ethernet)</item>
         <item>Zdroj zvuku</item>
         <item>MIDI</item>
+    </string-array>
+    <string-array name="wifi_status">
+        <item></item>
+        <item>Prebieha vyhľadávanie...</item>
+        <item>Prebieha pripájanie…</item>
+        <item>Prebieha overovanie…</item>
+        <item>Získava sa adresa IP…</item>
+        <item>Pripojené</item>
+        <item>Pozastavená</item>
+        <item>Prebieha odpájanie...</item>
+        <item>Odpojený</item>
+        <item>Neúspešné</item>
+        <item>Blokované</item>
+        <item>Dočasne bolo zabránené slabému pripojeniu</item>
+    </string-array>
+    <string-array name="wifi_status_with_ssid">
+        <item></item>
+        <item>Prebieha vyhľadávanie...</item>
+        <item>Prebieha pripájanie k sieti %1$s...</item>
+        <item>Prebieha overovanie v sieti %1$s...</item>
+        <item>Získava sa adresa IP zo siete %1$s...</item>
+        <item>Pripojené k sieti %1$s</item>
+        <item>Pozastavená</item>
+        <item>Prebieha odpájanie od siete %1$s...</item>
+        <item>Odpojený</item>
+        <item>Neúspešné</item>
+        <item>Blokované</item>
+        <item>Dočasne bolo zabránené slabému pripojeniu</item>
     </string-array>
     <string-array name="wifitrackerlib_wifi_status">
         <item></item>

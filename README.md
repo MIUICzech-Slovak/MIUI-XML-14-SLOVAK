@@ -1,4 +1,4 @@
-[![MIUI13 logo](https://i.imgur.com/G9wfOYe.png)](https://xiaomi.eu/)
+[![MIUI14 logo](https://i.imgur.com/idmH8Nu.png)](https://xiaomi.eu/)
 
 MIUI-v13 translation for all supported devices. MIUI Translation: **ingbrzy**
 

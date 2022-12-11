@@ -1366,4 +1366,25 @@ ale obsah ktorý hľadáte nie je dostupný vo vašej krajine."</string>
     <string name="wifi_check_message">Používať na sťahovanie aktualizácií mobilné dáta?</string>
     <string name="wifi_check_tip">Už nezobrazovať</string>
     <string name="yesterday">Včera</string>
+    
+<string name="has_mamual_hide_large_icons">Super ikona bola úspešne skrytá</string>
+     <string name="hide_mamual_hide_large_icons">Nezobrazovať skryté super ikony</string>
+     <string name="large_icon_apply_fail_for_in_dock">V doku aplikácie nie je možné použiť ikony Super pre aplikácie</string>
+     <string name="large_icon_apply_fail_for_in_folder">Nie je možné použiť Super ikony pre aplikácie v priečinkoch</string>
+     <string name="large_icon_apply_fail_for_in_oldmode">Super ikony nie sú podporované v zjednodušenom režime</string>
+     <string name="large_icon_apply_fail_for_not_in_launcher">"Superikony nemožno použiť pre aplikácie, ktoré nie sú na ploche</string>
+     <string name="large_icon_detail_title">%s Super ikony</string>
+     <string name="large_icon_no_more">Zatiaľ tu nič nie je</string>
+     <string name="large_icon_no_network">Nepodarilo sa pripojiť k sieti</string>
+     <string name="large_icon_not_support">Nie je možné nastaviť ikony pre %s</string>
+     <string name="large_icon_official">Oficiálne</string>
+     <string name="large_icon_picker_haven">Dostupné ikony</string>
+     <string name="large_icon_picker_more">Viac</string>
+     <string name="large_icon_picker_size">Veľkosť ikony</string>
+     <string name="large_icon_to_find_more">Zobraziť viac</string>
+     <string name="large_icon_warning_install">Inštalovať</string>
+     <string name="large_icon_warning_not_install">Nainštalujte %s</string>
+     <string name="large_icon_warning_not_install_msg">Nainštalujte %s, aby ste mohli používať ikonu Super. Inštalovať teraz?</string>
+     <string name="show_mamual_hide_large_icons">Zobraziť skryté super ikony</string>
+     <string name="theme_component_title_large_icon">Super ikony</string>    
 </resources>

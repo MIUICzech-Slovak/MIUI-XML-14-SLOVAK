@@ -7756,8 +7756,7 @@ Nastavenie telefónu môže vyžadovať prenos významného množstva dát."</st
     <string name="zone_auto_title">Časové pásmo podľa siete</string>
     <string name="zone_list_menu_sort_alphabetically">Zoradiť abecedne</string>
     <string name="zone_list_menu_sort_by_timezone">Zoradiť podľa časového pásma</string>
-    
-<string name="complete_parameters_new">Podrobné špecifikácie</string>
+    <string name="complete_parameters_new">Podrobné špecifikácie</string>
      <string name="data_acceleration_summery">Používajte Wi-Fi aj mobilné dáta na zvýšenie rýchlosti, keď je pripojenie Wi-Fi slabé</string>
      <string name="dds_preference_smart_dds_switch_is_on">Inteligentný prepínač DDS je zapnutý</string>
      <string name="enable_snpn">Povoliť SNPN</string>
@@ -7765,13 +7764,8 @@ Nastavenie telefónu môže vyžadovať prenos významného množstva dát."</st
      <string name="haptic_descripthion_for_middle_level">Predvolené</string>
      <string name="haptic_descripthion_for_min_level">Svetlo</string>
      <string name="immersive_audio_sources">Ponorený zvuk</string>
-     <string name="miui_type_style_summary">Štýl písania použitý pri zapnutej čítačke obrazovky</string>
-     <string name="miui_type_style_title">Štýl písania</string>
      <string name="network_acceleration">Zrýchlenie siete</string>
      <string name="network_auto_switch">Prepínanie medzi sieťami</string>
      <string name="network_auto_switch_summery">Prepnúť na mobilné dáta, keď je signál Wi-Fi slabý alebo sieť nie je dostupná</string>
      <string name="solid_text">Používa nízkofrekvenčnú hmatovú spätnú väzbu a zodpovedajúce vizuálne prechody na vytvorenie solídneho a výkonného zážitku z gest</string>
-     <string name="sunlight_low_power_notification">Nie je možné zapnúť režim slnečného žiarenia. Batéria je príliš slabá.</string>
-
-
 </resources>

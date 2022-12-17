@@ -29,9 +29,6 @@
     <string name="abc_toolbar_collapse_description">Zbaliť</string>
     <string name="account_other">Ostatné</string>
     <string name="actionbar_button_up_description">Späť</string>
-    <string name="app_pkg_name">com.milink.service</string>
-    <string name="app_ver_code">1</string>
-    <string name="app_ver_name">1.0</string>
     <string name="audio_record_des">Pre vysielanie zvuku z vášho zariadenia do externého monitora</string>
     <string name="cast_image_des">Návod na vysielanie</string>
     <string name="casting_tips">Vysiela sa…</string>

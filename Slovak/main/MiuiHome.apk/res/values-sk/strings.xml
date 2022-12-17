@@ -791,6 +791,6 @@ Zvýšená bezpečnosť."</string>
      <string name="folder_not_edit_icon_tip">Ak chcete upraviť, najprv presuňte aplikáciu z priečinka</string>
      <string name="recent_menu_item_add_pair">Vytvorte odkaz na ploche pre túto kombináciu rozdelenej obrazovky</string>
      <string name="recent_menu_item_add_pair_first_toast">Vytvorte odkaz na ploche pre túto kombináciu rozdelenej obrazovky</string>         
-     <string name="monochrome_summary">Zmňte farvu pozadia pre kompatibilné ikony</string>
-     <string name="monochrome_title">Farva pozadia</string>              
+     <string name="monochrome_summary">Zmeňte farbu pozadia pre kompatibilné ikony</string>
+     <string name="monochrome_title">Farba pozadia</string>              
 </resources>

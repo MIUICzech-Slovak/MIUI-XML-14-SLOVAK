@@ -7742,8 +7742,8 @@ Nastavenie telefónu môže vyžadovať prenos významného množstva dát."</st
     <string name="zen_mode_summary_alarms_only_indefinite">Zmena na možnosť Iba budíky platná natrvalo</string>
     <string name="zen_mode_summary_always">Zmena na možnosť Vždy prerušiť</string>
     <string name="zen_mode_title">Nerušiť</string>
-    <string name="zen_mode_turned_off">Zapnúť</string>
-    <string name="zen_mode_turned_on">Vypnúť</string>
+    <string name="zen_mode_turned_off">Vypnuté</string>
+    <string name="zen_mode_turned_on">Zapnuté</string>
     <string name="zen_mode_when">Automaticky zapnúť</string>
     <string name="zen_mode_when_every_night">Každú noc</string>
     <string name="zen_mode_when_never">Nikdy</string>

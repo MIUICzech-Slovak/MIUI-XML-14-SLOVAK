@@ -7407,6 +7407,7 @@ sl. Wi‑Fi Assistant"</string>
     <string name="wifi_rssi_threshold_check_summary">Nepripájať sa na AP ak je slabé RSSI</string>
     <string name="wifi_sap_no_channel_error">V tejto krajine nie je pásmo 5 GHz k dispozícii</string>
     <string name="wifi_save">Uložiť</string>
+    <string name="wifi_saved_access_point">Uložené siete</string>    
     <string name="wifi_saved_access_points_label">Uložené siete</string>
     <string name="wifi_saved_access_points_titlebar">Uložené siete</string>
     <string name="wifi_scan_always_available">Vyhľadávanie vždy zapnuté</string>

@@ -360,8 +360,7 @@ a prehrávať na nich zvuk a video“</string>
       <string name="appcirculate_fragment_circulate_device_card_switch_title_2">Zapnite Bluetooth</string>
       <string name="appcirculate_fragment_circulate_device_card_switch_title_3">Zapnúť Wi-Fi</string>
       <string name="appcirculate_fragment_circulate_device_card_switch_title_3_global">Zapnúť Wi-Fi</string>
-      <string name="appcirculate_fragment_circulate_device_card_title">„Nedá sa nájsť
-vaše zariadenie?"</string>
+      <string name="appcirculate_fragment_circulate_device_card_title">Nič sa nenašlo?</string>
       <string name="appcirculate_fragment_circulate_device_content_description">Otvorte na inom zariadení: %1$s</string>
       <string name="appcirculate_fragment_circulate_device_list_app_deliver">Otvorte \"%1$s\" na inom zariadení</string>
       <string name="appcirculate_fragment_circulate_device_list_button_cancel">Zrušiť</string>
@@ -470,8 +469,7 @@ a prihláste sa do svojho účtu Xiaomi"</string>
       <string name="circulate_headset_error_upgrade">Najskôr aktualizujte Mi Smart Hub na cieľovom zariadení</string>
       <string name="circulate_help_button_content_description">Pomoc</string>
       <string name="circulate_help_card_subtitle">Pomoc</string>
-      <string name="circulate_help_card_title">„Nedá sa nájsť
-vaše zariadenia?"</string>
+      <string name="circulate_help_card_title">Nič sa nenašlo?</string>
       <string name="circulate_help_error">Nepodarilo sa pripojiť k sieti</string>
       <string name="circulate_help_exit_button_content_description">Ukončiť</string>
       <string name="circulate_local_phone_name">Môj telefón</string>
@@ -658,9 +656,9 @@ vaše zariadenia?"</string>
       <string name="upgrade_login_dialog_message">Prihláste sa do svojho účtu Xiaomi, aby ste si mohli pozrieť svoje pripojené zariadenia.</string>
       <string name="upgrade_login_dialog_sure">Prihláste sa</string>
       <string name="upgrade_login_dialog_title">Prihláste sa do účtu Xiaomi</string>
-      <string name="upgrade_no_devices">K dispozícii nie sú žiadne aktualizácie</string>
+      <string name="upgrade_no_devices">Žiadne aktualizácie</string>
       <string name="upgrade_now">Aktualizovať</string>
-      <string name="upgrade_phone_device_tip">*Aktualizácie poskytuje telefón Xiaomi</string>
+      <string name="upgrade_phone_device_tip">*Aktualizácie poskytuje Xiaomi</string>
       <string name="upgrade_scan">Skontrolovať aktualizácie</string>
       <string name="upgrade_start">Aktualizovať</string>
       <string name="upgrade_start_all">Aktualizovať</string>
@@ -676,5 +674,8 @@ uistite sa, že balík obsahuje najnovšie verzie všetkých aplikácií."</stri
       <string name="wifi_recommendation">Vyberte %1$d GHz siete pre lepší zážitok z prenášania</string>
       <string name="wifi_scan_btn_text">Skenovať znova</string>
       <string name="wifi_username_et_hint">ID účtu</string>                        
-          
+<string name="miplay_mini_card_no_song_but_attached_hint">O prehrávaní zvuku na %1$s</string>
+     <string name="miplay_mini_card_no_song_pad_title">Zvuk pre tablet</string>
+     <string name="miplay_mini_card_no_song_subtitle">Žiadne prehrávanie</string>
+     <string name="miplay_mini_card_no_song_title">Zvuk telefónu</string>          
 </resources>

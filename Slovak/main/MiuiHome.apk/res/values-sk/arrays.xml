@@ -78,4 +78,11 @@
         <item>Vľavo</item>
         <item>Vpravo</item>
     </string-array>
+	<string-array name="monochrome_color_entries">
+        <item>Predvolené</item>
+        <item>Modrá</item>
+        <item>Zelená</item>
+        <item>Fialová</item>
+        <item>Hnedá</item>
+     </string-array>    
 </resources>

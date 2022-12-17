@@ -1134,11 +1134,6 @@ Postupujte podľa pokynov"</item>
          <item>Chrumkavé</item>
          <item>Plné</item>
      </string-array>
-     <string-array name="typing_style_entries">
-         <item>Štandardné</item>
-         <item>Dotyk</item>
-         <item>Priamy dotyk</item>
-     </string-array>
      <string-array name="wifi_hidden_gbk_entries">
          <item>Nie</item>
          <item>Áno</item>

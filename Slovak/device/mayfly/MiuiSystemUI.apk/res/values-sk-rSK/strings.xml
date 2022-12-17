@@ -1679,7 +1679,7 @@ V prípade otázok kontaktujte organizáciu %2$s."</string>
     <string name="status_bar_work">Pracovný profil</string>
     <string name="status_before_loading">Obsah sa čoskoro zobrazí</string>
     <string name="status_unavailable">Nie je k dispozícii</string>
-    <string name="storage_category">Priestor</string>
+    <string name="storage_category">Úložisko</string>
     <string name="stream_accessibility">Dostupnosť</string>
     <string name="stream_alarm">Budík</string>
     <string name="stream_bluetooth_sco">Bluetooth</string>

@@ -5059,7 +5059,7 @@ Umožňujú to dôveryhodné poverenia nainštalované vo vašom zariadení."</s
     <string name="status_wifi_mac_address">Adresa MAC siete Wi‑Fi</string>
     <string name="storage_apps">Aplikácie</string>
     <string name="storage_audio">Zvuk</string>
-    <string name="storage_category">Priestor</string>
+    <string name="storage_category">Úložisko</string>
     <string name="storage_default_internal_storage">Toto zariadenie</string>
     <string name="storage_detail_dialog_system">Systém obsahuje súbory používané na fungovanie Androidu verzie %s.</string>
     <string name="storage_dialog_unmountable">"Toto úložisko ^1 je poškodené. 
@@ -5099,7 +5099,7 @@ Všetky aplikácie v úložisku ^1 sa odinštalujú a ich údaje sa vymažú. Ak
     <string name="storage_internal_unmount_details"><b>Keď toto úložisko ^1 odpojíte, prestanú fungovať aplikácie, ktoré sú v ňom uložené. Mediálne súbory nebudú dostupné, kým ho opäť nepripojíte.</b>" 
 
 Toto úložisko ^1 je naformátované tak, aby fungovalo iba v tomto zariadení."</string>
-    <string name="storage_label">Priestor</string>
+    <string name="storage_label">Úložisko</string>
     <string name="storage_low_summary">Niektoré systémové funkcie, ako je synchronizácia, nemusia fungovať správne. Skúste získať ukladací priestor odstránením alebo uvoľnením položiek, ako sú aplikácie alebo obsah médií.</string>
     <string name="storage_low_title">Nedostatok ukladacieho priestoru</string>
     <string name="storage_manager_indicator">Inteligentné úložisko: ^1</string>
@@ -5125,7 +5125,7 @@ Toto úložisko ^1 je naformátované tak, aby fungovalo iba v tomto zariadení.
     <string name="storage_percent_full">využité</string>
     <string name="storage_photos_videos">Fotky a videá</string>
     <string name="storage_rename_title">Premenujte úložisko</string>
-    <string name="storage_settings">Priestor</string>
+    <string name="storage_settings">Úložisko</string>
     <string name="storage_settings_for_app">Ukladací priestor a vyrovnávacia pamäť</string>
     <string name="storage_settings_summary">Odpojiť ukladací priestor USB a zobraziť dostupný ukladací priestor</string>
     <string name="storage_settings_title">Nastavenia úložiska</string>

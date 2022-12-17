@@ -553,7 +553,7 @@ V prípade otázok kontaktujte organizáciu %2$s."</string>
     <string name="status_bar_notification_info_overflow">999+</string>
     <string name="status_before_loading">Obsah sa čoskoro zobrazí</string>
     <string name="status_unavailable">Nie je k dispozícii</string>
-    <string name="storage_category">Priestor</string>
+    <string name="storage_category">Úložisko</string>
     <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
     <string name="tap_again">Klepnite znova</string>
     <string name="tap_to_sign_up">Prihláste sa klepnutím</string>

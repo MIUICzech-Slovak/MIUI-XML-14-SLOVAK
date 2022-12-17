@@ -336,4 +336,5 @@ pokračovať“</string>
     <string name="worker_try_join_in_connected_state">Pripojené</string>
     <string name="worker_try_join_in_connecting_state">Pripájanie zariadenia...</string>
     <string name="yesterday">Včera</string>
+    <string name="file_transferring">Počkajte, kým sa prebiehajúce prenosy nedokončia, a skúste to znova</string>
 </resources>

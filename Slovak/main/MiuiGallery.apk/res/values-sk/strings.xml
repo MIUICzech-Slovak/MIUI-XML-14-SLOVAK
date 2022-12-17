@@ -2802,4 +2802,7 @@ Do %1$s môžete svoje položky presunúť do Fotiek Google alebo si ich stiahnu
     <string name="yuzhitiaojie">Upravenie hrúbky</string>
     <string name="zi_ding_yi_wenben">Vlastná veľkosť</string>
     <string name="zman_title">Bezpečné zdieľanie</string>
+    
+<string name="equivalent_focal_length">(ekvivalentná ohnisková vzdialenosť %dmm)</string>
+    
 </resources>

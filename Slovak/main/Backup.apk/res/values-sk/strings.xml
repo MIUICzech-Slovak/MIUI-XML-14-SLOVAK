@@ -897,4 +897,25 @@ Veľkosť: %2$s"</string>
 Veľkosť Delta aktualizácie: %2$s"</string>
     <string name="xiaomi_update_dialog_title">Dostupná aktualizácia</string>
     <string name="yesterday">Včera</string>
+    
+<string name="broken_screen_rescue_service">Zálohy s poškodenou obrazovkou</string>
+     <string name="broken_screen_rescue_service_content">"Táto funkcia vám umožňuje zálohovať položky pomocou kábla USB, keď je obrazovka vášho zariadenia poškodená alebo nereaguje. Ak chcete zálohovať položky, keď obrazovka nereaguje, zapnite túto funkciu, keď obrazovka stále funguje správne."</string>
+     <string name="broken_screen_rescue_service_disable">Vypnúť zálohovanie s poškodenou obrazovkou</string>
+     <string name="broken_screen_rescue_service_enable">Zapnúť zálohovanie s poškodenou obrazovkou</string>
+     <string name="broken_screen_rescue_service_learn_subcontent1">Požiadajte ktorúkoľvek osobu z vašich kontaktov, aby vám poslala správu SMS v nasledujúcom formáte, ktorý nahradí písmená zámkom obrazovky: *#*#SCREENLOCK#*#*.</string>
+     <string name="broken_screen_rescue_service_learn_subcontent2">Po odoslaní správy pripojte toto zariadenie k počítaču cez USB a začnite zálohovať položky.</string>
+     <string name="broken_screen_rescue_service_learn_subtitle1">Aktivovať túto funkciu</string>
+     <string name="broken_screen_rescue_service_learn_subtitle2">Zálohovať položky</string>
+     <string name="broken_screen_rescue_service_learn_title">Ako používať túto funkciu</string>
+     <string name="broken_screen_rescue_service_tips_1">"%1$d. Ak je vaša zámka obrazovky %2$d, správa by mala vyzerať takto: *#*#%3$d#*#*. Ak používate heslo ktorá obsahuje písmená aj číslice, požiadajte druhú osobu, aby to bez vynechania zahrnula do správy."</string>
+     <string name="broken_screen_rescue_service_tips_2">"%1$d. Ak používate vzor, môže byť v správe reprezentovaný číslicami. Bodka v ľavom hornom rohu je %2$d. Číslovanie ide zľava doprava, riadok po riadku a končí %3$d v pravom dolnom rohu."</string>
+     <string name="broken_screen_rescue_service_tips_3">"%1$d. Ak nepoužívate zámok obrazovky, použite namiesto znakov, ktoré ho predstavujú v správe, \"nopassword\"."</string>
+     <string name="broken_screen_rescue_service_tips_4">"%1$d. Na aktiváciu tejto funkcie budete mať iba %2$d pokusov. Uistite sa, že SMS správa, ktorú druhá osoba posiela, je správna a že táto osoba je vo vašich kontaktoch uspieť."</string>
+     <string name="broken_screen_rescue_service_tips_5">%1$d. Odporúčame, aby ste túto funkciu používali v prítomnosti našich pracovníkov zákazníckej podpory.</string>
+     <string name="broken_screen_rescue_service_tips_6">"%1$d. Ak nemôžete zálohovať položky do počítača, môžete sa dozvedieť, ako tento problém vyriešiť v našej dokumentácii pomocníka."</string>
+     <string name="broken_screen_rescue_service_tips_title">Tipy</string>
+     <string name="broken_screen_rescue_service_turn_off">Vypnúť</string>
+     <string name="broken_screen_rescue_service_turn_off_confirm">Chcete teraz vypnúť zálohovanie s poškodenou obrazovkou?</string>
+     <string name="broken_screen_rescue_service_turn_on">Zapnúť</string>
+     <string name="broken_screen_rescue_service_turn_on_confirm">Chcete teraz zapnúť zálohovanie s poškodenou obrazovkou?</string>    
 </resources>

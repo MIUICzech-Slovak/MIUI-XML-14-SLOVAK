@@ -580,4 +580,20 @@
     <string name="xiaomi_deskclock_uninstall_description_title">Odinštalovať Hodiny?</string>
     <string name="yesterday">Včera</string>
     <string name="your_sounds">Moje zvuky</string>
+    
+    <string name="miui_clock_city_name_local">Lokálne</string>
+    <string name="miui_clock_city_name_second">Druhé hodiny</string>
+  <string name="miui_lock_screen_date">EEE, d MMM</string>
+  <string name="miui_lock_screen_date_12">EEE, d MMM</string>
+  <string name="miui_lock_screen_date_two_lines">"EEE
+d MMM"</string>
+  <string name="miui_lock_screen_date_two_lines_12">"EEE
+d MMM"</string>
+  <string name="miui_lock_screen_large_date">"EEE
+d.MM."</string>
+  <string name="miui_lock_screen_large_date_12">"EEE
+d.MM."</string>   
+
+<string name="force_start_permission_desc">Povoliť, aby budíky fungovali normálne aj po zatvorení aplikácie</string>
+     <string name="force_start_permission_title">Automatické spustenie</string>
 </resources>

@@ -1377,7 +1377,7 @@ ale obsah ktorý hľadáte nie je dostupný vo vašej krajine."</string>
      <string name="large_icon_no_more">Zatiaľ tu nič nie je</string>
      <string name="large_icon_no_network">Nepodarilo sa pripojiť k sieti</string>
      <string name="large_icon_not_support">Nie je možné nastaviť ikony pre %s</string>
-     <string name="large_icon_official">Oficiálne</string>
+     <string name="large_icon_official">Predvolené</string>
      <string name="large_icon_picker_haven">Dostupné ikony</string>
      <string name="large_icon_picker_more">Viac</string>
      <string name="large_icon_picker_size">Veľkosť ikony</string>
@@ -1387,4 +1387,12 @@ ale obsah ktorý hľadáte nie je dostupný vo vašej krajine."</string>
      <string name="large_icon_warning_not_install_msg">Nainštalujte %s, aby ste mohli používať ikonu Super. Inštalovať teraz?</string>
      <string name="show_mamual_hide_large_icons">Zobraziť skryté super ikony</string>
      <string name="theme_component_title_large_icon">Super ikony</string>    
+     
+<string name="dynamic_large_icon_not_support_current_type">%s nie je pre túto dynamickú ikonu podporované</string>
+     <string name="large_icon_detail_warning_dialog_btn_keep">Super ikony</string>
+     <string name="large_icon_detail_warning_dialog_btn_not_keep">Predvolené ikony</string>
+     <string name="large_icon_detail_warning_dialog_msg">Niektoré aplikácie používajú super ikony. Naďalej používať super ikony alebo sa vrátiť k predvoleným ikonám motívu?</string>
+     <string name="large_icon_detail_warning_dialog_title">Nastavenia super ikon</string>
+<string name="large_icon_not_support_current_type">%s nie je pre túto ikonu podporované</string>
+     <string name="large_icon_theme">Témy</string>      
 </resources>

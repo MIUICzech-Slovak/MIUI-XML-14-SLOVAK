@@ -1130,4 +1130,17 @@ Postupujte podľa pokynov"</item>
         <item>Mierka animácie 5x</item>
         <item>Mierka animácie 10x</item>
     </string-array>
+<string-array name="tabs_taptic_detail_m2">
+         <item>Chrumkavé</item>
+         <item>Plné</item>
+     </string-array>
+     <string-array name="typing_style_entries">
+         <item>Štandardné</item>
+         <item>Dotyk</item>
+         <item>Priamy dotyk</item>
+     </string-array>
+     <string-array name="wifi_hidden_gbk_entries">
+         <item>Nie</item>
+         <item>Áno</item>
+     </string-array>    
 </resources>

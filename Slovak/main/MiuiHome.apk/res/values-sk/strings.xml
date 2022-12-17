@@ -780,4 +780,15 @@ Zvýšená bezpečnosť."</string>
     <string name="widget_quick_function">Skratky</string>
     <string name="widgets_preview_title">Pridať widget</string>
     <string name="yesterday">Včera</string>
+    
+    <string name="app_set_icon">Nastaviť ikonu</string>
+    <string name="edit_folder">Upraviť zložku</string>    
+    
+<string name="app_edit_icon">Upraviť ikonu</string>
+     <string name="dock_and_folder_not_edit_icon_tip">Ak chcete upraviť, najprv presuňte aplikáciu z doku a priečinka</string>
+     <string name="dock_not_edit_icon_tip">Ak chcete upraviť, najprv presuňte aplikáciu z doku</string>
+     <string name="fold_pair_install_shortcut_launcher_success">Úspešne vytvorené</string>
+     <string name="folder_not_edit_icon_tip">Ak chcete upraviť, najprv presuňte aplikáciu z priečinka</string>
+     <string name="recent_menu_item_add_pair">Vytvorte odkaz na ploche pre túto kombináciu rozdelenej obrazovky</string>
+     <string name="recent_menu_item_add_pair_first_toast">Vytvorte odkaz na ploche pre túto kombináciu rozdelenej obrazovky</string>                  
 </resources>

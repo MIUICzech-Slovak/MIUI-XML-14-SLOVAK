@@ -7768,4 +7768,8 @@ Nastavenie telefónu môže vyžadovať prenos významného množstva dát."</st
      <string name="network_auto_switch">Prepínanie medzi sieťami</string>
      <string name="network_auto_switch_summery">Prepnúť na mobilné dáta, keď je signál Wi-Fi slabý alebo sieť nie je dostupná</string>
      <string name="solid_text">Používa nízkofrekvenčnú hmatovú spätnú väzbu a zodpovedajúce vizuálne prechody na vytvorenie solídneho a výkonného zážitku z gest</string>
+     
+    <string name="lock_screen_now">Zámok obrazovky</string>
+    <string name="swipe_up_to_continue_using">Potiahnite nahor pre pokračovanie</string>
+    <string name="swipe_up_to_continue_using_summary">Uzamknúť po %ds bez aktivity</string>         
 </resources>

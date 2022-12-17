@@ -7776,4 +7776,7 @@ Nastavenie telefónu môže vyžadovať prenos významného množstva dát."</st
     <string name="wifi_primary">Primárna sieť</string>
     <string name="multi_network_acceleration_summery">Pripojte sa k viacerým sieťam Wi-Fi súčasne, pre zvýšenie rýchlosti</string>      
     <string name="search_result_feedback_text">Viac sa nenašlo</string>
+    
+<string name="assistance_category_title">Uľahčenie prístupu</string>
+<string name="search_accessibility_settings">Uľahčenie prístupu</string>    
 </resources>

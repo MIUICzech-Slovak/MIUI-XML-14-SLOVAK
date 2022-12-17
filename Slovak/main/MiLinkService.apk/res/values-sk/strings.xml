@@ -350,8 +350,8 @@ Pred použitím tejto funkcie si prečítajte a vyjadrite súhlas s našimi zmlu
 <string name="appcirculate_fragment_circulate_app_content_description">Ukážka: %1$s</string>
       <string name="appcirculate_fragment_circulate_device_card_button">Zapnúť</string>
       <string name="appcirculate_fragment_circulate_device_card_subtitle">Pomoc</string>
-      <string name="appcirculate_fragment_circulate_device_card_switch_subtitle">„Zapnite, ak chcete nájsť zariadenia v okolí
-a prehrávať na nich zvuk a video“</string>
+      <string name="appcirculate_fragment_circulate_device_card_switch_subtitle">Zapnite, ak chcete nájsť zariadenia v okolí
+a prehrávať na nich zvuk a video</string>
       <string name="appcirculate_fragment_circulate_device_card_switch_title_1">Zapnite Wi-Fi a Bluetooth</string>
       <string name="appcirculate_fragment_circulate_device_card_switch_title_1_global">Zapnite Wi-Fi a Bluetooth</string>
       <string name="appcirculate_fragment_circulate_device_card_switch_title_2">Zapnite Bluetooth</string>
@@ -520,10 +520,10 @@ a prihláste sa do svojho účtu Xiaomi"</string>
       <string name="expand_button_title">Rozšírené</string>
       <string name="exposed_dropdown_menu_content_description">Zobraziť rozbaľovaciu ponuku</string>
       <string name="find_device_close">Zavrieť</string>
-      <string name="find_device_notification_content">„%2$s z %1$s“ hľadá toto %3$s, odomknite a prestaňte zvoniť</string>
-      <string name="find_device_notification_content_single">„%1$s“ hľadá toto %2$s, odomknite a prestaňte zvoniť</string>
-      <string name="find_device_popup_content">„%2$s z %1$s“ hľadá toto %3$s</string>
-      <string name="find_device_popup_content_single">„%1$s“ hľadá toto %2$s</string>
+      <string name="find_device_notification_content">%2$s z %1$s hľadá toto %3$s, odomknite a prestaňte zvoniť</string>
+      <string name="find_device_notification_content_single">%1$s hľadá toto %2$s, odomknite a prestaňte zvoniť</string>
+      <string name="find_device_popup_content">%2$s z %1$s hľadá toto %3$s</string>
+      <string name="find_device_popup_content_single">%1$s hľadá toto %2$s</string>
       <string name="find_device_title">Zariadenie zvoní</string>
       <string name="global_privacy_screencast">Počas nahrávania alebo prenášania môže služba poskytujúca túto funkciu zachytiť akékoľvek citlivé informácie, ktoré sa zobrazujú na obrazovke alebo prehrávajú z vášho zariadenia, vrátane citlivých informácií, ako sú zvuk, heslá, platobné údaje, fotografie a správy.</string>
       <string name="guide_confirm_button_text">Začať</string>
@@ -545,7 +545,7 @@ a prihláste sa do svojho účtu Xiaomi"</string>
       <string name="menu_new_display_open">Otvoriť v novom okne</string>
       <string name="menu_pc_open">Otvorte pomocou počítačového programu</string>
       <string name="miplay_detail_divider_title">Reproduktory</string>
-      <string name="miplay_detail_header_no_song">Žiadne prehrávanie</string>
+      <string name="miplay_detail_header_no_song">Žiadne</string>
       <string name="miplay_headset_lc3_hint">Vypnutím režimu LC3 prepnete výstup zvuku späť na toto zariadenie.</string>
       <string name="miplay_service_timeout_toast">Časový limit pripojenia vypršal. Skúste to znova.</string>
       <string name="miplay_song_title_empty">Nie sú tu žiadne položky</string>
@@ -576,7 +576,7 @@ a prihláste sa do svojho účtu Xiaomi"</string>
       <string name="mr_user_route_category_name">Zariadenia</string>
       <string name="msg_send_fail">"Údaje sa nepodarilo preniesť"</string>
       <string name="no_permission">"Túto stránku nie je možné zobraziť"</string>
-      <string name="normal_device_desc">„Zariadenia, ku ktorým ste sa pripojili, ale neoznačili ste ich ako dôveryhodné“</string>
+      <string name="normal_device_desc">Zariadenia, ku ktorým ste sa pripojili, ale neoznačili ste ich ako dôveryhodné</string>
       <string name="normal_device_desc_limit">"Zariadenia, ku ktorým ste sa pripojili, ale neoznačili ste ich ako dôveryhodné"</string>
       <string name="normal_device_none">Nie sú tu žiadne predtým pripojené zariadenia</string>
       <string name="normal_device_title">Nedôveryhodné zariadenia</string>
@@ -605,9 +605,9 @@ a prihláste sa do svojho účtu Xiaomi"</string>
       <string name="privacy_revoke_confirm_cancel">Zrušiť</string>
       <string name="privacy_revoke_confirm_message">"Nebudete môcť naďalej používať funkcie prenášania, pokiaľ nám nepovolíte poskytovať naše služby založené na zhromažďovaní potrebných osobných informácií. Napriek tomu odvolať súhlas s pravidlami ochrany osobných údajov HappyCast?"</string >
       <string name="privacy_revoke_confirm_sure">OK</string>
-      <string name="privacy_revoke_confirm_title">„Služby sa nedajú používať“</string>
+      <string name="privacy_revoke_confirm_title">Služby sa nedajú používať</string>
       <string name="privacy_revoke_dialog_agree">Súhlasím</string>
-      <string name="privacy_revoke_dialog_message">"Ak budete pokračovať, odvoláte svoj súhlas so Zásadami ochrany osobných údajov spoločnosti HappyCast. Osobné údaje, ktoré už boli zhromaždené a uchovávané, budú vymazané počas konkrétneho obdobia v súlade s platnými zákonmi a predpismi, pokiaľ sa nebude vyžadovať inak . Keďže HappyCast poskytuje svoje služby na základe zhromažďovania potrebných osobných údajov, vaše odvolanie súhlasu sa bude považovať za odmietnutie prijatia služieb HappyCast. Odvolať súhlas teraz?“</string>
+      <string name="privacy_revoke_dialog_message">"Ak budete pokračovať, odvoláte svoj súhlas so Zásadami ochrany osobných údajov spoločnosti HappyCast. Osobné údaje, ktoré už boli zhromaždené a uchovávané, budú vymazané počas konkrétneho obdobia v súlade s platnými zákonmi a predpismi, pokiaľ sa nebude vyžadovať inak . Keďže HappyCast poskytuje svoje služby na základe zhromažďovania potrebných osobných údajov, vaše odvolanie súhlasu sa bude považovať za odmietnutie prijatia služieb HappyCast. Odvolať súhlas teraz?</string>
       <string name="privacy_revoke_dialog_revoke">Vybrať</string>
       <string name="privacy_revoke_dialog_title">Odvolanie súhlasu</string>
       <string name="privacy_setting_category_1">Zásady ochrany osobných údajov</string>
@@ -674,5 +674,5 @@ uistite sa, že balík obsahuje najnovšie verzie všetkých aplikácií."</stri
 <string name="miplay_mini_card_no_song_but_attached_hint">O prehrávaní zvuku na %1$s</string>
      <string name="miplay_mini_card_no_song_pad_title">Zvuk pre tablet</string>
      <string name="miplay_mini_card_no_song_subtitle">Žiadne prehrávanie</string>
-     <string name="miplay_mini_card_no_song_title">Zvuk telefónu</string>          
+     <string name="miplay_mini_card_no_song_title">Zvuk</string>          
 </resources>

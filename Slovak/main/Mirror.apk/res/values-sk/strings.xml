@@ -337,4 +337,30 @@ pokračovať“</string>
     <string name="worker_try_join_in_connecting_state">Pripájanie zariadenia...</string>
     <string name="yesterday">Včera</string>
     <string name="file_transferring">Počkajte, kým sa prebiehajúce prenosy nedokončia, a skúste to znova</string>
+    
+<string name="enable_wifi_alert_message_for_photo_relay">MIUI+ vám umožňuje plynule prepínať medzi zariadeniami, keď potrebujete upraviť fotografie nasnímané telefónom na tablete. Zapnúť Wi-Fi, aby ste použili handoff?</string>
+     <string name="global_cta_agree">Súhlasím</string>
+     <string name="global_cta_desc">Vitajte v %s! Naša aplikácia poskytuje nasledujúce služby:</string>
+     <string name="global_cta_exit">Nesúhlasím</string>
+     <string name="global_cta_feature_connect">Pripojenie telefónov a tabletov pomocou účtu Xiaomi</string>
+     <string name="global_cta_feature_control">Zobrazenie a používanie aplikácií smartfónu na tablete</string>
+     <string name="global_cta_user_agreement">Pred použitím %1$s si prečítajte a vyjadrite súhlas so Zmluvou s používateľom a Zásady ochrany osobných údajov.</string>
+     <string name="login_xiaomi_account_cancel">Zrušiť</string>
+     <string name="login_xiaomi_account_goto_login">Prihlásiť sa</string>
+     <string name="login_xiaomi_account_summary_phone">Ak sa chcete pripojiť k iným tabletom, použite rovnaký účet Xiaomi na oboch pripojených zariadeniach. Prihlásiť sa teraz?</string>
+     <string name="login_xiaomi_account_title">Prihláste sa do účtu Xiaomi</string>
+     <string name="notification_state_cancel">Odpojiť</string>
+     <string name="notification_state_content">Toto zariadenie je pripojené k počítaču používateľa %1$s. Teraz môžete zdieľať vstupné zariadenia, súbory a obrázky.</string>
+     <string name="notification_state_title">Úspešne pripojené</string>
+     <string name="share_pc_abort_dialog_message">Uistite sa, že Bluetooth a Wi-Fi sú na oboch zariadeniach zapnuté a znova spustite program na počítači.</string>
+     <string name="share_pc_abort_dialog_ok">Rozumiem</string>
+     <string name="share_pc_abort_dialog_title">Pripojenie bolo prerušené</string>
+     <string name="share_pc_file_transfer_finish">Úspešne prenesené</string>
+     <string name="share_pc_folder_error_dialog_message">Prenášanie priečinkov presúvaním nie je momentálne podporované.</string>
+     <string name="share_pc_folder_error_dialog_ok">Rozumiem</string>
+     <string name="share_pc_folder_error_dialog_title">Nepodarilo sa preniesť</string>
+     <string name="share_pc_folder_multi_error_dialog_message">Vybraté súbory boli úspešne prenesené. Prenos priečinkov momentálne nie je podporovaný.</string>
+     <string name="share_pc_folder_multi_error_dialog_ok">Rozumiem</string>
+     <string name="share_pc_folder_multi_error_dialog_title">Nepodarilo sa preniesť všetky položky</string>
+                    
 </resources>

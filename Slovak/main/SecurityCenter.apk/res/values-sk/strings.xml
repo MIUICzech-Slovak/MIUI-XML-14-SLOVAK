@@ -5714,4 +5714,5 @@ Skúste zväčšiť rozlíšenie!"</string>
     <string name="xspace_warning_dialog_title">Upozornenie</string>
     <string name="xunyou_server_expired">Relácia vypršala.</string>
     <string name="yesterday">Včera</string>
+    <string name="pc_high_temp_protection_noti_summary2">Nie je možné použiť hotspot</string>
 </resources>

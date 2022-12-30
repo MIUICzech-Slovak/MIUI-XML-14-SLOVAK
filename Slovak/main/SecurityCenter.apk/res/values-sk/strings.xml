@@ -5715,4 +5715,17 @@ Skúste zväčšiť rozlíšenie!"</string>
     <string name="xunyou_server_expired">Relácia vypršala.</string>
     <string name="yesterday">Včera</string>
     <string name="pc_high_temp_protection_noti_summary2">Nie je možné použiť hotspot</string>
+    
+<string name="app_behavior_record_cancel">Zrušiť</string>
+     <string name="app_behavior_record_close">Vypnúť</string>
+     <string name="app_behavior_record_close_title">Vypnúť</string>
+     <string name="app_behavior_record_hide_system">Skryť systémové aplikácie</string>
+     <string name="app_behavior_record_open">Zapnúť</string>
+     <string name="app_behavior_record_open_content_text">Záznamy správania aplikácií ukazujú, čo aplikácie robia, a pomáhajú vám vyhnúť sa bezpečnostným rizikám.</string>
+     <string name="app_behavior_record_show_system">Zobraziť systémové aplikácie</string>
+     <string name="global_dock_guide_desc_with_split_screen">"· Klepnutím na aplikáciu na bočnom paneli ju otvoríte v plávajúcom okne.
+· Potiahnutím aplikácie do stredu obrazovky ju otvoríte v plávajúcom okne alebo do strany, ak chcete použiť rozdelenú obrazovku.
+· Stlačením a podržaním indikátora posuniete okno."</string>
+     <string name="global_dock_guide_desc_without_split_screen">"· Klepnutím na aplikáciu na bočnom paneli ju otvoríte v plávajúcom okne.
+· Stlačením a podržaním indikátora posuniete okno."</string>    
 </resources>

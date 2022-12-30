@@ -534,4 +534,7 @@ Pred použitím tejto funkcie musíte súhlasiť so Zásadami ochrany osobných 
     <string name="withdraw_consent">Ak svoj súhlas odvoláte, služby Dennej tapety budú deaktivované.</string>
     <string name="yesterday">Včera</string>
     <string name="zone_picker_title">Vyberte časovú zónu</string>
+    
+    <string name="congratulation_pre_label">Načítavanie...</string>
+    <string name="congratulation_pre_title">Príprava systému...</string>    
 </resources>

@@ -7779,4 +7779,7 @@ Nastavenie telefónu môže vyžadovať prenos významného množstva dát."</st
     
 <string name="assistance_category_title">Uľahčenie prístupu</string>
 <string name="search_accessibility_settings">Uľahčenie prístupu</string>    
+
+<string name="freeform_guide_vedio_description">Kliknutím na aplikáciu na bočnom paneli ju otvoríte v plávajúcom okne</string>
+
 </resources>

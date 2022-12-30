@@ -1048,4 +1048,9 @@ Dajte si pauzu!"</item>
         <item quantity="other">Vírusy: %d</item>
         <item quantity="one">Vírusy: %d</item>
     </plurals>
+    
+<plurals name="app_behavior_record_close_content_text">
+         <item quantity="other">Záznamy správania aplikácie sú v tomto zariadení uložené %d dní. Ak túto funkciu vypnete, nové záznamy sa už nebudú zobrazovať a staré budú vymazané. Napriek tomu vypnúť?</item>
+         <item quantity="one">Záznamy správania aplikácie sú v tomto zariadení uložené %d deň. Ak túto funkciu vypnete, nové záznamy sa už nebudú zobrazovať a staré budú vymazané. Napriek tomu vypnúť?</item>
+     </plurals>    
 </resources>

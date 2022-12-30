@@ -831,4 +831,7 @@ Uistite sa, že nezabudnete odpovede na otázky."</string>
     <string name="wipe_data_dialog_msg_separator">, </string>
     <string name="wipe_data_dialog_title">Niektoré položky neboli synchronizované.</string>
     <string name="yesterday">Včera</string>
+    
+    <string name="confirm_bundled_phone_dialog_confirm">Potvrdiť</string>
+    <string name="confirm_bundled_phone_dialog_confirm_timer">Potvrdiť (%ds)</string>    
 </resources>

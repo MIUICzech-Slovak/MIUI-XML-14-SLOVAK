@@ -138,5 +138,8 @@
     <string name="theme_pals">Priatelia</string>
     <string name="widget_files_pin_desc">Pripnite často používané súbory</string>
     <string name="widget_files_pin">Časté súbory</string>
-                                                                  
+    <string name="widget_pals_cat">Mačiatko</string>
+    <string name="widget_pals_cat_desc">Mňau ~ Nevyrušuj ma keď spím...</string>
+    <string name="widget_pals_dog">Šteniatko</string>
+    <string name="widget_pals_dog_desc">Haf ~ hraj sa so mnou!</string>                                                                  
 </resources>

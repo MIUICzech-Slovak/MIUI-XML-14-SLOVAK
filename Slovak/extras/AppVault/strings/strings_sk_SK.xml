@@ -39,14 +39,11 @@
     <string name="widget_apps">Aplikácie s podporou miniaplikácií</string>
     <string name="widget_appvault_shortcuts">Skratky</string>
     <string name="widget_appvault_shortcuts_desc">Rýchly štart často používaných aplikácií a funkcií</string>
-    <string name="widget_appvault_smart_shortcuts">Návrhy aplikácií</string>
     <string name="widget_appvault_smart_shortcuts_desc">Rýchly štart často používaných aplikácií a funkcií</string>
     <string name="widget_calendar_agenda">Nadchádzajúce udalosti</string>
-    <string name="widget_calendar_agenda_desc">Zobraziť informácie o nadchádzajúcich udalostiach</string>
     <string name="widget_calendar_agenda_special">Špeciálne udalosti</string>
     <string name="widget_calendar_agenda_special_desc">Zobraziť narodeniny, odpočítavanie a výročia</string>
     <string name="widget_calendar_countdown">Odpočítavanie</string>
-    <string name="widget_calendar_countdown_desc">Zobraziť informácie o odpočítavaní</string>
     <string name="widget_calendar_date">Dátum</string>
     <string name="widget_calendar_date_desc">Zobraziť informácie o dnešnom dátume</string>
     <string name="widget_clock_dual">Dvojité hodiny</string>
@@ -86,7 +83,6 @@
     <string name="widget_security_optimize">Zabezpečenie</string>
     <string name="widget_security_optimize_desc">Zobrazenie informácií o zabezpečení a optimalizácia zariadenia</string>
     <string name="widget_settings_usage_stats">Čas pred obrazovkou</string>
-    <string name="widget_settings_usage_stats_desc">Zobraziť štatistiky používania aplikácie</string>
     <string name="widget_smarthome_control">Skratky zariadenia</string>
     <string name="widget_smarthome_control_desc">Zobrazenie a ovládanie inteligentných zariadení vo vašej domácnosti</string>
     <string name="widget_weather_forecast">Predpoveď</string>
@@ -135,5 +131,12 @@
     <string name="widget_smarthome_environment_desc">Zobraziť teplotu, vlhkosť a kvalitu vzduchu u vás doma</string>
     <string name="widget_smarthome_environment">Informácie o prostredí</string>
     <string name="widget_weather_aqi">Kvalita vzduchu</string>
-    <string name="widget_weather_aqi_desc">Zobraziť AQI</string>                                                        
+    <string name="widget_weather_aqi_desc">Zobraziť AQI</string>         
+    
+    <string name="app_files">Súbory</string>
+    <string name="app_mifitness">Mi Fitnes</string>
+    <string name="theme_pals">Priatelia</string>
+    <string name="widget_files_pin_desc">Pripnite často používané súbory</string>
+    <string name="widget_files_pin">Časté súbory</string>
+                                                                  
 </resources>

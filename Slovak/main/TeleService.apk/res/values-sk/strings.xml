@@ -2011,4 +2011,5 @@ Ak sa rozhodnete uprednostňovať mobilné siete, budú sa predvolene používa�
     <string name="xdivert_summary">CFNRc Nastavenia</string>
     <string name="xdivert_title">X-Divert</string>
     <string name="yesterday">Včera</string>
+<string name="no_voice_capability">Nepodarilo sa spojiť s operátorom. Počkajte minútu alebo dve a skúste to znova.</string>    
 </resources>

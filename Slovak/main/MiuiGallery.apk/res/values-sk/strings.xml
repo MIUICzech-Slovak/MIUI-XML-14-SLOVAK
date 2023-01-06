@@ -2804,5 +2804,32 @@ Do %1$s môžete svoje položky presunúť do Fotiek Google alebo si ich stiahnu
     <string name="zman_title">Bezpečné zdieľanie</string>
     
 <string name="equivalent_focal_length">(ekvivalentná ohnisková vzdialenosť %dmm)</string>
+
+<string name="blur_refocus_enter">Bokeh</string>
+     <string name="burst_photo_enter">Séria</string>
+<string name="delete_media_for_cloud">Vybraté položky budú odstránené z cloudu a zo všetkých synchronizovaných zariadení s nedávno odstránenými položkami.</string>
+     <string name="doc_photo_enter">Upraviť v dokumente</string>
+     <string name="edit_subtitle_enter">Upraviť titulky</string>
+<string name="first_delete_media_for_cloud">Vybraté položky budú odstránené z cloudu a všetkých synchronizovaných zariadení s nedávno odstránenými položkami a budú natrvalo odstránené po %d dňoch, pokiaľ nemáte plán cloudového úložiska. Chcete ho napriek tomu odstrániť?</string>
+<string name="permission_post_notification_desc">Na odosielanie upozornení na zdieľané albumy a aktualizáciu stavu synchronizácie</string>
+<string name="permission_read_media_images_desc">Na prístup k fotografiám a videám a ich ukladanie počas používania Galérie</string>
+     <string name="share_album_risk_control_invalid_name">Tento názov albumu sa nedá použiť. Vyberte iný a skúste to znova.</string>
+     <string name="share_album_risk_control_tip_off">Nahlásiť</string>
+     <string name="share_album_risk_control_tip_off_cate">Typ obsahu</string>
+     <string name="share_album_risk_control_tip_off_cate_illegal">Nezákonné</string>
+     <string name="share_album_risk_control_tip_off_cate_other">Iné</string>
+     <string name="share_album_risk_control_tip_off_cate_political">Politické</string>
+     <string name="share_album_risk_control_tip_off_cate_sex">Sexuálny</string>
+     <string name="share_album_risk_control_tip_off_cate_violence">Násilné</string>
+     <string name="share_album_risk_control_tip_off_dialog_message">Ak nahlásite obsah zdieľaného albumu, bude ho môcť zobraziť iba osoba, ktorá tento obsah odovzdala. Nahlásiť teraz?</string>
+     <string name="share_album_risk_control_tip_off_dialog_title">Nahlásiť</string>
+     <string name="share_album_risk_control_tip_off_select">Vyberte typ obsahu</string>
+     <string name="share_album_risk_control_tip_off_success">Úspešne nahlásené</string>
+     <string name="share_album_risk_control_too_many_albums">Nie je možné vytvoriť viac zdieľaných albumov</string>
+     <string name="share_album_risk_control_too_many_sharers_accept">Nie je možné pridať ďalších členov</string>
+     <string name="share_album_risk_control_too_many_sharers_invite">Nie je možné pozvať ďalších členov</string>
+     <string name="slow_motion_enter">Spomalený pohyb</string>
+     <string name="super_slow_motion_enter">Super spomalený pohyb</string>
+     <string name="video_tags_enter">Zobraziť značky</string>
     
 </resources>

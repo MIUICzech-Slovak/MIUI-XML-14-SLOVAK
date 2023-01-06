@@ -657,4 +657,13 @@
         <item quantity="other">Videá: %d</item>
         <item quantity="one">Videá: %d</item>
     </plurals>
+    
+<plurals name="delete_brust_title">
+         <item quantity="other">Odstrániť %d sériových záberov?</item>
+         <item quantity="one">Odstrániť %d sériový záber?</item>
+     </plurals>
+<plurals name="delete_media_title">
+         <item quantity="other">Odstrániť %d položiek?</item>
+         <item quantity="one">Odstrániť %d položku?</item>
+     </plurals>         
 </resources>

@@ -537,4 +537,6 @@ Pred použitím tejto funkcie musíte súhlasiť so Zásadami ochrany osobných 
     
     <string name="congratulation_pre_label">Načítavanie...</string>
     <string name="congratulation_pre_title">Príprava systému...</string>    
+    
+<string name="miui14_start_up_slogan">Všetko je nastavené!</string>    
 </resources>

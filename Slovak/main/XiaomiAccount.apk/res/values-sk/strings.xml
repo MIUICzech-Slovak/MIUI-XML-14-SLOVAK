@@ -834,4 +834,11 @@ Uistite sa, že nezabudnete odpovede na otázky."</string>
     
     <string name="confirm_bundled_phone_dialog_confirm">Potvrdiť</string>
     <string name="confirm_bundled_phone_dialog_confirm_timer">Potvrdiť (%ds)</string>    
+    
+<string name="current_account_can_use_pwd_login">Zadajte svoje heslo na prihlásenie</string>
+     <string name="keep_phone_ticket_login">Prihláste sa pomocou overovacieho kódu</string>
+     <string name="messenger_send_button_text">Odoslať</string>
+     <string name="phone_ticket_login">Prihláste sa pomocou overovacieho kódu</string>
+     <string name="phone_ticket_register">Vytvorte si účet s telefónnym číslom</string>
+     <string name="use_google_account_login">Prihláste sa pomocou účtu Google</string>    
 </resources>

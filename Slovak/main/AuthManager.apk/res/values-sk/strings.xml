@@ -557,4 +557,9 @@
     <string name="wednesday_shortest">S</string>
     <string name="yes">Áno</string>
     <string name="yesterday">Včera</string>
+    
+<string name="HIPS_Perm_operator_shake">Prístup k údajom akcelerometra</string>
+     <string name="HIPS_Perm_operator_shake_Desc">Údaje akcelerometra sa používajú na sledovanie orientácie a pohybu (napr. trasenie, nakláňanie a otáčanie)</string>
+     <string name="permdesc_shake">Povoliť aplikácii %1$s prístup k údajom akcelerometra?</string>
+         
 </resources>

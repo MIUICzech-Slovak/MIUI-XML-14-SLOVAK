@@ -516,4 +516,34 @@ si zaslúži vlastnú aplikáciu"</string>
     <string name="xspace_uninstalling">Odinštalovanie...</string>
     <string name="xspace_whatsapp_title">WhatsApp</string>
     <string name="yesterday">Včera</string>
+    
+<string name="ent_activating">Prebieha spúšťanie…</string>
+       <string name="ent_activation">Spustiť</string>
+       <string name="ent_activation_hint">Zadaním podnikového kódu spolu s licenčným kódom spustíte Firemný režim. Potom budú povolené vlastné podnikové služby.</string>
+       <string name="ent_activation_hint_whit_licence">"Spustite Firemný režim a povoľte vlastné podnikové služby.
+Uistite sa, že názov vašej spoločnosti je správny. Pred spustením si prečítajte súvisiace zásady ochrany osobných údajov a odsúhlaste ich."</string>
+       <string name="ent_agency_code">Podnikový kód</string>
+       <string name="ent_agency_code_hint">Zadajte podnikový kód</string>
+       <string name="ent_agency_code_invalid">Zadaný podnikový kód je neplatný.</string>
+       <string name="ent_agree_privacy_policy">"Prečítal/a som si zásady ochrany osobných údajov a súhlasím s nimi"</string>
+       <string name="ent_app_verified">Zdá sa, že vo vašom zariadení sú nainštalované podnikové aplikácie. Spustiť Firemný režim?</string>
+       <string name="ent_confirm_dialog_content">"Po spustení Firemného režimu sa nebudete môcť vrátiť do súčasného stavu systému. Všetky vaše dáta však budú stále uložené v tomto zariadení. Pre spustenie Firemného režimu budete musieť reštartovať zariadenie. Spustiť teraz?"</string>
+       <string name="ent_disallow_running">Spustenie aplikácie je zakázané</string>
+       <string name="ent_download_install_dialog_content">Aby ste spustili Firemný režim, musíte nainštalovať podnikové aplikácie. Inštalovať teraz?</string>
+       <string name="ent_download_install_dialog_title">Stiahnite si podnikové aplikácie</string>
+       <string name="ent_downloading_message">Sťahovanie %d%%</string>
+       <string name="ent_error_dialog_content">Minimálne jeden zo zadaných kódov bol nesprávny. Skontrolujte svoje podnikové a licenčné kódy a zadajte ich znova.</string>
+       <string name="ent_get_code_hint">Podnikové a licenčné kódy môžete získať od svojho nadriadeného</string>
+       <string name="ent_install_dialog_content">Inštalovať aplikácie a reštartovať zariadenie teraz?</string>
+       <string name="ent_installing">Inštalácia…</string>
+       <string name="ent_invalid_agency">Kód spoločnosti je neplatný.</string>
+       <string name="ent_invalid_qr">Kód QR je neplatný.</string>
+       <string name="ent_licence_code">Licenčný kód</string>
+       <string name="ent_licence_code_hint">Zadajte licenčný kód</string>
+       <string name="ent_licence_code_invalid">Zadaný licenčný kód je neplatný.</string>
+       <string name="ent_mode_activated">Je aktivovaný Firemný režim</string>
+       <string name="ent_network_error">Nie je možné sa pripojiť k sieti. Skontrolujte nastavenia siete a skúste to znova.</string>
+       <string name="ent_next_step">Ďalší</string>
+       <string name="ent_privacy_policy_notice">* Osobné údaje sú v tomto režime zhromažďované v súlade so zásadami stanovenými vašou spoločnosťou. Xiaomi v tomto režime nezhromažďuje osobné údaje.</string>
+       <string name="enterprise_mode">Firemný režim</string>    
 </resources>

@@ -536,7 +536,7 @@ Uistite sa, že ako systémový účet MIUI používate aktuálny účet Mi."</s
     <string name="user_protocol_and_privacy_protocol">Prečítal som si Podmienky používania a Ochranu súkromia.</string>
     <string name="v7_preference_off">VYPNUTÉ</string>
     <string name="v7_preference_on">ZAPNUTÉ</string>
-    <string name="večer">Popoludnie</string>
+    <string name="evening">Popoludnie</string>
     <string name="video_picker_title">Vyberte videá</string>
     <string name="view_type">Zobraziť</string>
     <string name="vip_info">VIP: %1$s</string>

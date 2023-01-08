@@ -375,7 +375,7 @@
     <string name="battery_info_status_unknown">Neznáme</string>
     <string name="battery_low_button_not_open_power_save">Neskôr</string>
     <string name="battery_low_button_open_power_save">Povoliť</string>
-    <string name="battery_low_percent_format">ostáva %d%%</string>
+    <string name="battery_low_percent_format">ostáva %s</string>
     <string name="battery_low_percent_format_hybrid">Zostáva %1$s, približne %2$s v závislosti od intenzity využitia</string>
     <string name="battery_low_percent_format_hybrid_short">Zostáva %1$s, približne %2$s</string>
     <string name="battery_low_percent_format_save_mode_closed">Ostáva menej ako %d%% batérie. Pripojte nabíjačku.</string>
@@ -1266,7 +1266,7 @@ Ak chcete získať inú SIM kartu, kontaktujte svojho poskytovateľa bezdrôtov�
     <string name="kg_sim_pin_instructions">Zadajte PIN pre SIM kartu</string>
     <string name="kg_sim_pin_instructions_multi">Zadajte kód PIN pre SIM kartu operátora %1$s.</string>
     <string name="kg_sim_unlock_progress_dialog_message">Prebieha odomykanie SIM karty…</string>
-    <string name="kg_too_many_failed_attempts_countdown">Skúste to znova o %d s.</string>
+    <string name="kg_too_many_failed_attempts_countdown">{count, plural, =1 {Skúste to znova o # s.} other {Skúste to znova o # s.} }</string>
     <string name="kg_too_many_failed_password_attempts_dialog_message">"Už %1$d-krát ste zadali nesprávne heslo. 
 
 Skúste to znova o %2$d s."</string>

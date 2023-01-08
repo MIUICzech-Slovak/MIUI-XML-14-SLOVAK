@@ -389,7 +389,7 @@ Pošlite tento kód technikovi."</string>
     <string name="restore_home_screen_apps_options">"Možnosti zálohovania
 %s"</string>
     <string name="restore_init_description">Spustiť obnovu</string>
-    <string name="restore_network_pause">%s (Dotykom budete pokračovať)</string>
+    <string name="restore_network_pause">Pozastavené kvôli šetreniu dát. Dotknite sa pre pokračovanie.</string>
     <string name="restore_network_unconnect">%s (Čakanie na pripojenie)</string>
     <string name="restore_prepare_item_type_enable">Dostupné zálohy</string>
     <string name="restore_prepare_item_type_other">Ostatné zálohy</string>

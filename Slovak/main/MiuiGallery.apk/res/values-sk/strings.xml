@@ -329,7 +329,7 @@ Pripojte nabíjačku a vypnite obrazovku, aby sa objavili spomienky."</string>
     <string name="backup_only_wifi_dialog_message">Použiť mobilné dáta na zálohovanie fotografií a videí?</string>
     <string name="backup_pause">Pozastaviť</string>
     <string name="backup_pause_dialog_title">Zastaviť synchr.</string>
-    <string name="backup_pause_title">Zálohovať o %s</string>
+    <string name="backup_pause_title">Synch. je pozastavená</string>
     <string name="backup_pending">Bude zálohované automaticky</string>
     <string name="backup_settings">Synchr. s MiCloud</string>
     <string name="backup_settings_banner_msg_off">Zálohujte si svoje fotografie a videá pomocou Fotiek Google, aby boli všetky vaše spomienky v bezpečí</string>
@@ -1830,7 +1830,7 @@ Pripojte nabíjačku a vypnite obrazovku, aby sa objavili spomienky."</string>
     <string name="photo_editor_miui_beauty_no_face">Nebolo možné rozpoznať tvár</string>
     <string name="photo_editor_mosaic">Mozaika</string>
     <string name="photo_editor_navigator_cancel">Zrušiť</string>
-    <string name="photo_editor_navigator_download_network_metered_msg">Stiahnutie %s vyžaduje 4MB dát. Stiahnuť teraz?</string>
+    <string name="photo_editor_navigator_download_network_metered_msg" formatted="false">Sťahovanie %s vyžaduje okolo %2$d MB dát. Stiahnuť teraz?</string>
     <string name="photo_editor_navigator_download_network_metered_title">Spotreba dát</string>
     <string name="photo_editor_navigator_export">Dokončiť</string>
     <string name="photo_editor_navigator_module_download_failed">Nebolo možné stiahnuť %s</string>

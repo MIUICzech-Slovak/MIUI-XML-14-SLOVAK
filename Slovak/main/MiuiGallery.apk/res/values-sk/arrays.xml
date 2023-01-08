@@ -192,17 +192,20 @@
         <item>Zahmlené okno</item>
         <item>Tech</item>
     </string-array>
-    <string-array name="magic_effects_video_titles">
-        <item></item>
-        <item>Farebný okraj</item>
-        <item>Prerušovaný okraj</item>
-        <item>Fluorescentný okraj</item>
-        <item>Farebný tieň</item>
-        <item>Electrická vlna</item>
-        <item>Napätie</item>
-        <item>Text</item>
-        <item>Krídla</item>
-    </string-array>
+<string-array name="magic_effects_video_titles">
+         <item></item>
+         <item>Farebný obrys</item>
+         <item>Prerušovaný obrys</item>
+         <item>Fluorescenčný obrys</item>
+         <item>Farebný tieň</item>
+         <item>Elektrická vlna</item>
+         <item>Aktuálne</item>
+         <item>Vlny</item>
+         <item>Častice</item>
+         <item>Text</item>
+         <item>Krídla</item>
+         <item>Anjel</item>
+     </string-array>
     <string-array name="magic_idp_size_category">
         <item>Bežné</item>
         <item>Cestovanie</item>

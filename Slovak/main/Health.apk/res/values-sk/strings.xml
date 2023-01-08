@@ -339,8 +339,6 @@ Spoločnosť Xiaomi Health vás upozorní iba na dôležité položky. “</stri
     <string name="diastolic_pressure"> Diastolický </string>
     <string name="disable"> Off </string>
     <string name="discard_update">Nie, ďakujem</string>
-    <string name="dostatečné"> dosť </string>
-    <string name="dosť"> Dosť </string>
     <string name="download_apk">Preberá sa %s…</string>
     <string name="download_background">Prevziať</string>
     <string name="drag_sort"> Usporiadať </string>
@@ -377,8 +375,6 @@ Spoločnosť Xiaomi Health vás upozorní iba na dôležité položky. “</stri
     <string name="environment_detection_hint_two"> Vaše cvičenie bude pozastavené a obnovené automaticky na základe vydaných zvukov. </string>
     <string name="environment_detection_ing"> Kontroluje sa prostredie tréningu ... </string>
     <string name="equivalent_exercise"> ≈%1$s km chôdze (%2$s kcal) </string>
-    <string name="ergical_drugs "> Alergie na lieky </string>
-    <string name="ergical_drugs_hint "> Zadajte liečbu a reakciu na ňu </string>
     <string name="evaluation_origin_health">Návrhy poskytuje Zdravie.</string>
     <string name="every_day"> každý deň </string>
     <string name="excessive">Príliš veľa</string>
@@ -904,8 +900,6 @@ Ak nechcete zdieľať svoje informácie, môžete túto funkciu vypnúť."</stri
     <string name="name_title_menstruation_today_end"> Očakáva sa, že obdobie skončí dnes </string>
     <string name="need_auto_start_permission"> Ak chcete získať presnejšie štatistiky, povoľte automatické spustenie aplikácie Xiaomi Health. </string>
     <string name="need_unrestricted_permission"> Ak chcete získať presnejšie štatistiky, povoľte aplikácii Xiaomi Health vždy spustenie na pozadí. </string>
-    <string name="nejnižší_jump"> Najnižší skok </string>
-    <string name="nejvyšší_jump"> Najvyšší skok </string>
     <string name="network_connect_failure"> "Nepodarilo sa pripojiť k sieti. Skontrolujte svoje sieťové nastavenia a skúste to znova." </string>
     <string name="network_name_china"> WLAN </string>
     <string name="network_not_available"> "Nepodarilo sa pripojiť k sieti. Skontrolujte svoje sieťové nastavenia a skúste to znova." </string>
@@ -1695,7 +1689,7 @@ Aktualizovať teraz? “</string>
     <string name="v7_preference_off"> VYPNUTÉ </string>
     <string name="v7_preference_on"> ZAPNUTÉ </string>
     <string name="value_error_correct"> Upraviť záznam </string>
-    <string name="večer">Popoludnie</string>
+    <string name="evening">Popoludnie</string>
     <string name="view_step_and_progress">Zobrazenie aktuálneho počtu krokov</string>
     <string name="visceral_fat"> Viscerálny tuk </string>
     <string name="visceral_fat_descripe_content"> Viscerálny tuk je nevyhnutný pre stabilizáciu a ochranu vnútorných orgánov. Vysoký viscerálny tuk však zvyšuje riziko kardiovaskulárnych a metabolických chorôb. </string>
@@ -1740,6 +1734,6 @@ Veľkosť aktualizácie Delta:%2$s "</string>
     <string name="year"> Rok </string>
     <string name="yesterday">Včera</string>
     <string name="yoga"> Jóga </string>
-    <string name="zaznamenané_menštruácie"> Zaznamenávané obdobie </string>
-    <string name="čera "> Včera </string>
+
+
 </resources>

@@ -312,7 +312,7 @@ skenované dokumenty automaticky"</string>
     <string name="document_mode_use_hint_text_title">Skenovanie dokumentov</string>
     <string name="document_origin">Originál</string>
     <string name="document_strengthen">Vylepšené</string>
-    <string name="dolly_zoom_capture_tip1">Umiestnite váš objekt do rámiku a držte zariadenie najmenej vo vzdialenosti %d metra</string>
+    <string name="dolly_zoom_capture_tip1">Umiestnite váš objekt do rámčeka</string>
     <string name="dolly_zoom_capture_tip2">Postupne odďaľujte zariadenie od predmetu</string>
     <string name="dolly_zoom_capture_tip3">Objekt sa stratil. Skúste to znova.</string>
     <string name="dolly_zoom_capture_tip4">Vaše zariadenie je príliš ďaleko. Skúste to znova.</string>
@@ -1418,7 +1418,7 @@ Objekt bude ostrý na rozmazanom pozadí."</string>
     <string name="unknow_error">Neznáma chyba</string>
     <string name="unsupported_microphones_3d_record_tips">3D zvuk nie je podporovaný ext. mikrofónom</string>
     <string name="unsupported_microphones_audio_zoom_tips">Audio zoom nepodporuje ext. mikrofón</string>
-    <string name="update_loading">Stiahnuté %1$d%%</string>
+    <string name="update_loading">Stiahnuté %1$s</string>
     <string name="update_start">Aktualizácia %1$s</string>
     <string name="user_agree">Súhlasím</string>
     <string name="user_agreement2">Podmienkami používania</string>

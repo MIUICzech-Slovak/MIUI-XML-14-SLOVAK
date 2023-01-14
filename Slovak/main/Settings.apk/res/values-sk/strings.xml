@@ -7783,4 +7783,8 @@ Nastavenie telefónu môže vyžadovať prenos významného množstva dát."</st
 <string name="freeform_guide_vedio_description">Kliknutím na aplikáciu na bočnom paneli ju otvoríte v plávajúcom okne</string>
 
 <string name="embedded_window_guide_text">Keď sa obrazovka zobrazuje vodorovne, aplikácie sa budú zobrazovať navzájom paralelne. Keď je táto funkcia vypnutá, aplikácie budú vycentrované.</string>
+
+<string name="enterprise_mode">Firemný režim</string>
+      <string name="work_sound_permission_dialog_message">"Nemôžete používať motívy vo Firemnom režime. Ak chcete získať prístup, kontaktujte svojho nadriadeného."</string>
+      <string name="work_sound_permission_dialog_title">Obmedzenie Firemného režimu</string>
 </resources>

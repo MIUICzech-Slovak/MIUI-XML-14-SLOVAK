@@ -1122,4 +1122,5 @@ Získali ste ďalších %1$s"</string>
     <string name="year_month_day_format">dd. MMM. yyyy</string>
     <string name="yes">Áno</string>
     <string name="yesterday">Včera</string>
+    <string name="new_storage_info_detail">Dostupné: %1$s | Celkom: %2$s</string>
 </resources>

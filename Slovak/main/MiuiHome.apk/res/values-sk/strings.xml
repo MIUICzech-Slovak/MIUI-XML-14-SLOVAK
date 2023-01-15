@@ -792,5 +792,11 @@ Zvýšená bezpečnosť."</string>
      <string name="recent_menu_item_add_pair">Vytvorte odkaz na ploche pre túto kombináciu rozdelenej obrazovky</string>
      <string name="recent_menu_item_add_pair_first_toast">Vytvorte odkaz na ploche pre túto kombináciu rozdelenej obrazovky</string>         
      <string name="monochrome_summary">Zmeňte farbu pozadia pre kompatibilné ikony</string>
-     <string name="monochrome_title">Farba pozadia</string>              
+     <string name="monochrome_title">Farba pozadia</string>       
+     
+     <string name="folder_picker_big_text">Zväčšené</string>
+     <string name="folder_picker_default_text">Normálne</string>
+     <string name="folder_picker_options_tab_text">Veľkosť</string>
+     <string name="folder_picker_sliding_button_tab_text">Navrhnúť vybrané aplikácie</string>
+     <string name="folder_picker_tab_text">Zložka</string>            
 </resources>

@@ -1712,5 +1712,6 @@ Pomocou nižšie uvedených tlačidiel môžete upraviť text, zobraziť ukážk
       <string name="video_prompter_shrink_description">Minimalizovať</string>
       <string name="video_prompter_undo_description">Späť</string>
       <string name="video_tag_flag_title">Značka</string>
-                 
+<string name="pref_beauty_nvs_wp_desc">Odstrániť materské znamienka pri použití efektov vyhladenia pokožky</string>
+     <string name="pref_beauty_nvs_wp_title">Odstrániť znamienka</string>                 
 </resources>

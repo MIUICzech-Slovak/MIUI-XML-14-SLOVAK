@@ -5728,4 +5728,9 @@ Skúste zväčšiť rozlíšenie!"</string>
 · Stlačením a podržaním indikátora posuniete okno."</string>
      <string name="global_dock_guide_desc_without_split_screen">"· Klepnutím na aplikáciu na bočnom paneli ju otvoríte v plávajúcom okne.
 · Stlačením a podržaním indikátora posuniete okno."</string>    
+
+<string name="terminal_privacy">Ochrana súkromia v zariadení</string>
+<string name="terminal_privacy_summary">Spracúvať osobné informácie v tomto zariadení</string>
+<string name="privacy_permission_desc">Podrobnosti o povoleniach</string>
+
 </resources>

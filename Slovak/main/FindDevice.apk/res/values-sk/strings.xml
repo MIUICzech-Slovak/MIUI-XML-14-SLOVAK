@@ -181,4 +181,17 @@ Prihláste sa na i.mi.com a skúste odblokovať vaše zariadenie odtiaľ"</strin
     <string name="wednesday_short">Str</string>
     <string name="wednesday_shortest">S</string>
     <string name="yesterday">Včera</string>
+    
+<string name="copy">Kopírovať</string>
+      <string name="custom_define_permission_desc_android.permission.READ_PHONE_STATE">Na prístup k telefónnemu číslu s cieľom nájsť toto zariadenie, keď nie je pripojené k internetu</string>
+      <string name="custom_define_permission_desc_android.permission.SEND_SMS">Na určenie polohy tohto zariadenia, keď nie je pripojené k internetu</string>
+      <string name="custom_define_permission_desc_android.permission_group.LOCATION">Na lokalizáciu vášho zariadenia a prepnutie do strateného režimu</string>
+      <string name="expand_button_title">Rozšírené</string>
+      <string name="find_device_capture_done_notification_content">Zobraziť fotografiu na i.mi.com</string>
+      <string name="find_device_capture_done_notification_title">Nájsť zariadenie odfotografované na diaľku</string>
+      <string name="find_device_notice_sms_alert_with_common_charge_hint">"S cieľom aktualizovať stav SIM karty a uistiť sa, že všetky služby fungujú normálne, jedna &lt;font color=#0097FF>&lt;b>platená textová správa&lt;/b>&lt;/font> sa odošle po výmene karty SIM. Za túto správu vám bude účtovať váš operátor.“</string>
+      <string name="find_device_notice_sms_alert_with_domestic_charge_hint">"Na aktualizáciu stavu SIM karty a uistenie sa, že všetky služby fungujú normálne, jedna &lt;font color=#0097FF>&lt;b>domáca platená textová správa&lt;/b>&lt;/font> sa odošle po výmene karty SIM. Túto správu vám naúčtuje váš operátor.“</string>
+      <string name="find_device_notice_sms_alert_with_internal_charge_hint">"Na aktualizáciu stavu SIM karty a uistenie sa, že všetky služby fungujú normálne, jedna &lt;font color=#0097FF>&lt;b>medzinárodná platená textová správa&lt;/b>&lt;/font> sa odošle po výmene karty SIM. Túto správu vám naúčtuje váš operátor.“</string>
+      <string name="not_set">Nenastavené</string>
+      <string name="preference_copied">\"%1$s\" bolo skopírované do schránky.</string>
 </resources>

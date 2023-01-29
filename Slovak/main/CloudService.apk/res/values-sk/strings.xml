@@ -1221,7 +1221,7 @@ Prečítajte si a odsúhlaste naše Podmienky používania a Ochranu súkromia.
       <string name="privacy_policy_update_title">Aktualizované zásady ochrany osobných údajov</string>
       <string name="privacy_settings">Ochrana osobných údajov</string>
       <string name="revoke_block_by_find_device">"Odvolaním súhlasu sa tiež vypne funkcia Nájsť zariadenie. Keď budete pokračovať, budete musieť overiť svoje heslo."</string>
-      <string name="revoke_permission_content">„Ak odoberiete povolenia, nebudete môcť pokračovať v používaní funkcie Nájsť zariadenie. Funkcia Nájsť zariadenie bude tiež vypnutá. Pred odvolaním vás požiadame o overenie hesla.“</string >
+      <string name="revoke_permission_content">Ak odoberiete povolenia, nebudete môcť pokračovať v používaní funkcie Nájsť zariadenie. Funkcia Nájsť zariadenie bude tiež vypnutá. Pred odvolaním vás požiadame o overenie hesla.</string>
       <string name="revoke_permission_title">Pozor</string>
      <string name="revoke_privacy_agreement_msg">"Ak budete pokračovať, odvoláte svoj súhlas so Zásadami ochrany osobných údajov spoločnosti Xiaomi Cloud. Osobné údaje, ktoré už boli zhromaždené a uchovávané, budú vymazané počas konkrétneho obdobia v súlade s platnými zákonmi a nariadeniami, pokiaľ to nebude potrebné inak. Keďže Xiaomi Cloud poskytuje svoje služby na základe zhromažďovania potrebných osobných údajov, vaše odvolanie súhlasu sa bude považovať za odmietnutie prijať služby Xiaomi Cloud. Odvolať súhlas teraz?"</string>
       <string name="revoke_privacy_confirm">Vybrať</string>

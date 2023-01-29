@@ -377,4 +377,5 @@ Zadajte vaše mesto manuálne"</string>
     <string name="xiaomi_weather_description_title">O Počasí</string>
     <string name="yesterday">Včera</string>
     <string name="your_location">Vaša poloha</string>
+    <string name="aqi_detail_5_days">%d-dňová predpoveď</string>
 </resources>

@@ -42,12 +42,12 @@
         <item quantity="one">Pred %d dňom</item>
     </plurals>
     <plurals name="daily_forcast_drawer_on_home">
-        <item quantity="other">Predpoveď na %1$s dní</item>
-        <item quantity="one">Predpoveď na %1$s dní</item>
+        <item quantity="other">%1$s-dňová predpoveď</item>
+        <item quantity="one">%1$s-dňová predpoveď</item>
     </plurals>
     <plurals name="daily_forcast_drawer_on_top">
-        <item quantity="other">Predpoveď na %1$s dní</item>
-        <item quantity="one">Predpoveď na %1$s deň</item>
+        <item quantity="other">%1$s-dňová predpoveď</item>
+        <item quantity="one">%1$s-dňová predpoveď</item>
     </plurals>
     <plurals name="feedback_result_interval_time_too_short">
         <item quantity="other">%1$s seconds after the feedback</item>

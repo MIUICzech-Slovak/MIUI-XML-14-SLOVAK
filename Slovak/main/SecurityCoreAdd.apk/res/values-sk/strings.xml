@@ -552,5 +552,5 @@ Uistite sa, že názov vašej spoločnosti je správny. Pred spustením si preč
 <string name="cta_declaration_message_format" formatted="false">Pred použitím Firemného režimu si musíte prečítať a súhlasiť s našimi &lt;font color=%s>&lt;a href=%s>%s&lt;/a>&lt;/font >. Aby bolo možné aktivovať Firemný režim, vaše zariadenie sa musí pripojiť k internetu. Súhlasíte?</string>
 <string name="undo_activated_dialog_message">"Odvolanie súhlasu vypnete Firemný režim a vykoná obnovenie továrenských dát na vašom zariadení. Všetky súvisiace funkcie už nebudú dostupné. Okrem toho spoločnosť Xiaomi prestane zhromažďovať informácie požadované pre Firemný režim (IMEI, ID zariadenia, verzia systému, región atď.) Radi by sme vám pripomenuli, že spoločnosť Xiaomi nespravuje dáta, ktoré zhromažďuje pre Firemný režim.Urobíme, čo bude v našich silách, aby sme informovali všetky spriaznené strany, ale odporúčame, aby ste kontaktovali nadriadených vašej spoločnosti, aby schválili toto odvolanie. Zrušiť súhlas a vykonať obnovenie továrenských dát?"</string>     
 
-     <string name="xspace_notification_button">Vyskúšať</string>  
+     <string name="xspace_notification_button">Skúsiť</string>  
 </resources>

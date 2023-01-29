@@ -7787,4 +7787,6 @@ Nastavenie telefónu môže vyžadovať prenos významného množstva dát."</st
 <string name="enterprise_mode">Firemný režim</string>
       <string name="work_sound_permission_dialog_message">"Nemôžete používať motívy vo Firemnom režime. Ak chcete získať prístup, kontaktujte svojho nadriadeného."</string>
       <string name="work_sound_permission_dialog_title">Obmedzenie Firemného režimu</string>
+<string name="resolution_sub_title">MIUI môže pri prepínaní rozlíšenia zavrieť aplikácie spustené na pozadí</string>     
+      
 </resources>

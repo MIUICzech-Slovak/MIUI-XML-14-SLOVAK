@@ -74,4 +74,12 @@ Vaše dáta nebudú vymazané."</string>
     <string name="version">Nainštalovaná verzia</string>
     <string name="weekly">Beta</string>
     <string name="wifi_recommended">Pripojte sa na Wi-fi sieť pre stiahnutie aktualizácie!</string>
+    
+    <string name="btn_not">Nie</string>
+    <string name="fastboot_mode">Aktualizácia je možná len vo Fastboot režime, inštalácia ROM len pomocou PC!</string>
+    <string name="menu_title_fastboot_mode">Aktual. vo Fastboot režime</string>
+    <string name="menu_title_recovery_mode">Aktual. v Recovery režime</string>
+    <string name="recovery_mode">Aktualizácia je možná v TWRP, inštalácia ROM je cez aplikáciu Aktualizácia!</string>
+    <string name="twrp_update_warning">Pre používanie OTA aktualizícií musíte potvrdiť, že máte nainštalované TWRP Recovery:</string>
+                            
 </resources>

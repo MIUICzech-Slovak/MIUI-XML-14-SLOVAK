@@ -96,4 +96,9 @@
         <item quantity="other">Ostáva okolo %s min</item>
         <item quantity="one">Ostáva okolo %s min</item>
     </plurals>
+    
+<plurals name="backup_action_long_time_not_auto_backup_content">
+         <item quantity="other">Nezálohovali ste svoje položky už %s týždňov. Klepnutím zobrazíte, ako zapnúť automatické zálohovanie.</item>
+         <item quantity="one">Nezálohovali ste svoje položky už %s týždeň. Klepnutím zobrazíte, ako zapnúť automatické zálohovanie.</item>
+     </plurals>    
 </resources>

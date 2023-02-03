@@ -490,4 +490,15 @@ Pošlite tento kód technikovi."</string>
     <string name="wednesday_short">Str</string>
     <string name="wednesday_shortest">S</string>
     <string name="yesterday">Včera</string>
+    
+<string name="backup_action_long_time_not_auto_backup_title">Zálohovať položky</string>
+     <string name="cloud_backup_get_installed_apps_summary">Na zálohovanie a obnovenie aplikácií na ploche</string>
+     <string name="cloud_backup_get_installed_apps_title">Prístup k zoznamu aplikácií nainštalovaných v tomto zariadení</string>
+     <string name="cta_dialog_all_purpose">"Vitajte v cloudovom zálohovaní! Túto aplikáciu môžete použiť na zálohovanie rozloženia plochy, aplikácií, systémových nastavení a údajov služby WeChat do cloudu. Uistite sa, že používate najnovšiu verziu môcť využívať všetky naše funkcie."</string>
+     <string name="cta_dialog_permission_description_get_installed_apps">Na zálohovanie a obnovenie aplikácií</string>
+     <string name="cta_dialog_permission_description_storage">Na zálohovanie a obnovenie položiek</string>
+     <string name="dialog_auto_backup_condition_normal_content">Aby ste mohli pravidelne automaticky zálohovať všetky dôležité položky, uistite sa, že máte dostatok úložného priestoru v cloude a že toto zariadenie je uzamknuté, má viac ako %s batériu a je pripojené k sieti Wi-Fi v noci. Zálohovať môžete kedykoľvek aj manuálne.</string>
+     <string name="dialog_auto_backup_condition_normal_content_china">Aby ste mohli pravidelne automaticky zálohovať všetky dôležité položky, uistite sa, že máte dostatok cloudového ukladacieho priestoru a že toto zariadenie je uzamknuté, má viac ako %s batériu a je pripojené k sieti Wi-Fi v noci. Zálohovať môžete kedykoľvek aj manuálne.</string>
+     <string name="dialog_auto_backup_condition_normal_positive">Rozumiem</string>
+     <string name="dialog_auto_backup_condition_normal_title">Zálohujte si položky</string>
 </resources>

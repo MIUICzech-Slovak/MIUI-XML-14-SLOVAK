@@ -668,4 +668,17 @@ http://www.miuios.cz/rom
     <string name="widget_take_notes_title">Poznámky</string>
     <string name="widget_under_privacy_mode">Režim Súkromie, nie je možné zobraziť obsah poznámky</string>
     <string name="yesterday">Včera</string>
+    
+     <string name="rich_text_font_first_level_description">Nadpis prvej úrovne</string>
+     <string name="rich_text_font_second_level_description">Nadpis druhej úrovne</string>
+     <string name="rich_text_font_third_level_description">Nadpis tretej úrovne</string>
+     <string name="rich_text_indent_left_description">Odsadenie vľavo</string>
+     <string name="rich_text_indent_right_description">Odsadenie vpravo</string>
+     <string name="rich_text_orderlist_description">Číslovaný zoznam</string>
+     <string name="rich_text_quote_description">Citácia</string>
+     <string name="rich_text_split_description">Rozdeľovač</string>
+     <string name="rich_text_strikethrough_description">Prečiarknuté</string>
+     <string name="rich_text_tasklist_description">Úlohy</string>
+     <string name="rich_text_unorderlist_description">Zoznam</string>
+     <string name="stealth_mode_tip">Ste inkognito. Teraz nie je možné použiť mikrofón.</string>    
 </resources>

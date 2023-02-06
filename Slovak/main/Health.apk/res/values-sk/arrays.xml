@@ -107,7 +107,7 @@
         <item> Sobota </item>
     </string-array>
     <string-array name="week_label">
-        <item> Neď </item>
+        <item> Ned </item>
         <item> Po </item>
         <item> Ut </item>
         <item> St </item>
@@ -116,7 +116,7 @@
         <item> So </item>
     </string-array>
     <string-array name="week_short">
-        <item> Neď </item>
+        <item> Ned </item>
         <item> Po </item>
         <item> Ut </item>
         <item> St </item>

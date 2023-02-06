@@ -3506,8 +3506,8 @@ Bez tohto kroku nie je možné platby zariadením vykonať."</string>
     <string name="success">Hotovo</string>
     <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
     <string name="sunday">Nedeľa</string>
-    <string name="sunday_short">Neď</string>
-    <string name="sunday_shortest">Neď</string>
+    <string name="sunday_short">Ned</string>
+    <string name="sunday_shortest">Ned</string>
     <string name="sync_password">Heslo</string>
     <string name="sync_user_name">Užívateľské meno</string>
     <string name="sync_weather_notification_message">Aktualizácia počasia na vašom nositeľnom zariadení…</string>

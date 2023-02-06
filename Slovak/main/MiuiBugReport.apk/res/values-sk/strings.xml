@@ -679,8 +679,8 @@ Pred pokračovaním si prečítajte a vyjadrite súhlas s novou verziou %3$s."</
     <string name="suggestion_description">Sem popíšte chybu</string>
     <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
     <string name="sunday">Nedeľa</string>
-    <string name="sunday_short">Neď</string>
-    <string name="sunday_shortest">Neď</string>
+    <string name="sunday_short">Ned</string>
+    <string name="sunday_shortest">Ned</string>
     <string name="system_app_select">Vstavané aplikácie</string>
     <string name="system_error_info">Systém je zaneprázdnený. Počkajte minútu alebo dve a skúste to znova.</string>
     <string name="tab_title_chat">Časté otázky</string>

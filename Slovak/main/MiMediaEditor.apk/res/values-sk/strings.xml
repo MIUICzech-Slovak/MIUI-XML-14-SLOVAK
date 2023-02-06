@@ -1024,8 +1024,8 @@
     <string name="sub_discard_positive_btn">Uložiť</string>
     <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
     <string name="sunday">Nedeľa</string>
-    <string name="sunday_short">Neď</string>
-    <string name="sunday_shortest">Neď</string>
+    <string name="sunday_short">Ned</string>
+    <string name="sunday_shortest">Ned</string>
     <string name="talkback_signature_delete">Vymazať tento podpis</string>
     <string name="talkback_signature_select_color_1">Čierna</string>
     <string name="talkback_signature_select_color_2">Červená</string>

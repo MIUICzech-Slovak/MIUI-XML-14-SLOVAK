@@ -402,4 +402,16 @@ Klepnite na \"%1$s\" a potom vyberte \"%2$s\"."</string>
  Dotknite sa %s pre spustenie sťahovania po pripojení na Wi-Fi sieť."</string>
     <string name="wifi_recommended_title">Upozornenie na spotrebu dát</string>
     <string name="yesterday">Včera</string>
+	
+<string name="permission_notification_description">Na odosielanie upozornení pri nahrávaní, prehrávaní a sťahovaní obsahu</string>
+     <string name="permission_notification_dialog_description">Na odosielanie upozornení na aktuálny stav aplikácie</string>
+     <string name="permission_notification_title">Vyžadujú sa povolenia</string>
+     <string name="record_scenes_summaries_HD">Technológia vysokého dynamického rozsahu umožňuje mikrofónu zachytiť detailnejší zvuk</string>
+     <string name="record_scenes_summaries_interview">Umiestnite telefón medzi %d ľudí, aby ste jasne zaznamenali ich rozhovor</string>
+     <string name="record_scenes_summaries_music">Nahrávajte hudbu v lepšej kvalite</string>
+     <string name="record_scenes_summaries_stereo_HD">Technológia vysokého dynamického rozsahu umožňuje mikrofónu zachytiť detailnejší zvuk</string>
+     <string name="record_scenes_summaries_stereo_interview">Umiestnite telefón medzi %d ľudí, aby ste jasne zaznamenali ich rozhovor</string>
+     <string name="record_scenes_summaries_stereo_music">Nahrávajte cez %d kanálov, počúvajte stereo zvuk v slúchadlách</string>
+     <string name="record_scenes_summaries_stereo_voice">Pre lepšiu kvalitu presuňte mikrofón bližšie k zdroju zvuku</string>
+     <string name="record_scenes_summaries_voice">Pre lepšiu kvalitu presuňte mikrofón bližšie k zdroju zvuku</string>
 </resources>

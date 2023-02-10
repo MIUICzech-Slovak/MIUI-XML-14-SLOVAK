@@ -596,4 +596,25 @@ d.MM."</string>
 
 <string name="force_start_permission_desc">Povoliť, aby budíky fungovali normálne aj po zatvorení aplikácie</string>
      <string name="force_start_permission_title">Automatické spustenie</string>
+	 
+ <string name="alarm_in_furture_new">Budík za menej ako %d minútu</string>
+     <string name="alarm_set_new">Budík sa spustí za menej ako %d minútu.</string>
+<string name="auto_silence_entries1">Nikdy</string>
+     <string name="bedtime_sleep_time_remind_new">Pripomenieme vám, že máte ísť spať %d minút pred týmto časom</string>
+     <string name="life_post_setting_open_summary_new">Zahrnúť informácie o počasí do prvého budíka vypnutého medzi %1$s a %2$s</string>
+     <string name="module_weather_ringtone_download_data_new">Budik vyberá rôzne tóny zvonenia podľa aktuálneho počasia. Hodiny potrebujú stiahnuť ≈%d MB súbor, aby fungovali. Stiahnuť teraz?</string>
+<string name="module_weather_ringtone_download_data_privacy_new" formatted="false"><Data>Budik  vyberá rôzne tóny zvonenia podľa aktuálneho počasia. Hodiny sa musia pripojiť k internetu, aby mohli stiahnuť ≈<xliff:g id=FLOW refersto=30>%d&lt;/xliff:g> MB zvuku. Pred použitím aplikácie Hodiny si tiež musíte prečítať a vyjadriť súhlas s našou &lt;a href=\"%1$s\">Zmluvou s používateľom&lt;/a> a &lt;a href=\"%2$s\">Zásadami ochrany osobných údajov&lt;/a>. Súhlasíte?</Data></string>
+<string name="module_weather_ringtone_update_data_new">Alarm počasia teraz prichádza s hudbou na pozadí a lepšími hlasovými oznámeniami. Hodiny potrebujú stiahnuť ≈%d MB zvuku, aby fungovali. Stiahnuť teraz?</string>
+<string name="module_week_ringtone_download_data_new">Prírodný alarm prehráva rôzne zvuky v závislosti od dátumu. Hodiny potrebujú stiahnuť ≈%d MB zvuku, aby fungovali. Stiahnuť teraz?</string>
+<string name="module_week_ringtone_download_data_privacy_new" formatted="false"><Data>Prírodný alarm prehráva rôzne zvuky v závislosti od dátumu. Hodiny sa musia pripojiť k internetu, aby mohli stiahnuť ≈<xliff:g id=FLOW refersto=30>%d&lt;/xliff:g> MB zvuku. Pred použitím aplikácie Hodiny si tiež musíte prečítať a vyjadriť súhlas s našimi &lt;a href=\"%1$s\">Zmluvou s používateľom&lt;/a> a &lt;a href=\"%2$s\">Zásadami ochrany osobných údajov &lt;/a>. Súhlasíte?</Data></string>
+  <string name="module_week_ringtone_update_data_new">Prírodný alarm prehráva rôzne zvuky v závislosti od dátumu. Hodiny potrebujú stiahnuť ≈%d MB zvuku, aby fungovali. Stiahnuť teraz?</string>
+     <string name="module_white_noise_download_data_new">Hodiny potrebujú stiahnuť zvukové súbory pre časovače okolitého hluku. Na toto stiahnutie bude potrebných ≈%d MB vašich mobilných dát. Stiahnuť teraz?</string>
+ <string name="module_white_noise_download_data_privacy_new" formatted="false"><Data>"Na stiahnutie zvukových súborov pre časovače okolitého hluku (≈&lt;xliff:g id=FLOW refersto=30>%d&lt;/xliff:g> MB) a poskytovať prispôsobené služby, Hodiny sa musia pripojiť k internetu. Pred použitím Hodín si tiež musíte prečítať a vyjadriť súhlas s našimi &lt;a href=\"%1$s\">Zmluvou s používateľom&lt;/a> a &lt;a href=\"%2$s\">Zásady ochrany osobných údajov&lt;/a>. Teraz používate mobilné dáta. Súhlasíte?"</Data></string>
+ <string name="notification_adv_time_entries1">V nastavenom čase</string>
+     <string name="notification_adv_time_entries2"><xliff id="MINUTES" refersto="15">%d</xliff> minút vopred</string>
+     <string name="notification_adv_time_entries3"><xliff id="MINUTES" refersto="30">%d</xliff> minút vopred</string>
+     <string name="notification_adv_time_entries4"><xliff id="HOUR" refersto="1">%d</xliff> hodinu vopred</string>
+     <string name="notification_adv_time_entries5">Žiadne</string>
+     <string name="sleep_duration_recommendation_new" formatted="false">Väčšina ľudí potrebuje %d až %d hodín spánku za noc</string>
+	
 </resources>

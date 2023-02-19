@@ -141,5 +141,14 @@
     <string name="widget_pals_cat">Mačiatko</string>
     <string name="widget_pals_cat_desc">Mňau ~ Nevyrušuj ma keď spím...</string>
     <string name="widget_pals_dog">Šteniatko</string>
-    <string name="widget_pals_dog_desc">Haf ~ hraj sa so mnou!</string>                                                                  
+    <string name="widget_pals_dog_desc">Haf ~ hraj sa so mnou!</string>         
+    
+    <string name="app_mivideo">Mi Video</string>
+<string name="widget_browser_search_desc">Hľadajte na webe jedným dotykom</string>
+     <string name="widget_browser_search">Hľadať</string>
+     <string name="widget_browser_shortcuts_desc">Základné funkcie na dosah ruky</string>
+     <string name="widget_mivideo_local_desc">Rýchly prístup k lokálnym audio a video súborom</string>
+     <string name="widget_mivideo_local">Lokálne videá</string>
+    
+                                                                        
 </resources>

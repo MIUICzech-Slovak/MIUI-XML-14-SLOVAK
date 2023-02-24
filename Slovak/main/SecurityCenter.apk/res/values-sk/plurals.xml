@@ -1053,4 +1053,23 @@ Dajte si pauzu!"</item>
          <item quantity="other">Záznamy správania aplikácie sú v tomto zariadení uložené %d dní. Ak túto funkciu vypnete, nové záznamy sa už nebudú zobrazovať a staré budú vymazané. Napriek tomu vypnúť?</item>
          <item quantity="one">Záznamy správania aplikácie sú v tomto zariadení uložené %d deň. Ak túto funkciu vypnete, nové záznamy sa už nebudú zobrazovať a staré budú vymazané. Napriek tomu vypnúť?</item>
      </plurals>    
+     
+<plurals name="added_apps_count">
+         <item quantity="other">%d pridaných aplikácií</item>
+         <item quantity="one">%d pridaná aplikácia</item>
+     </plurals>
+     <plurals name="extreme_mode_runtime_hour">
+         <item quantity="other">%s h</item>
+         <item quantity="one">%s h</item>
+     </plurals>
+     <plurals name="extreme_mode_runtime_minute">
+         <item quantity="other">%s min</item>
+         <item quantity="one">%s min</item>
+     </plurals>
+     <plurals name="pc_extreme_mode_count_down_title">
+         <item quantity="other">Batéria vášho zariadenia je vybitá. Prechod do režimu hibernácie o %1$d sekúnd.</item>
+         <item quantity="one">Batéria vášho zariadenia je vybitá. Prechod do režimu hibernácie o %1$d sekundu.</item>
+     </plurals>
+     
+          
 </resources>

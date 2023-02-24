@@ -414,4 +414,6 @@ Klepnite na \"%1$s\" a potom vyberte \"%2$s\"."</string>
      <string name="record_scenes_summaries_stereo_music">Nahrávajte cez %d kanálov, počúvajte stereo zvuk v slúchadlách</string>
      <string name="record_scenes_summaries_stereo_voice">Pre lepšiu kvalitu presuňte mikrofón bližšie k zdroju zvuku</string>
      <string name="record_scenes_summaries_voice">Pre lepšiu kvalitu presuňte mikrofón bližšie k zdroju zvuku</string>
+     
+    <string name="record_while_in_call_tip">Nie je možné nahrávať počas hovoru</string>     
 </resources>

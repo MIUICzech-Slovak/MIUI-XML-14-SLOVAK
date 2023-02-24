@@ -5733,4 +5733,50 @@ Skúste zväčšiť rozlíšenie!"</string>
 <string name="terminal_privacy_summary">Spracúvať osobné informácie v tomto zariadení</string>
 <string name="privacy_permission_desc">Podrobnosti o povoleniach</string>
 
+<string name="conversation_settings_top">"·Posunutím panela nástrojov konferencie počas audio a video hovorov na celú obrazovku získate prístup k jeho funkciám.
+·Typ a počet funkcií závisí od modelu zariadenia."</string>
+     <string name="conversation_sider_tips">Používajte nové konferenčné nástroje pre najlepší zážitok z hovoru</string>
+     <string name="conversation_summary">Skrášľovanie, prepis titulkov a ďalšie funkcie počas audiohovorov a videohovorov</string>
+     <string name="conversation_title">Nástroje pre konferenciu</string>
+     <string name="cs_color_sense">Teplota farieb</string>
+     <string name="cs_func_toast_headset">Ak chcete používať túto funkciu, odpojte slúchadlá</string>
+     <string name="cs_func_toast_light">Ak chcete používať túto funkciu, prepnite na predný fotoaparát</string>
+     <string name="cs_func_toast_pickup">Ak chcete použiť túto funkciu, prepnite na videohovor</string>
+     <string name="cs_pickup_multi_desc">%d stupeň snímania zvuku</string>
+     <string name="cs_pickup_multi_title">Viacerí účastníci</string>
+     <string name="cs_pickup_single_desc">Snímajte zvuk iba spred obrazovky</string>
+     <string name="cs_pickup_single_title">Jeden účastník</string>
+     <string name="cs_pickup_surround_desc">Používa AI na zníženie šumu pre ostrý a čistý zvuk</string>
+     <string name="cs_pickup_surround_title">Redukcia šumu mikrofónu</string>
+     <string name="cs_title_pickup">Redukcia hluku</string>
+     <string name="cs_title_smart_subtitle">Prepis titulkov</string>
+     <string name="cs_title_ultraclear">Režim Ultra HD</string>
+     <string name="gb_already_in_game_list_tips">Táto položka je už medzi pridanými hrami. Nie je možné ju sem pridať.</string>
+     <string name="gb_already_in_video_list_tips">Táto položka sa už nachádza medzi pridanými video aplikáciami. Nie je možné ju sem pridať.</string>
+     <string name="gb_application_not_find">Nič sa nenašlo</string>
+     <string name="gd_setting_conversation">Nástroje pre konferenciu</string>
+     <string name="gd_setting_conversation_desc">Poskytuje množstvo funkcií na použitie pri zvukových hovoroch a videohovoroch na celú obrazovku</string>
+     <string name="label">Štítok</string>
+     <string name="notify_channel_resident_hide">Upozornenia bezpečnostného asistenta</string>
+     <string name="pc_entered_extreme_mode">Režim dlhodobého spánku je zapnutý</string>
+     <string name="pc_entered_extreme_mode_summary">Vaše zariadenie je vybité a prešlo do režimu dlhodobého spánku. Aplikácie budú bežať na pozadí a nebudú odosielať upozornenia.</string>
+     <string name="pc_extreme_exit_and_power_off">Ukončiť</string>
+     <string name="pc_extreme_mode_bg_toast">V režime hibernácie budú aplikácie bežať na pozadí a nebudú odosielať upozornenia</string>
+     <string name="pc_extreme_mode_entering">Prebieha režim dlhodobého spánku…</string>
+     <string name="pc_extreme_mode_exit_risk_title">Pozor</string>
+     <string name="pc_extreme_mode_exit_risk_title_summary">Vaše zariadenie je vybité. Ak ukončíte režim hibernácie, vaše zariadenie sa vypne.</string>
+     <string name="pc_extreme_mode_exiting">Ukončuje sa režim dlhodobého spánku…</string>
+     <string name="pc_extreme_mode_find_charger">Nabite svoje zariadenie čo najskôr.</string>
+     <string name="pc_extreme_mode_runtime">Pre %1$s %2$s bol zapnutý režim dlhodobého spánku.</string>
+     <string name="pc_extreme_mode_title">Režim dlhodobého spánku</string>
+     <string name="pc_going_to_exit_extreme_mode">Ukončenie režimu dlhodobého spánku</string>
+     <string name="pc_going_to_exit_extreme_mode_summary">Vaše zariadenie sa nabíja. Režim hibernácie je vypnutý.</string>
+     <string name="pc_going_to_extreme_mode">Prechod do režimu dlhodobého spánku</string>
+     <string name="permgroupdesc_readmediaimages">Prístup k fotografiám a videám</string>
+     <string name="permgroupdesc_readmediavideo">Prístup k hudbe a zvuku</string>
+<string name="permission_instruction_location">Keď udelíte toto povolenie, aplikácie budú používať siete alebo satelitné určovanie polohy na prístup k vašej polohe. Aplikáciám, ktoré túto funkciu podporujú, môžete povoliť prístup iba k vašej približnej polohe.</string>
+<string name="permission_instruction_wall_paper">Udeľte toto povolenie, aby ste aplikáciám umožnili meniť predvolené služby dynamických tapiet a ponechať ich spustené na pozadí.</string>
+     <string name="pp_lab_compact_blur_location">Aplikácie s približnou polohou</string>
+     <string name="pp_lab_compact_blur_location_summary">"Výberom možnosti \"Predvolené\" použijete funkciu približnej polohy systému Android alebo výberom možnosti \"Všetky\" prepnete na MIUI."</string>
+
 </resources>

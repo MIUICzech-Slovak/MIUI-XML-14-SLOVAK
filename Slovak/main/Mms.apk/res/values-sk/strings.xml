@@ -1061,4 +1061,8 @@ Pokus: %s."</string>
     <string name="zero_sms_feedback_message">Nahlásené správy sú odoslané na náš server pre ďalšiu analýzu.</string>
     <string name="zero_sms_feedback_success">Nahlásené</string>
     <string name="zero_sms_feedback_title">Nahlásiť</string>
+    
+<string name="pref_title_perm_read_audio">Prístup k zvukovým súborom</string>
+     <string name="pref_title_perm_read_files">Prístup k súborom a dokumentom</string>
+     <string name="pref_title_perm_read_images_video">Prístup k fotografiám a videám</string>    
 </resources>

@@ -1123,4 +1123,11 @@ Získali ste ďalších %1$s"</string>
     <string name="yes">Áno</string>
     <string name="yesterday">Včera</string>
     <string name="new_storage_info_detail">Dostupné: %1$s | Celkom: %2$s</string>
+	
+<string name="extend_service_setting">Ďalšie služby</string>
+     <string name="extend_service_summary">Ak túto službu vypnete, nebudete môcť používať funkcie súvisiace s Mi Drive</string>
+     <string name="extend_service_title">Spravovať súbory Mi Drive</string>
+     <string name="stop_extend_service_dialog_confirm">Vypnúť</string>
+     <string name="stop_extend_service_dialog_summary">Ak túto funkciu vypnete, nebudete môcť spravovať svoje súbory uložené v Mi Drive. Vypnúť ju napriek tomu?</string>
+     <string name="stop_extend_service_dialog_tilte">Ďalšie služby</string>	
 </resources>

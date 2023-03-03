@@ -549,7 +549,7 @@ Pripojte nabíjačku a vypnite obrazovku, aby sa objavili spomienky."</string>
     <string name="collage_poster_global_tea_text">Čaj</string>
     <string name="collage_ratio_text">Pomer strán</string>
     <string name="collage_rotate">Otočiť</string>
-    <string name="collage_select_image_range">Koláž môže obsahovať 1-4 fotografie</string>
+    <string name="collage_select_image_range">Koláž môže obsahovať %1$d-%2$d fotografie</string>
     <string name="collage_title_layout">Rozloženie</string>
     <string name="collage_title_poster">Plagát</string>
     <string name="collage_title_stitching">Film</string>
@@ -2832,4 +2832,15 @@ Do %1$s môžete svoje položky presunúť do Fotiek Google alebo si ich stiahnu
      <string name="super_slow_motion_enter">Super spomalený pohyb</string>
      <string name="video_tags_enter">Zobraziť značky</string>
     
+<string name="cleaner_subtitle_slim_space_prefix">%1$s %2$s obsadené</string>
+     <string name="slim_auto_backup_cloud_confirm_detail">Zapnite synchronizáciu s cloudom, aby ste mohli nahrávať fotografie a videá zo svojho zariadenia do cloudu.</string>
+     <string name="slim_auto_backup_cloud_confirm_title">Synchronizácia s cloudom</string>
+     <string name="slim_finish_upgrade_tip"><Data>Navýšte svoje úložisko cloudového úložiska, aby ste do cloudu synchronizovali viac položiek. Klepnutím &lt;a href=\"%1$s\">Navýšiť&lt;/a>.</Data></string>
+     <string name="slim_function_summery_first">Uchovávajte optimalizované fotografie vo svojom zariadení a uložte pôvodný obrázok do cloudu</string>
+     <string name="slim_function_summery_second">Súbory vytvorené za posledných %d dní sa uložia do vášho zariadenia</string>
+     <string name="slim_subtitle_slim_space_prefix">Uvoľnite %1$s %2$s</string>
+     <string name="slim_subtitle_sync_off_no_slimdata">Ak chcete získať odhad voľného miesta, zapnite synchronizáciu s cloudom</string>
+     <string name="slim_subtitle_sync_on_no_slimdata">Synchronizuje sa. Skúste to znova neskôr.</string>
+     <string name="slim_subtitle_sync_on_no_slimdata_no_cloudspace">Navýšte svoje úložisko cloudového úložiska, aby ste mohli synchronizovať viac položiek</string>
+     <string name="slim_upgrade_button">Navýšiť</string>	
 </resources>

@@ -19,6 +19,19 @@
         <item>Všetko</item>
         <item>Len odosielatelia</item>
     </string-array>
+    <string-array name="sign_in_dialog_item">
+        <item>Outlook pre firmy (bez kalendára)</item>
+        <item>IMAP (bez kalendára)</item>
+        <item>EXCHANGE (s kalendárom)</item>
+    </string-array>
+    <string-array name="signature_normal_string_array">
+        <item>Blog:</item>
+        <item>Stránka:</item>
+        <item>Email:</item>
+        <item>Mobil:</item>
+        <item>Telefón:</item>
+        <item>Tel:</item>
+    </string-array>
     <string-array name="signature_normal_string_array_next">
         <item>Adresa:</item>
         <item>Tel.:</item>
@@ -28,6 +41,15 @@
         <item>WeChat:</item>
         <item>Fax:</item>
         <item>PSČ:</item>
+    </string-array>
+    <string-array name="signature_special_string_array">
+        <item>Vyhlásenie:</item>
+        <item>Email Vyhlásenie</item>
+        <item>Odoslané prostredníctvom WPSMail</item>
+        <item>Odoslané z</item>
+        <item>Odoslané s</item>
+        <item>Vďaka,</item>
+        <item>S pozdravom</item>
     </string-array>
     <string-array name="signature_special_string_array_next">
         <item>Vďaka,</item>
@@ -41,26 +63,4 @@
         <item>Upozornenie</item>
         <item>Upozornenie e-mailom</item>
     </string-array>
-	<string-array name="sign_in_dialog_item">
-        <item>Outlook pre firmy (bez kalendára)</item>
-        <item>IMAP (bez kalendára)</item>
-        <item>EXCHANGE (s kalendárom)</item>
-	</string-array>
-	<string-array name="signature_normal_string_array">
-        <item>Blog:</item>
-        <item>Stránka:</item>
-        <item>Email:</item>
-        <item>Mobil:</item>
-        <item>Telefón:</item>
-        <item>Tel:</item>
-	</string-array>
-	<string-array name="signature_special_string_array">
-        <item>Vyhlásenie:</item>
-        <item>Email Vyhlásenie</item>
-        <item>Odoslané prostredníctvom WPSMail</item>
-        <item>Odoslané z</item>
-        <item>Odoslané s</item>
-        <item>Vďaka,</item>
-        <item>S pozdravom</item>
-	</string-array>
 </resources>

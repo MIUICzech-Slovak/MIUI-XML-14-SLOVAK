@@ -376,6 +376,7 @@ Spoločnosť Xiaomi Health vás upozorní iba na dôležité položky. “</stri
     <string name="environment_detection_ing"> Kontroluje sa prostredie tréningu ... </string>
     <string name="equivalent_exercise"> ≈%1$s km chôdze (%2$s kcal) </string>
     <string name="evaluation_origin_health">Návrhy poskytuje Zdravie.</string>
+    <string name="evening">Popoludnie</string>
     <string name="every_day"> každý deň </string>
     <string name="excessive">Príliš veľa</string>
     <string name="exercise"> Cvičenia </string>
@@ -1689,7 +1690,6 @@ Aktualizovať teraz? “</string>
     <string name="v7_preference_off"> VYPNUTÉ </string>
     <string name="v7_preference_on"> ZAPNUTÉ </string>
     <string name="value_error_correct"> Upraviť záznam </string>
-    <string name="evening">Popoludnie</string>
     <string name="view_step_and_progress">Zobrazenie aktuálneho počtu krokov</string>
     <string name="visceral_fat"> Viscerálny tuk </string>
     <string name="visceral_fat_descripe_content"> Viscerálny tuk je nevyhnutný pre stabilizáciu a ochranu vnútorných orgánov. Vysoký viscerálny tuk však zvyšuje riziko kardiovaskulárnych a metabolických chorôb. </string>
@@ -1734,6 +1734,4 @@ Veľkosť aktualizácie Delta:%2$s "</string>
     <string name="year"> Rok </string>
     <string name="yesterday">Včera</string>
     <string name="yoga"> Jóga </string>
-
-
 </resources>

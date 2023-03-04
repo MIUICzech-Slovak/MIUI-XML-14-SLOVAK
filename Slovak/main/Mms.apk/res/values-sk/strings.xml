@@ -684,6 +684,9 @@ Pre aktiváciu tejto služby bude odoslaná bežná SMS."</string>
     <string name="pref_title_mms_validity_period">Doba platnosti MMS</string>
     <string name="pref_title_msg_blocked">Čierna listina</string>
     <string name="pref_title_notification_body_enabled">Zobraziť náhľady</string>
+    <string name="pref_title_perm_read_audio">Prístup k zvukovým súborom</string>
+    <string name="pref_title_perm_read_files">Prístup k súborom a dokumentom</string>
+    <string name="pref_title_perm_read_images_video">Prístup k fotografiám a videám</string>
     <string name="pref_title_privacy_authority">Autorizácia</string>
     <string name="pref_title_privacy_policy_detail">Ochrana súkromia</string>
     <string name="pref_title_ringtone_repeat">Opakovať upozornenie</string>
@@ -1061,8 +1064,4 @@ Pokus: %s."</string>
     <string name="zero_sms_feedback_message">Nahlásené správy sú odoslané na náš server pre ďalšiu analýzu.</string>
     <string name="zero_sms_feedback_success">Nahlásené</string>
     <string name="zero_sms_feedback_title">Nahlásiť</string>
-    
-<string name="pref_title_perm_read_audio">Prístup k zvukovým súborom</string>
-     <string name="pref_title_perm_read_files">Prístup k súborom a dokumentom</string>
-     <string name="pref_title_perm_read_images_video">Prístup k fotografiám a videám</string>    
 </resources>

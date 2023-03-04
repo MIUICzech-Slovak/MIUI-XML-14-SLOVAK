@@ -889,6 +889,10 @@ Postupujte podľa pokynov"</item>
         <item>Jemné</item>
         <item>Stredné</item>
     </string-array>
+    <string-array name="tabs_taptic_detail_m2">
+        <item>Chrumkavé</item>
+        <item>Plné</item>
+    </string-array>
     <string-array name="time_format_entries">
         <item>12-hodín 1:00 PM</item>
         <item>24-hodín 13:00</item>
@@ -1027,6 +1031,10 @@ Postupujte podľa pokynov"</item>
         <item>Len 5 GHz</item>
         <item>Len 2,4 GHz</item>
     </string-array>
+    <string-array name="wifi_hidden_gbk_entries">
+        <item>Nie</item>
+        <item>Áno</item>
+    </string-array>
     <string-array name="wifi_ip_settings">
         <item>DHCP</item>
         <item>Statická</item>
@@ -1130,12 +1138,4 @@ Postupujte podľa pokynov"</item>
         <item>Mierka animácie 5x</item>
         <item>Mierka animácie 10x</item>
     </string-array>
-<string-array name="tabs_taptic_detail_m2">
-         <item>Chrumkavé</item>
-         <item>Plné</item>
-     </string-array>
-     <string-array name="wifi_hidden_gbk_entries">
-         <item>Nie</item>
-         <item>Áno</item>
-     </string-array>    
 </resources>

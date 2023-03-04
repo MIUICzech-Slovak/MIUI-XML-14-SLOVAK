@@ -98,6 +98,14 @@
         <item quantity="other">o %d minút</item>
         <item quantity="one">o 1 minútu</item>
     </plurals>
+    <plurals name="large_icon_batch_has_update_text">
+        <item quantity="other">K dispozícii je aktualizácia pre %1$d super ikon</item>
+        <item quantity="one">K dispozícii je aktualizácia pre %1$d super ikonu</item>
+    </plurals>
+    <plurals name="large_icon_batch_updating_text">
+        <item quantity="other">Aktualizácia %1$d super ikon</item>
+        <item quantity="one">Aktualizácia %1$d super ikony</item>
+    </plurals>
     <plurals name="less_than_one_minute_ago">
         <item quantity="other">Teraz</item>
     </plurals>
@@ -133,14 +141,4 @@
         <item quantity="other">%1$s | %2$d obrázkov</item>
         <item quantity="one">%1$s | %2$d obrázok</item>
     </plurals>
-    
-<plurals name="large_icon_batch_has_update_text">
-         <item quantity="other">K dispozícii je aktualizácia pre %1$d super ikon</item>
-         <item quantity="one">K dispozícii je aktualizácia pre %1$d super ikonu</item>
-     </plurals>
-     <plurals name="large_icon_batch_updating_text">
-         <item quantity="other">Aktualizácia %1$d super ikon</item>
-         <item quantity="one">Aktualizácia %1$d super ikony</item>
-     </plurals>
- 
 </resources>

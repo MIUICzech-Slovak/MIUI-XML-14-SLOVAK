@@ -134,6 +134,14 @@
     <string name="refocus_type_relighting_small_face">3D osvetlenie funguje len na fotografiách kde tvár zaberá jej väčšiu časť.</string>
     <string name="refocus_type_static">Úroveň rozmazania</string>
     <string name="refocus_type_video">Svetelné stopy</string>
+    <string name="saf_operation_guide_1">"Editor galérie potrebuje vaše povolenie, aby mohol chrániť a spravovať vaše dáta."</string>
+    <string name="saf_operation_guide_2">Ak chcete povolenie udeliť, stlačte \"%1$s\" a potom vyberte \"%2$s\".</string>
+    <string name="saf_operation_guide_param1">Ďalej</string>
+    <string name="saf_operation_guide_param2">Prístup k tomuto priečinku</string>
+    <string name="saf_requester_cancel">Zrušiť</string>
+    <string name="saf_requester_title">Povoliť editoru galérie prístup k \"%s\"</string>
+    <string name="saf_secret_album">Súkromný album</string>
+    <string name="saf_secret_album_guide">Táto aplikácia potrebuje povolenia na zobrazenie položiek z vášho súkromného albumu.</string>
     <string name="saturday">Sobota</string>
     <string name="saturday_short">Sob</string>
     <string name="saturday_shortest">S</string>
@@ -159,13 +167,4 @@
     <string name="wednesday_short">Str</string>
     <string name="wednesday_shortest">S</string>
     <string name="yesterday">Včera</string>
-    
-<string name="saf_operation_guide_1">"Editor galérie potrebuje vaše povolenie, aby mohol chrániť a spravovať vaše dáta."</string>
-     <string name="saf_operation_guide_2">Ak chcete povolenie udeliť, stlačte \"%1$s\" a potom vyberte \"%2$s\".</string>
-     <string name="saf_operation_guide_param1">Ďalej</string>
-     <string name="saf_operation_guide_param2">Prístup k tomuto priečinku</string>
-     <string name="saf_requester_cancel">Zrušiť</string>
-     <string name="saf_requester_title">Povoliť editoru galérie prístup k \"%s\"</string>
-     <string name="saf_secret_album">Súkromný album</string>
-     <string name="saf_secret_album_guide">Táto aplikácia potrebuje povolenia na zobrazenie položiek z vášho súkromného albumu.</string>    
 </resources>

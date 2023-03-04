@@ -8,6 +8,7 @@
     <string name="btn_error">Nastala chyba, stiahnuť znova?</string>
     <string name="btn_install">Skontr. MD5 a inštalovať</string>
     <string name="btn_no">Zrušiť</string>
+    <string name="btn_not">Nie</string>
     <string name="btn_ok">OK</string>
     <string name="btn_pause">Zastaviť</string>
     <string name="btn_share">Zdieľať</string>
@@ -34,14 +35,17 @@
     <string name="download_fail_desc">MD5 Sum nie je zhodné...</string>
     <string name="downloading">Sťahovanie...</string>
     <string name="downloading_desc">Prebieha sťahovanie, skontrolujte priebeh v roletke.</string>
+    <string name="fastboot_mode">Aktualizácia je možná len vo Fastboot režime, inštalácia ROM len pomocou PC!</string>
     <string name="fastboot_update_warning">Táto aktualizácia sa inštaluje cez fastboot a nie cez TWRP!</string>
     <string name="fetching_data">Pripravuje sa spustenie sťahovania...</string>
     <string name="install_desc">"Zariadenie sa reštartuje do TWRP a nainštaluje súbor: %1$s
 Vaše dáta nebudú vymazané."</string>
     <string name="install_title">Chcete pokračovať?</string>
     <string name="menu_title_current_version_log">Informácie o aktualizácii</string>
+    <string name="menu_title_fastboot_mode">Aktual. vo Fastboot režime</string>
     <string name="menu_title_pick_rom_file">Vybrať ZIP z úložiska</string>
     <string name="menu_title_recovery">Reštartovať do TWRP recovery</string>
+    <string name="menu_title_recovery_mode">Aktual. v Recovery režime</string>
     <string name="menu_title_show_notifications">Zobraziť upozornenia</string>
     <string name="message_checkbox">Nezobrazovať oznámenia od miuios.cz</string>
     <string name="message_checkbox_device">Viac nezobrazovať</string>
@@ -67,19 +71,13 @@ Vaše dáta nebudú vymazané."</string>
     <string name="pick_not_found">Nebol nájdený žiaden správca súborov.</string>
     <string name="pick_title">Vybrať:</string>
     <string name="recovery_desc">Zariadenie sa reštartuje do TWRP Recovery. Pokračovať?</string>
+    <string name="recovery_mode">Aktualizácia je možná v TWRP, inštalácia ROM je cez aplikáciu Aktualizácia!</string>
     <string name="server_error">Chyba servera, aplikácia nemusí pracovať správne!</string>
     <string name="share_desc">MIUI verzia bola aktualizovaná na %1$s, pozrite si zoznam zmien na: https://xiaomi.eu/community/link-forums/rom-downloads.73/</string>
     <string name="share_title">Zdieľať</string>
     <string name="stable">Stabilná</string>
+    <string name="twrp_update_warning">Pre používanie OTA aktualizícií musíte potvrdiť, že máte nainštalované TWRP Recovery:</string>
     <string name="version">Nainštalovaná verzia</string>
     <string name="weekly">Beta</string>
     <string name="wifi_recommended">Pripojte sa na Wi-fi sieť pre stiahnutie aktualizácie!</string>
-    
-    <string name="btn_not">Nie</string>
-    <string name="fastboot_mode">Aktualizácia je možná len vo Fastboot režime, inštalácia ROM len pomocou PC!</string>
-    <string name="menu_title_fastboot_mode">Aktual. vo Fastboot režime</string>
-    <string name="menu_title_recovery_mode">Aktual. v Recovery režime</string>
-    <string name="recovery_mode">Aktualizácia je možná v TWRP, inštalácia ROM je cez aplikáciu Aktualizácia!</string>
-    <string name="twrp_update_warning">Pre používanie OTA aktualizícií musíte potvrdiť, že máte nainštalované TWRP Recovery:</string>
-                            
 </resources>

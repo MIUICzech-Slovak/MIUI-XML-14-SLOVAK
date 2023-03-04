@@ -88,7 +88,9 @@
     <string name="app_drawer_guide_description">Nájdite to, čo hľadáte vo svojich obľúbených aplikáciách</string>
     <string name="app_drawer_guide_title">Zoznam aplikácií</string>
     <string name="app_drawer_tip_title">Informačný kanál obsahu sme nahradili zoznamom aplikácií.</string>
+    <string name="app_edit_icon">Upraviť ikonu</string>
     <string name="app_install_state">Nainštalované</string>
+    <string name="app_set_icon">Nastaviť ikonu</string>
     <string name="application_name">MIUI Launcher</string>
     <string name="apply">Použiť</string>
     <string name="apply_action">Použiť</string>
@@ -209,6 +211,8 @@
     <string name="deleted_system_applications">Odinštalované systémové aplikácie</string>
     <string name="deselect_all">Odznačiť všetko</string>
     <string name="disable_wallpaper_scroll">Zakázať posúvanie tapety</string>
+    <string name="dock_and_folder_not_edit_icon_tip">Ak chcete upraviť, najprv presuňte aplikáciu z doku a priečinka</string>
+    <string name="dock_not_edit_icon_tip">Ak chcete upraviť, najprv presuňte aplikáciu z doku</string>
     <string name="double_tap_to_lock_title">Zamknúť dvojitým poklepaním</string>
     <string name="download_action">Stiahnuť</string>
     <string name="drag_icon_to_homescreen_guide">Stlačte a podržte ikonu aplikácie a potom ju presuňte a pridajte odkaz na plochu</string>
@@ -219,6 +223,7 @@
     <string name="drawer_settings">Zoznam aplikácií</string>
     <string name="dual_app">Klonované aplikácie</string>
     <string name="edit">Upraviť</string>
+    <string name="edit_folder">Upraviť zložku</string>
     <string name="edit_folder_title">Úprava názvu zložky</string>
     <string name="edit_mode_dual_app">Vytvoriť klonovanú aplikáciu</string>
     <string name="edit_mode_group">Zložka</string>
@@ -260,9 +265,16 @@
     <string name="fmt_date_short_month_day">"d. MMM "</string>
     <string name="fmt_date_short_year_month">MMM, yyyy</string>
     <string name="fmt_date_short_year_month_day">d MMM, yyyy</string>
+    <string name="fold_pair_install_shortcut_launcher_success">Úspešne vytvorené</string>
     <string name="fold_pair_install_shortcut_long_click">Stlačte a podržte pre pridanie na plochu</string>
     <string name="fold_pair_installed_shortcut_launcher">Táto skratka už existuje</string>
     <string name="folder_name">Zložka</string>
+    <string name="folder_not_edit_icon_tip">Ak chcete upraviť, najprv presuňte aplikáciu z priečinka</string>
+    <string name="folder_picker_big_text">Zväčšené</string>
+    <string name="folder_picker_default_text">Normálne</string>
+    <string name="folder_picker_options_tab_text">Veľkosť</string>
+    <string name="folder_picker_sliding_button_tab_text">Navrhnúť vybrané aplikácie</string>
+    <string name="folder_picker_tab_text">Zložka</string>
     <string name="frame_load_failed">Načítavanie foto rámčeka zlyhalo!</string>
     <string name="free_style_apps_title">Vyberte aplikáciu</string>
     <string name="free_style_drawer_title">Všetky aplikácie</string>
@@ -452,6 +464,8 @@ Zvýšená bezpečnosť."</string>
     <string name="monday">Pondelok</string>
     <string name="monday_short">Pon</string>
     <string name="monday_shortest">P</string>
+    <string name="monochrome_summary">Zmeňte farbu pozadia pre kompatibilné ikony</string>
+    <string name="monochrome_title">Farba pozadia</string>
     <string name="month_april">Apríl</string>
     <string name="month_april_short">Apr</string>
     <string name="month_april_shortest">A</string>
@@ -597,6 +611,8 @@ Zvýšená bezpečnosť."</string>
     <string name="process" />
     <string name="quick_app">Quick App</string>
     <string name="recent_apps">Nedávne</string>
+    <string name="recent_menu_item_add_pair">Vytvorte odkaz na ploche pre túto kombináciu rozdelenej obrazovky</string>
+    <string name="recent_menu_item_add_pair_first_toast">Vytvorte odkaz na ploche pre túto kombináciu rozdelenej obrazovky</string>
     <string name="recent_menu_item_info">Info</string>
     <string name="recent_menu_item_lock">Uzamknúť</string>
     <string name="recent_menu_item_multi_window">Rozdeliť</string>
@@ -780,23 +796,4 @@ Zvýšená bezpečnosť."</string>
     <string name="widget_quick_function">Skratky</string>
     <string name="widgets_preview_title">Pridať widget</string>
     <string name="yesterday">Včera</string>
-    
-    <string name="app_set_icon">Nastaviť ikonu</string>
-    <string name="edit_folder">Upraviť zložku</string>    
-    
-<string name="app_edit_icon">Upraviť ikonu</string>
-     <string name="dock_and_folder_not_edit_icon_tip">Ak chcete upraviť, najprv presuňte aplikáciu z doku a priečinka</string>
-     <string name="dock_not_edit_icon_tip">Ak chcete upraviť, najprv presuňte aplikáciu z doku</string>
-     <string name="fold_pair_install_shortcut_launcher_success">Úspešne vytvorené</string>
-     <string name="folder_not_edit_icon_tip">Ak chcete upraviť, najprv presuňte aplikáciu z priečinka</string>
-     <string name="recent_menu_item_add_pair">Vytvorte odkaz na ploche pre túto kombináciu rozdelenej obrazovky</string>
-     <string name="recent_menu_item_add_pair_first_toast">Vytvorte odkaz na ploche pre túto kombináciu rozdelenej obrazovky</string>         
-     <string name="monochrome_summary">Zmeňte farbu pozadia pre kompatibilné ikony</string>
-     <string name="monochrome_title">Farba pozadia</string>       
-     
-     <string name="folder_picker_big_text">Zväčšené</string>
-     <string name="folder_picker_default_text">Normálne</string>
-     <string name="folder_picker_options_tab_text">Veľkosť</string>
-     <string name="folder_picker_sliding_button_tab_text">Navrhnúť vybrané aplikácie</string>
-     <string name="folder_picker_tab_text">Zložka</string>            
 </resources>

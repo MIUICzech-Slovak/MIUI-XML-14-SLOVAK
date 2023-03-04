@@ -263,6 +263,8 @@
     <string name="HIPS_Perm_operator_get_phonenumbner_Desc">Zistiť telefónne číslo od operátora pre prihlásenie</string>
     <string name="HIPS_Perm_operator_get_phonenumbner_Hint">Ak ste sa nemohli prihlásiť jedným dotykom, choďte späť a skúste to znova.</string>
     <string name="HIPS_Perm_operator_get_phonenumbner_Message">Táto aplikácia chce získať vaše telefónne číslo od operátora pre prihlásenie. Povoliť?</string>
+    <string name="HIPS_Perm_operator_shake">Prístup k údajom akcelerometra</string>
+    <string name="HIPS_Perm_operator_shake_Desc">Údaje akcelerometra sa používajú na sledovanie orientácie a pohybu (napr. trasenie, nakláňanie a otáčanie)</string>
     <string name="HIPS_Perm_process_nfc">NFC</string>
     <string name="HIPS_Perm_process_nfc_Desc">Prístup k NFC</string>
     <string name="HIPS_Perm_process_outgoing_calls">Prístup k apl. Telefón</string>
@@ -471,6 +473,7 @@
     <string name="permdesc_recognition">Prístup k aktivitám</string>
     <string name="permdesc_send_sms">Povoliť %1$s odosielať SMS?</string>
     <string name="permdesc_sensors">Prístup k senzorom</string>
+    <string name="permdesc_shake">Povoliť aplikácii %1$s prístup k údajom akcelerometra?</string>
     <string name="permdesc_use_sip">Povoliť aplikácii %1$s používať na streamovanie videa protokol Session Initiation Protocol?</string>
     <string name="permdesc_write_calendar">Prístup k udalostiam v kalendári</string>
     <string name="permdesc_write_call_log">Povoliť %1$s upravovať históriu hovorov?</string>
@@ -557,9 +560,4 @@
     <string name="wednesday_shortest">S</string>
     <string name="yes">Áno</string>
     <string name="yesterday">Včera</string>
-    
-<string name="HIPS_Perm_operator_shake">Prístup k údajom akcelerometra</string>
-     <string name="HIPS_Perm_operator_shake_Desc">Údaje akcelerometra sa používajú na sledovanie orientácie a pohybu (napr. trasenie, nakláňanie a otáčanie)</string>
-     <string name="permdesc_shake">Povoliť aplikácii %1$s prístup k údajom akcelerometra?</string>
-         
 </resources>

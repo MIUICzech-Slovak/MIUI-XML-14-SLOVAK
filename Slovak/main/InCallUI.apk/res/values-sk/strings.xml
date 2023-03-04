@@ -172,6 +172,7 @@
     <string name="friday">Piatok</string>
     <string name="friday_short">Pia</string>
     <string name="friday_shortest">Pia</string>
+    <string name="high_temperature_toast">V prípade ochrany pred vysokou teplotou je funkcia dočasne nedostupná</string>
     <string name="inCallLabel">Hovory</string>
     <string name="incall_bubble_hangup_click_hint">Dotknite sa znova pre návrat k hovoru</string>
     <string name="incall_call_type_label_sip">Volanie cez internet</string>
@@ -400,6 +401,4 @@ Stlačte \"%1$s\" a potom vyberte \"%2$s\"."</string>
     <string name="wednesday_shortest">S</string>
     <string name="wifi_call">VoWi-fi hovor</string>
     <string name="yesterday">Včera</string>
-	
-<string name="high_temperature_toast">V prípade ochrany pred vysokou teplotou je funkcia dočasne nedostupná</string>	
 </resources>

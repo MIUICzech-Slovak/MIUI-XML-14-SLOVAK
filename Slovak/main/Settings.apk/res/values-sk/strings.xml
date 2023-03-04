@@ -544,6 +544,7 @@ Správca môže sledovať a spravovať nastavenia, prístup, aplikácie a údaje
     <string name="assist_access_screenshot_title">Použiť snímku obrazovky</string>
     <string name="assist_and_voice_input_title">Asistencia a hlasový vstup</string>
     <string name="assist_footer">Pomocné aplikácie vám pomáhajú na základe informácií zo zobrazenej obrazovky. Niektoré aplikácie podporujú spúšťač aj služby hlasového výstupu, aby vám poskytli integrovanú pomoc.</string>
+    <string name="assistance_category_title">Uľahčenie prístupu</string>
     <string name="assistant_security_warning">Pomocník bude môcť čítať informácie o aplikáciách používaných vo vašom systéme vrátane údajov viditeľných na obrazovke alebo prístupných v aplikáciách.</string>
     <string name="assistant_security_warning_agree">Súhlasím</string>
     <string name="assistant_security_warning_disagree">Nesúhlasím</string>
@@ -1415,6 +1416,7 @@ Nikdy ste neboli pripojený k %2$s."</string>
     <string name="common_issue">FAQ</string>
     <string name="common_settings">Časté nastavenia</string>
     <string name="complete_parameters">Všetky špecifikácie</string>
+    <string name="complete_parameters_new">Podrobné špecifikácie</string>
     <string name="complete_settings">Kompletné nastav.</string>
     <string name="computer_backup_summary">Zálohovať a obnoviť položky pomocou PC</string>
     <string name="computer_backup_title">PC</string>
@@ -1610,6 +1612,7 @@ Ak chcete ďalej používať svoj telefón, musíte obnoviť jeho továrenské n
     <string name="dark_ui_mode_title">Nastaviť tmavé pozadie aplikácií</string>
     <string name="dark_wallpaper_mode">Upraviť sýtosť farieb pozadia</string>
     <string name="dashboard_title">Nastavenia</string>
+    <string name="data_acceleration_summery">Používajte Wi-Fi aj mobilné dáta na zvýšenie rýchlosti, keď je pripojenie Wi-Fi slabé</string>
     <string name="data_size_label">Dáta</string>
     <string name="data_summary_format">Od %2$s využité %1$s</string>
     <string name="data_switch_started">Prepínajú sa dátové SIM karty, môže to chvíľu trvať...</string>
@@ -1725,6 +1728,7 @@ Toto nastavenie ovplyvní všetkých používateľov tohto telefónu."</string>
     <string name="dc_light_summary_new">Použiť DC stmavenie pre šetrenie vašich očí.</string>
     <string name="dc_light_title">Anti-flicker režim</string>
     <string name="dclight_unavailable_prompt">Anti-flicker režim podporuje len vonkajšia obrazovka</string>
+    <string name="dds_preference_smart_dds_switch_is_on">Inteligentný prepínač DDS je zapnutý</string>
     <string name="debug_app">Vybrať aplikáciu na ladenie</string>
     <string name="debug_app_not_set">Nie je nastavená žiadna aplikácia na ladenie</string>
     <string name="debug_app_set">Debugging app.: %1$s</string>
@@ -2129,6 +2133,7 @@ You can view generated logs in File Manager."</string>
     <string name="effect_preview">Náhľad</string>
     <string name="eighthours">8 hodín</string>
     <string name="elastic_text">Výzvy a rozbaľovacie ponuky sa zobrazujú s elastickým pohybom, ktorý sa viac zameriava na tieto objekty</string>
+    <string name="embedded_window_guide_text">Keď sa obrazovka zobrazuje vodorovne, aplikácie sa budú zobrazovať navzájom paralelne. Keď je táto funkcia vypnutá, aplikácie budú vycentrované.</string>
     <string name="emergency_sos_title">Núdzové SOS</string>
     <string name="emergency_tone_alert">Upozornenie</string>
     <string name="emergency_tone_silent">Tichý režim</string>
@@ -2172,6 +2177,7 @@ You can view generated logs in File Manager."</string>
     <string name="enable_sizecompat_freeform">Vynútiť zmenu veľkosti okien</string>
     <string name="enable_sizecompat_freeform_summary">Povolí prispôsobenie aplikácií s nemennou veľkosťou</string>
     <string name="enable_snapshot_screenlock">Rýchla fotografia tl. Späť</string>
+    <string name="enable_snpn">Povoliť SNPN</string>
     <string name="enable_terminal_summary">Povoliť terminálovú apl. na miestny prístup k prostrediu shell</string>
     <string name="enable_terminal_title">Miestny terminál</string>
     <string name="enable_text">Povoliť</string>
@@ -2226,6 +2232,7 @@ Umožňuje to ochrániť údaje v stratených alebo ukradnutých zariadeniach."<
     <string name="enter_password">Zadajte heslo pre dešifrovanie zariadenia po reštarte.</string>
     <string name="enter_pattern">Zadajte vzor pre dešifrovanie zariadenia po reštarte.</string>
     <string name="enter_pin">Zadajte PIN pre dešifrovanie zariadenia po reštarte.</string>
+    <string name="enterprise_mode">Firemný režim</string>
     <string name="eq_auto">Vlastný</string>
     <string name="eq_blues">Blues</string>
     <string name="eq_cancel">Zrušiť</string>
@@ -2613,6 +2620,7 @@ Táto funkcia funguje len ak sú aktivované gestá."</string>
     <string name="freeform_guide_slide_up_to_close_title">Zatvorenie plávajúceho okna</string>
     <string name="freeform_guide_to_sidehide_summary">Rýchlym pretiahnutím aplikácie na stranu obrazovky ju skryjete</string>
     <string name="freeform_guide_to_sidehide_title">Skrytie plávajúceho okna</string>
+    <string name="freeform_guide_vedio_description">Kliknutím na aplikáciu na bočnom paneli ju otvoríte v plávajúcom okne</string>
     <string name="freeform_vedio_description">"·Stlačte a podržte, potom potiahnite nadol upozornenie pre jeho otvorenie v plávajúcom okne.
 ·Stlačte \"Plávajúce okno\" v Nedávnych aplikáciách pre výber aplikácie."</string>
     <string name="freeform_vedio_description_open_freeform_and_splitscreen">"· Klepnutím na aplikáciu na bočnom paneli ju otvoríte v plávajúcom okne.
@@ -2759,6 +2767,9 @@ Oblasť, kde môžete potvrdiť uzamknutie obrazovky, sa presunie doprava."</str
     <string name="handy_mode_tips_full_screen">Keď používate gestá na celú obrazovku, môžete cez Quick ball zapnúť Režim ovládania jednou rukou. Tiež môžete namiesto gest na celú obrazovku používať tlačidlá.</string>
     <string name="haptic_agent_completion_01_content_description">Dokončená úloha</string>
     <string name="haptic_cursor_movement_07_content_description">Upravenie jasu</string>
+    <string name="haptic_descripthion_for_max_level">Silné</string>
+    <string name="haptic_descripthion_for_middle_level">Predvolené</string>
+    <string name="haptic_descripthion_for_min_level">Svetlo</string>
     <string name="haptic_feedback_enable_title">Pri dotyku vibrovať</string>
     <string name="haptic_feedback_level">Sila vibrácií</string>
     <string name="haptic_feedback_progress">Úroveň hmatovej odozvy</string>
@@ -2913,6 +2924,7 @@ Nakopírujte zálohy z USB naspäť do zložky (MIUI-backup-AllBackup) v telefó
     <string name="imei_information_title">Informácie o kóde IMEI</string>
     <string name="immediately_destroy_activities">Neuchovávať aktivity</string>
     <string name="immediately_destroy_activities_summary">Zrušiť každú aktivitu, hneď ako ju užívateľ ukončí</string>
+    <string name="immersive_audio_sources">Ponorený zvuk</string>
     <string name="importance_default">Predvolené</string>
     <string name="importance_high">Vysoká</string>
     <string name="importance_low">Nízka</string>
@@ -3310,6 +3322,7 @@ Nakopírujte zálohy z USB naspäť do zložky (MIUI-backup-AllBackup) v telefó
     <string name="lock_screen_notifications_summary_hide">Skryť citlivý obsah upozornení</string>
     <string name="lock_screen_notifications_summary_show">Zobraziť všetok obsah upozornení</string>
     <string name="lock_screen_notifications_title">Keď je zariadenie uzamknuté</string>
+    <string name="lock_screen_now">Zámok obrazovky</string>
     <string name="lock_screen_secure_after_timeout_immediately_never">Nikdy nevyžadovať heslo.</string>
     <string name="lock_screen_secure_after_timeout_immediately_summary">Vyžadovať heslo okamžite</string>
     <string name="lock_screen_secure_after_timeout_summary">Vyžadovať heslo po %1$s</string>
@@ -4042,6 +4055,7 @@ Vyberte váš operačný systém:"</string>
     <string name="multi_face_name_prefix">"Tvár "</string>
     <string name="multi_face_number_reach_limit">Nie je možné pridať viac ako 2 tváre</string>
     <string name="multi_network_acceleration_app_settings">Správa zrýchlenia Wi-Fi siete</string>
+    <string name="multi_network_acceleration_summery">Pripojte sa k viacerým sieťam Wi-Fi súčasne, pre zvýšenie rýchlosti</string>
     <string name="multi_touch_points_category_title">Multidotykové body</string>
     <string name="multi_touch_points_preference">Reštartovať pre zapnutie</string>
     <string name="multi_window_cvw_summary">Presunutím rohu prepnite na plávajúce okno a upravte jeho veľkosť</string>
@@ -4166,11 +4180,14 @@ Vyberte váš operačný systém:"</string>
     <string name="nearby_wifi">Vyberte Wi-Fi sieť</string>
     <string name="need_reboot_now">Pre dokončenie je nutné reštartovať zariadenie!</string>
     <string name="netcheck_title">Diagnostika siete</string>
+    <string name="network_acceleration">Zrýchlenie siete</string>
     <string name="network_alarm">Nestíšiť internetové volania</string>
     <string name="network_alarm_summary">Poznámka: Niektoré aplikácie nie sú kompatibilné s touto funkciou.%1$s</string>
     <string name="network_alarm_summary_reg">Zobraziť aplikácie</string>
     <string name="network_alarm_support_apps">Podporované aplikácie</string>
     <string name="network_assistant">Spotreba dát</string>
+    <string name="network_auto_switch">Prepínanie medzi sieťami</string>
+    <string name="network_auto_switch_summery">Prepnúť na mobilné dáta, keď je signál Wi-Fi slabý alebo sieť nie je dostupná</string>
     <string name="network_changed_noti_summary">Používanie mobilných dát</string>
     <string name="network_changed_noti_title">Odpojiť od Wi-Fi</string>
     <string name="network_control">Zobraziť nastavenie aplikácie</string>
@@ -5130,6 +5147,7 @@ Táto funkcia získa vašu MAC adresu Wi-Fi siete iba na počiatočnú registrá
     <string formatted="false" name="resolution_fhd_summary">%d×%d (šetrí batériu)</string>
     <string name="resolution_qhd">QHD+ (Quad HD)</string>
     <string formatted="false" name="resolution_qhd_summary">%d×%d (zvyšuje kvalitu)</string>
+    <string name="resolution_sub_title">MIUI môže pri prepínaní rozlíšenia zavrieť aplikácie spustené na pozadí</string>
     <string name="resolver_settings_label">Zoradiť</string>
     <string name="resource_ringtone_volume_mute">Zvonenie je stíšené</string>
     <string name="restore_default_apn">Prebieha obnovovanie predvolených nastavení názvu prístupového bodu (APN).</string>
@@ -5433,6 +5451,7 @@ Ako funkciu použiť:
     <string name="se_route_uicc">Zabezpečenie na SIM karte</string>
     <string name="se_wallet_ese">MiWallet (len v Číne)</string>
     <string name="se_wallet_hce">HCE Wallet</string>
+    <string name="search_accessibility_settings">Uľahčenie prístupu</string>
     <string name="search_ambient_display_screen_title">Ambientný displej</string>
     <string name="search_application_count">Vyhľadávanie aplikácií</string>
     <string name="search_dndm_alarm_content">Výnimky</string>
@@ -5441,6 +5460,7 @@ Ako funkciu použiť:
     <string name="search_events">Vyhľadať udalosť</string>
     <string name="search_history">História</string>
     <string name="search_input_hint">Vyhľadať v nastaveniach</string>
+    <string name="search_result_feedback_text">Viac sa nenašlo</string>
     <string name="search_zen_mode_option_miui_silent">Tichý režim</string>
     <string name="second_space">Druhý profil</string>
     <string name="secondspace_category">Druhý profil</string>
@@ -5842,6 +5862,7 @@ Ostáva:"</string>
     <string name="sms_received_sound_dialog_title">Vybrať zvuk prijatej správy</string>
     <string name="sms_received_sound_title">Zvuk prijatej správy</string>
     <string name="softbank_apn_lock_toast">APN je uzamknuté. Nie je možné ho upravovať.</string>
+    <string name="solid_text">Používa nízkofrekvenčnú hmatovú spätnú väzbu a zodpovedajúce vizuálne prechody na vytvorenie solídneho a výkonného zážitku z gest</string>
     <string name="sometimes_running">Niekedy spustené (%s)</string>
     <string name="sort_avg_use">Zoradiť podľa priemerného využitia</string>
     <string name="sort_max_use">Zoradiť podľa maximálneho využitia</string>
@@ -6319,6 +6340,8 @@ Zvážte použitie rýchlejšieho zariadenia (^1) s lepšou výkonnosťou."</str
     <string name="suw_back_button_label">Späť</string>
     <string name="suw_more_button_label">Viac</string>
     <string name="suw_next_button_label">Ďalej</string>
+    <string name="swipe_up_to_continue_using">Potiahnite nahor pre pokračovanie</string>
+    <string name="swipe_up_to_continue_using_summary">Uzamknúť po %ds bez aktivity</string>
     <string name="switchNetworkToast">Pripojenie k mobilnej sieti môže navýšiť vaše poplatky</string>
     <string name="switch_access_service_on">Prepnúť prístup</string>
     <string name="switch_bootup_sound">Prehrať zvuk pri spustení zariadenia</string>
@@ -7385,6 +7408,7 @@ sl. Wi‑Fi Assistant"</string>
     <string name="wifi_password">Heslo</string>
     <string name="wifi_poor_network_detection">Vyhýbať sa zlým pripojeniam</string>
     <string name="wifi_poor_network_detection_summary">"Nepoužívať Wi-Fi siete ak nemajú dobrý signál"</string>
+    <string name="wifi_primary">Primárna sieť</string>
     <string formatted="false" name="wifi_priority_changed">Stará priorita value=%s,nová value=%s</string>
     <string name="wifi_priority_label">Priorita</string>
     <string name="wifi_priority_settings_label">Nastavenie priority</string>
@@ -7407,7 +7431,7 @@ sl. Wi‑Fi Assistant"</string>
     <string name="wifi_rssi_threshold_check_summary">Nepripájať sa na AP ak je slabé RSSI</string>
     <string name="wifi_sap_no_channel_error">V tejto krajine nie je pásmo 5 GHz k dispozícii</string>
     <string name="wifi_save">Uložiť</string>
-    <string name="wifi_saved_access_point">Uložené siete</string>    
+    <string name="wifi_saved_access_point">Uložené siete</string>
     <string name="wifi_saved_access_points_label">Uložené siete</string>
     <string name="wifi_saved_access_points_titlebar">Uložené siete</string>
     <string name="wifi_scan_always_available">Vyhľadávanie vždy zapnuté</string>
@@ -7618,6 +7642,8 @@ Nastavenie telefónu môže vyžadovať prenos významného množstva dát."</st
     <string name="work_profile_confirm_remove_title">Odstrániť pracovný profil?</string>
     <string name="work_profile_usage_access_warning">Deaktivovaním prístupu k spotrebe dát pre túto aplikáciu nezabránite správcovi v sledovaní údajov o spotrebe dát pre aplikácie vo vašom pracovnom profile.</string>
     <string name="work_sim_title">Pracovná SIM karta</string>
+    <string name="work_sound_permission_dialog_message">"Nemôžete používať motívy vo Firemnom režime. Ak chcete získať prístup, kontaktujte svojho nadriadeného."</string>
+    <string name="work_sound_permission_dialog_title">Obmedzenie Firemného režimu</string>
     <string name="work_space_delete">Vymazať Pracovný priestor</string>
     <string name="work_space_delete_confirm">Potvrďte vymazanie</string>
     <string name="work_space_delete_description">Nebude možné prepnúť sa do tohto Pracovného priestoru ak ho vymažete. Všetky dáta budú presunuté alebo vymazané.</string>
@@ -7757,36 +7783,4 @@ Nastavenie telefónu môže vyžadovať prenos významného množstva dát."</st
     <string name="zone_auto_title">Časové pásmo podľa siete</string>
     <string name="zone_list_menu_sort_alphabetically">Zoradiť abecedne</string>
     <string name="zone_list_menu_sort_by_timezone">Zoradiť podľa časového pásma</string>
-    <string name="complete_parameters_new">Podrobné špecifikácie</string>
-     <string name="data_acceleration_summery">Používajte Wi-Fi aj mobilné dáta na zvýšenie rýchlosti, keď je pripojenie Wi-Fi slabé</string>
-     <string name="dds_preference_smart_dds_switch_is_on">Inteligentný prepínač DDS je zapnutý</string>
-     <string name="enable_snpn">Povoliť SNPN</string>
-     <string name="haptic_descripthion_for_max_level">Silné</string>
-     <string name="haptic_descripthion_for_middle_level">Predvolené</string>
-     <string name="haptic_descripthion_for_min_level">Svetlo</string>
-     <string name="immersive_audio_sources">Ponorený zvuk</string>
-     <string name="network_acceleration">Zrýchlenie siete</string>
-     <string name="network_auto_switch">Prepínanie medzi sieťami</string>
-     <string name="network_auto_switch_summery">Prepnúť na mobilné dáta, keď je signál Wi-Fi slabý alebo sieť nie je dostupná</string>
-     <string name="solid_text">Používa nízkofrekvenčnú hmatovú spätnú väzbu a zodpovedajúce vizuálne prechody na vytvorenie solídneho a výkonného zážitku z gest</string>
-     
-    <string name="lock_screen_now">Zámok obrazovky</string>
-    <string name="swipe_up_to_continue_using">Potiahnite nahor pre pokračovanie</string>
-    <string name="swipe_up_to_continue_using_summary">Uzamknúť po %ds bez aktivity</string>   
-    <string name="wifi_primary">Primárna sieť</string>
-    <string name="multi_network_acceleration_summery">Pripojte sa k viacerým sieťam Wi-Fi súčasne, pre zvýšenie rýchlosti</string>      
-    <string name="search_result_feedback_text">Viac sa nenašlo</string>
-    
-<string name="assistance_category_title">Uľahčenie prístupu</string>
-<string name="search_accessibility_settings">Uľahčenie prístupu</string>    
-
-<string name="freeform_guide_vedio_description">Kliknutím na aplikáciu na bočnom paneli ju otvoríte v plávajúcom okne</string>
-
-<string name="embedded_window_guide_text">Keď sa obrazovka zobrazuje vodorovne, aplikácie sa budú zobrazovať navzájom paralelne. Keď je táto funkcia vypnutá, aplikácie budú vycentrované.</string>
-
-<string name="enterprise_mode">Firemný režim</string>
-      <string name="work_sound_permission_dialog_message">"Nemôžete používať motívy vo Firemnom režime. Ak chcete získať prístup, kontaktujte svojho nadriadeného."</string>
-      <string name="work_sound_permission_dialog_title">Obmedzenie Firemného režimu</string>
-<string name="resolution_sub_title">MIUI môže pri prepínaní rozlíšenia zavrieť aplikácie spustené na pozadí</string>     
-      
 </resources>

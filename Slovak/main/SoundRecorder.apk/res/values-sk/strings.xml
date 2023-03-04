@@ -209,6 +209,9 @@ Klepnite na \"%1$s\" a potom vyberte \"%2$s\"."</string>
     <string name="permission_desc">Podrobnosti o povoleniach</string>
     <string name="permission_dialog_cancel">Zrušiť</string>
     <string name="permission_dialog_ok">Nastavenia</string>
+    <string name="permission_notification_description">Na odosielanie upozornení pri nahrávaní, prehrávaní a sťahovaní obsahu</string>
+    <string name="permission_notification_dialog_description">Na odosielanie upozornení na aktuálny stav aplikácie</string>
+    <string name="permission_notification_title">Vyžadujú sa povolenia</string>
     <string name="permission_read_phone_state">Prístup k informácií o zariadení</string>
     <string name="permission_read_phone_state_description">Pre prístup k stavu hovoru pre automatické ukončenie nahrávania</string>
     <string name="permission_record">Nahrať zvuk</string>
@@ -280,6 +283,15 @@ Klepnite na \"%1$s\" a potom vyberte \"%2$s\"."</string>
     <string name="record_permission_dialog_title">Vyžadujú sa povolenia pre mikrofón</string>
     <string name="record_quliaty_preference_title">Kvalita nahrávania</string>
     <string name="record_resotre">Obnoviť nahrávky</string>
+    <string name="record_scenes_summaries_HD">Technológia vysokého dynamického rozsahu umožňuje mikrofónu zachytiť detailnejší zvuk</string>
+    <string name="record_scenes_summaries_interview">Umiestnite telefón medzi %d ľudí, aby ste jasne zaznamenali ich rozhovor</string>
+    <string name="record_scenes_summaries_music">Nahrávajte hudbu v lepšej kvalite</string>
+    <string name="record_scenes_summaries_stereo_HD">Technológia vysokého dynamického rozsahu umožňuje mikrofónu zachytiť detailnejší zvuk</string>
+    <string name="record_scenes_summaries_stereo_interview">Umiestnite telefón medzi %d ľudí, aby ste jasne zaznamenali ich rozhovor</string>
+    <string name="record_scenes_summaries_stereo_music">Nahrávajte cez %d kanálov, počúvajte stereo zvuk v slúchadlách</string>
+    <string name="record_scenes_summaries_stereo_voice">Pre lepšiu kvalitu presuňte mikrofón bližšie k zdroju zvuku</string>
+    <string name="record_scenes_summaries_voice">Pre lepšiu kvalitu presuňte mikrofón bližšie k zdroju zvuku</string>
+    <string name="record_while_in_call_tip">Nie je možné nahrávať počas hovoru</string>
     <string name="recorder_record">Zvuk</string>
     <string name="recording">Nahrávam...</string>
     <string name="recording_quality_high">Vysoká kvalita</string>
@@ -402,18 +414,4 @@ Klepnite na \"%1$s\" a potom vyberte \"%2$s\"."</string>
  Dotknite sa %s pre spustenie sťahovania po pripojení na Wi-Fi sieť."</string>
     <string name="wifi_recommended_title">Upozornenie na spotrebu dát</string>
     <string name="yesterday">Včera</string>
-	
-<string name="permission_notification_description">Na odosielanie upozornení pri nahrávaní, prehrávaní a sťahovaní obsahu</string>
-     <string name="permission_notification_dialog_description">Na odosielanie upozornení na aktuálny stav aplikácie</string>
-     <string name="permission_notification_title">Vyžadujú sa povolenia</string>
-     <string name="record_scenes_summaries_HD">Technológia vysokého dynamického rozsahu umožňuje mikrofónu zachytiť detailnejší zvuk</string>
-     <string name="record_scenes_summaries_interview">Umiestnite telefón medzi %d ľudí, aby ste jasne zaznamenali ich rozhovor</string>
-     <string name="record_scenes_summaries_music">Nahrávajte hudbu v lepšej kvalite</string>
-     <string name="record_scenes_summaries_stereo_HD">Technológia vysokého dynamického rozsahu umožňuje mikrofónu zachytiť detailnejší zvuk</string>
-     <string name="record_scenes_summaries_stereo_interview">Umiestnite telefón medzi %d ľudí, aby ste jasne zaznamenali ich rozhovor</string>
-     <string name="record_scenes_summaries_stereo_music">Nahrávajte cez %d kanálov, počúvajte stereo zvuk v slúchadlách</string>
-     <string name="record_scenes_summaries_stereo_voice">Pre lepšiu kvalitu presuňte mikrofón bližšie k zdroju zvuku</string>
-     <string name="record_scenes_summaries_voice">Pre lepšiu kvalitu presuňte mikrofón bližšie k zdroju zvuku</string>
-     
-    <string name="record_while_in_call_tip">Nie je možné nahrávať počas hovoru</string>     
 </resources>

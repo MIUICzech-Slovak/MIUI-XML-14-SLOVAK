@@ -363,12 +363,14 @@ Pripojte nabíjačku a vypnite obrazovku, aby sa objavili spomienky."</string>
     <string name="begin_share">Dokončiť vytvorenie detského albumu \"%s\", a hneď zdieľať</string>
     <string name="begin_share_toast">Systém vytvorí detský album a bude ho zdieľať, v poriadku?</string>
     <string name="black_white">Čiernobiela</string>
+    <string name="blur_refocus_enter">Bokeh</string>
     <string name="brannan">Brannan</string>
     <string name="browse_category_title">Prehliadať</string>
     <string name="btn_cancel">Zrušiť</string>
     <string name="btn_cancel_send">Zrušiť prenos</string>
     <string name="btn_exit_send">Ukončiť</string>
     <string formatted="false" name="burst_image_download_item_title">Stiahnuť originál (%s|%s)</string>
+    <string name="burst_photo_enter">Séria</string>
     <string name="burst_preview_title">Dávkové snímanie</string>
     <string name="burst_save_all">Uložiť všetko</string>
     <string formatted="false" name="burst_save_choice_title">Vybrané %d z %d</string>
@@ -473,6 +475,7 @@ Pripojte nabíjačku a vypnite obrazovku, aby sa objavili spomienky."</string>
     <string name="cleaner_space_description">môže byť uvoľnené</string>
     <string name="cleaner_space_detail_description">Vymažte fotografie vo vašej Galérii pre uvoľnenie úložiska</string>
     <string name="cleaner_stop_scan">Zastaviť kontrolu</string>
+    <string name="cleaner_subtitle_slim_space_prefix">%1$s %2$s obsadené</string>
     <string name="cleaner_title">Čistič</string>
     <string name="cleaner_video_action">Vymazať</string>
     <string name="cleaner_video_description">Vymazať videá ktoré zaberajú miesto na úložisku</string>
@@ -647,6 +650,7 @@ Pripojte nabíjačku a vypnite obrazovku, aby sa objavili spomienky."</string>
     <string name="delete_in_album">Keď vymažete fotografiu alebo video v albume, vymaže sa aj z:</string>
     <string name="delete_in_home_page">Keď vymažete fotografiu alebo video na domovskej obrazovke, vymaže sa aj z:</string>
     <string name="delete_in_process">Vymazanie...</string>
+    <string name="delete_media_for_cloud">Vybraté položky budú odstránené z cloudu a zo všetkých synchronizovaných zariadení s nedávno odstránenými položkami.</string>
     <string name="delete_origin">Vymazať obrázky z pôvodného albumu</string>
     <string name="delete_other_shared_images">"Prepáčte, nemôžete vymazať fotografiu zdieľanú niekým iným"</string>
     <string name="delete_owner_and_other_shared_images_format">%1$d vymazané, %2$d ponechané</string>
@@ -671,6 +675,7 @@ Pripojte nabíjačku a vypnite obrazovku, aby sa objavili spomienky."</string>
     <string name="disconnect_migration_title">Zastaviť prenos?</string>
     <string name="do_not_remind_me">Viac nezobrazovať</string>
     <string name="do_not_save">Neukladať</string>
+    <string name="doc_photo_enter">Upraviť v dokumente</string>
     <string name="document_provider_guide_step_1">1. Stlačte tlačidlo \"Viac\".</string>
     <string name="document_provider_guide_step_2">2. Stlačte \"Zobraziť interní úložisko\".</string>
     <string name="document_provider_guide_step_3">3. Stlačte menu tlačidlo.</string>
@@ -728,6 +733,7 @@ Pripojte nabíjačku a vypnite obrazovku, aby sa objavili spomienky."</string>
     <string name="duotone">Duo-tone</string>
     <string name="early_bird">Earlybird</string>
     <string name="edit_baby_info">Zobraziť informácie o dieťati</string>
+    <string name="edit_subtitle_enter">Upraviť titulky</string>
     <string name="edited_photo_bucket_name">Upravené</string>
     <string name="editor_cancel">Zrušiť</string>
     <string name="editor_export">Uložiť</string>
@@ -762,6 +768,7 @@ Pripojte nabíjačku a vypnite obrazovku, aby sa objavili spomienky."</string>
     <string name="enabling_face_feature">Načítavanie...</string>
     <string name="enter_choice_mode">Dialóg zdieľania</string>
     <string name="enter_email_hint">"Zadajte E-mail "</string>
+    <string name="equivalent_focal_length">(ekvivalentná ohnisková vzdialenosť %dmm)</string>
     <string name="error_album_not_exist">"Album neexistuje."</string>
     <string name="error_build_thumbnail_action">Stiahnuť originálny súbor</string>
     <string name="error_build_thumbnail_msg">Nebolo možné stiahnuť náhľad. Skúste stiahnuť originálny súbor.</string>
@@ -1010,6 +1017,7 @@ Pripojte nabíjačku a vypnite obrazovku, aby sa objavili spomienky."</string>
     <string name="finish">Dokončiť</string>
     <string name="finish_create_baby_album_toast">Vytvorený album pre \"%s\" v MiCloud</string>
     <string name="finish_fill_baby">Vytvoriť</string>
+    <string name="first_delete_media_for_cloud">Vybraté položky budú odstránené z cloudu a všetkých synchronizovaných zariadení s nedávno odstránenými položkami a budú natrvalo odstránené po %d dňoch, pokiaľ nemáte plán cloudového úložiska. Chcete ho napriek tomu odstrániť?</string>
     <string name="fisheye">Rybie oko</string>
     <string name="flash_off">Vypnutý blesk</string>
     <string name="flash_on">Zapnutý blesk</string>
@@ -1780,6 +1788,8 @@ Pripojte nabíjačku a vypnite obrazovku, aby sa objavili spomienky."</string>
     <string name="permission_optional_category">Voliteľné povolenia</string>
     <string name="permission_phone_desc">Pre požiadavky siete</string>
     <string name="permission_phone_name">Telefón</string>
+    <string name="permission_post_notification_desc">Na odosielanie upozornení na zdieľané albumy a aktualizáciu stavu synchronizácie</string>
+    <string name="permission_read_media_images_desc">Na prístup k fotografiám a videám a ich ukladanie počas používania Galérie</string>
     <string name="permission_require_category">Povinné povolenia</string>
     <string name="permission_storage_desc">Pre zobrazenie, úpravu a ukladanie fotografií</string>
     <string name="permission_storage_name">Úložisko</string>
@@ -2256,6 +2266,21 @@ Pripojte nabíjačku a vypnite obrazovku, aby sa objavili spomienky."</string>
     <string name="share_album">Zdieľať album</string>
     <string name="share_album_needs_auto_upload_tip">Share album cannot disable autoBackup</string>
     <string name="share_album_qr_code">QR kód albumu</string>
+    <string name="share_album_risk_control_invalid_name">Tento názov albumu sa nedá použiť. Vyberte iný a skúste to znova.</string>
+    <string name="share_album_risk_control_tip_off">Nahlásiť</string>
+    <string name="share_album_risk_control_tip_off_cate">Typ obsahu</string>
+    <string name="share_album_risk_control_tip_off_cate_illegal">Nezákonné</string>
+    <string name="share_album_risk_control_tip_off_cate_other">Iné</string>
+    <string name="share_album_risk_control_tip_off_cate_political">Politické</string>
+    <string name="share_album_risk_control_tip_off_cate_sex">Sexuálny</string>
+    <string name="share_album_risk_control_tip_off_cate_violence">Násilné</string>
+    <string name="share_album_risk_control_tip_off_dialog_message">Ak nahlásite obsah zdieľaného albumu, bude ho môcť zobraziť iba osoba, ktorá tento obsah odovzdala. Nahlásiť teraz?</string>
+    <string name="share_album_risk_control_tip_off_dialog_title">Nahlásiť</string>
+    <string name="share_album_risk_control_tip_off_select">Vyberte typ obsahu</string>
+    <string name="share_album_risk_control_tip_off_success">Úspešne nahlásené</string>
+    <string name="share_album_risk_control_too_many_albums">Nie je možné vytvoriť viac zdieľaných albumov</string>
+    <string name="share_album_risk_control_too_many_sharers_accept">Nie je možné pridať ďalších členov</string>
+    <string name="share_album_risk_control_too_many_sharers_invite">Nie je možné pozvať ďalších členov</string>
     <string name="share_and_delete_screenshot">Vymazať po zdieľaní</string>
     <string name="share_app_is_launching">{0,choice,0#Spúšťanie aplikácie...|1#%s sa spúšťa...}</string>
     <string name="share_by_email_start">Pokus o zdieľanie %1$s na pozadí</string>
@@ -2291,6 +2316,8 @@ Pripojte nabíjačku a vypnite obrazovku, aby sa objavili spomienky."</string>
     <string name="slim_action_auto_backup_tip">Zapnite synchronizáciu s cloudom</string>
     <string name="slim_after_backuped_summary">Nahradiť fotografie v plnom rozlíšení na lokálnom úložisku optimalizovanými náhľadmi po zálohovaní na MiCloud. Fotografie v plnom rozlíšení sú stále uložené na Micloud. Takto môžete ušetriť mnoho voľného miesta.</string>
     <string name="slim_after_backuped_title">Optimalizovať lokálne úložisko po zálohovaní</string>
+    <string name="slim_auto_backup_cloud_confirm_detail">Zapnite synchronizáciu s cloudom, aby ste mohli nahrávať fotografie a videá zo svojho zariadenia do cloudu.</string>
+    <string name="slim_auto_backup_cloud_confirm_title">Synchronizácia s cloudom</string>
     <string name="slim_complete">Hotovo</string>
     <string name="slim_complete_action_title">Optimalizované</string>
     <string name="slim_complete_count">"Optimalizované %1$s a %2$s. "</string>
@@ -2310,6 +2337,9 @@ Pripojte nabíjačku a vypnite obrazovku, aby sa objavili spomienky."</string>
     <string name="slim_dialog_title">Optimalizácia úložiska</string>
     <string name="slim_exit_dialog_positive">Zastaviť</string>
     <string name="slim_exit_dialog_title">Zastaviť optimalizáciu</string>
+    <string name="slim_finish_upgrade_tip"><Data>Navýšte svoje úložisko cloudového úložiska, aby ste do cloudu synchronizovali viac položiek. Klepnutím &lt;a href=\"%1$s\">Navýšiť&lt;/a>.</Data></string>
+    <string name="slim_function_summery_first">Uchovávajte optimalizované fotografie vo svojom zariadení a uložte pôvodný obrázok do cloudu</string>
+    <string name="slim_function_summery_second">Súbory vytvorené za posledných %d dní sa uložia do vášho zariadenia</string>
     <string name="slim_introduce">Nahradiť fotografie a videa na internom úložisku v plnom rozlíšení za náhľady po ich zálohovaní na MiCloud. V plnom rozlíšení budú i naďalej dostupné na MiCloud. Ušetrite tak viac ako 90% miesta na internom úložisku.</string>
     <string name="slim_introduce_with_specific_size">Nahradiť fotografie a videa na internom úložisku v plnom rozlíšení za náhľady po ich zálohovaní na MiCloud. V plnom rozlíšení budú i naďalej dostupné na MiCloud. Ušetrite tak viac ako %1$s miesta na internom úložisku.</string>
     <string name="slim_now">Zmenšiť teraz</string>
@@ -2322,10 +2352,16 @@ Pripojte nabíjačku a vypnite obrazovku, aby sa objavili spomienky."</string>
     <string name="slim_space">uvoľnené</string>
     <string name="slim_stop">Zastaviť</string>
     <string name="slim_stop_v2">Stop</string>
+    <string name="slim_subtitle_slim_space_prefix">Uvoľnite %1$s %2$s</string>
+    <string name="slim_subtitle_sync_off_no_slimdata">Ak chcete získať odhad voľného miesta, zapnite synchronizáciu s cloudom</string>
+    <string name="slim_subtitle_sync_on_no_slimdata">Synchronizuje sa. Skúste to znova neskôr.</string>
+    <string name="slim_subtitle_sync_on_no_slimdata_no_cloudspace">Navýšte svoje úložisko cloudového úložiska, aby ste mohli synchronizovať viac položiek</string>
     <string name="slim_success_tip">Uvolnené %s z úložiska</string>
     <string name="slim_tip_msg">Albumy budú zmenšené automaticky po pripojení na Wi-Fi. Fotografie a videá v plnom rozlíšení stiahnete kliknutím na \"Stiahnuť\" v menu.</string>
     <string name="slim_tip_title">Zmenšenie</string>
+    <string name="slim_upgrade_button">Navýšiť</string>
     <string name="slimming">Zmenšenie...</string>
+    <string name="slow_motion_enter">Spomalený pohyb</string>
     <string name="sns_access_token_expired_warning">Platnosť relácie vypršala. Ak chcete tento účet znova pripojiť, znova sa prihláste.</string>
     <string name="sns_bind_limit">Príliš veľa pokusov. Vyskúšajte iné spôsoby prihlásenia.</string>
     <string name="sns_sign_in">Iné spôsoby prihlásenia</string>
@@ -2407,6 +2443,7 @@ Do %1$s môžete svoje položky presunúť do Fotiek Google alebo si ich stiahnu
     <string name="sunday">Nedeľa</string>
     <string name="sunday_short">Ned</string>
     <string name="sunday_shortest">N</string>
+    <string name="super_slow_motion_enter">Super spomalený pohyb</string>
     <string name="support_single_image">Vyberte jeden obrázok</string>
     <string name="support_single_video">Vyberte jedno video</string>
     <string name="switch_account_continue">Obnoviť</string>
@@ -2740,6 +2777,7 @@ Do %1$s môžete svoje položky presunúť do Fotiek Google alebo si ich stiahnu
     <string name="video_quality_720p_hd">720P (vysoké rozlíšenie)</string>
     <string name="video_quality_720p_original">720P (nekomprimované)</string>
     <string name="video_quality_title_sub">Súčasné rozlíšenie: %1$s (≈%2$s)</string>
+    <string name="video_tags_enter">Zobraziť značky</string>
     <string name="video_with_time">Video zhotovené o %s</string>
     <string name="video_with_time_and_location">Video zhotovené o %1$s. Poloha: %2$s.</string>
     <string name="view_baby_album">Zobraziť Detský album</string>
@@ -2802,45 +2840,4 @@ Do %1$s môžete svoje položky presunúť do Fotiek Google alebo si ich stiahnu
     <string name="yuzhitiaojie">Upravenie hrúbky</string>
     <string name="zi_ding_yi_wenben">Vlastná veľkosť</string>
     <string name="zman_title">Bezpečné zdieľanie</string>
-    
-<string name="equivalent_focal_length">(ekvivalentná ohnisková vzdialenosť %dmm)</string>
-
-<string name="blur_refocus_enter">Bokeh</string>
-     <string name="burst_photo_enter">Séria</string>
-<string name="delete_media_for_cloud">Vybraté položky budú odstránené z cloudu a zo všetkých synchronizovaných zariadení s nedávno odstránenými položkami.</string>
-     <string name="doc_photo_enter">Upraviť v dokumente</string>
-     <string name="edit_subtitle_enter">Upraviť titulky</string>
-<string name="first_delete_media_for_cloud">Vybraté položky budú odstránené z cloudu a všetkých synchronizovaných zariadení s nedávno odstránenými položkami a budú natrvalo odstránené po %d dňoch, pokiaľ nemáte plán cloudového úložiska. Chcete ho napriek tomu odstrániť?</string>
-<string name="permission_post_notification_desc">Na odosielanie upozornení na zdieľané albumy a aktualizáciu stavu synchronizácie</string>
-<string name="permission_read_media_images_desc">Na prístup k fotografiám a videám a ich ukladanie počas používania Galérie</string>
-     <string name="share_album_risk_control_invalid_name">Tento názov albumu sa nedá použiť. Vyberte iný a skúste to znova.</string>
-     <string name="share_album_risk_control_tip_off">Nahlásiť</string>
-     <string name="share_album_risk_control_tip_off_cate">Typ obsahu</string>
-     <string name="share_album_risk_control_tip_off_cate_illegal">Nezákonné</string>
-     <string name="share_album_risk_control_tip_off_cate_other">Iné</string>
-     <string name="share_album_risk_control_tip_off_cate_political">Politické</string>
-     <string name="share_album_risk_control_tip_off_cate_sex">Sexuálny</string>
-     <string name="share_album_risk_control_tip_off_cate_violence">Násilné</string>
-     <string name="share_album_risk_control_tip_off_dialog_message">Ak nahlásite obsah zdieľaného albumu, bude ho môcť zobraziť iba osoba, ktorá tento obsah odovzdala. Nahlásiť teraz?</string>
-     <string name="share_album_risk_control_tip_off_dialog_title">Nahlásiť</string>
-     <string name="share_album_risk_control_tip_off_select">Vyberte typ obsahu</string>
-     <string name="share_album_risk_control_tip_off_success">Úspešne nahlásené</string>
-     <string name="share_album_risk_control_too_many_albums">Nie je možné vytvoriť viac zdieľaných albumov</string>
-     <string name="share_album_risk_control_too_many_sharers_accept">Nie je možné pridať ďalších členov</string>
-     <string name="share_album_risk_control_too_many_sharers_invite">Nie je možné pozvať ďalších členov</string>
-     <string name="slow_motion_enter">Spomalený pohyb</string>
-     <string name="super_slow_motion_enter">Super spomalený pohyb</string>
-     <string name="video_tags_enter">Zobraziť značky</string>
-    
-<string name="cleaner_subtitle_slim_space_prefix">%1$s %2$s obsadené</string>
-     <string name="slim_auto_backup_cloud_confirm_detail">Zapnite synchronizáciu s cloudom, aby ste mohli nahrávať fotografie a videá zo svojho zariadenia do cloudu.</string>
-     <string name="slim_auto_backup_cloud_confirm_title">Synchronizácia s cloudom</string>
-     <string name="slim_finish_upgrade_tip"><Data>Navýšte svoje úložisko cloudového úložiska, aby ste do cloudu synchronizovali viac položiek. Klepnutím &lt;a href=\"%1$s\">Navýšiť&lt;/a>.</Data></string>
-     <string name="slim_function_summery_first">Uchovávajte optimalizované fotografie vo svojom zariadení a uložte pôvodný obrázok do cloudu</string>
-     <string name="slim_function_summery_second">Súbory vytvorené za posledných %d dní sa uložia do vášho zariadenia</string>
-     <string name="slim_subtitle_slim_space_prefix">Uvoľnite %1$s %2$s</string>
-     <string name="slim_subtitle_sync_off_no_slimdata">Ak chcete získať odhad voľného miesta, zapnite synchronizáciu s cloudom</string>
-     <string name="slim_subtitle_sync_on_no_slimdata">Synchronizuje sa. Skúste to znova neskôr.</string>
-     <string name="slim_subtitle_sync_on_no_slimdata_no_cloudspace">Navýšte svoje úložisko cloudového úložiska, aby ste mohli synchronizovať viac položiek</string>
-     <string name="slim_upgrade_button">Navýšiť</string>	
 </resources>

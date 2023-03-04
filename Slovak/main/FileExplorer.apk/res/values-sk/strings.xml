@@ -275,11 +275,15 @@ Skúste presunúť súbory zo zariadenia na Mi Drive."</string>
     <string name="error_invalid_path">Nesprávna cesta</string>
     <string name="error_not_support">Nie je podporované</string>
     <string name="error_open_file_failed_no_app_found">Nenašla sa aplikácia pre otvorenie tohto súboru</string>
+    <string name="evening">Popoludní</string>
     <string name="exception_net_not_available">Skontrolujte nastavenia siete a skúste to znova</string>
     <string name="exit">Ukončiť</string>
     <string name="expand_all">Všetko</string>
     <string name="expand_button_title">Pokročilé</string>
     <string name="exposed_dropdown_menu_content_description">Zobraziť rozbaľovaciu ponuku</string>
+    <string name="extend_service_setting">Ďalšie služby</string>
+    <string name="extend_service_summary">Ak túto službu vypnete, nebudete môcť používať funkcie súvisiace s Mi Drive</string>
+    <string name="extend_service_title">Spravovať súbory Mi Drive</string>
     <string name="extended_storage_file_can_not_open">Nebolo možné otvoriť súbor. Skopírujte súbor na interné úložisko.</string>
     <string name="extract">Rozbaliť</string>
     <string name="fab_menu_sort">Triediť</string>
@@ -642,6 +646,7 @@ Funkcia je dostupná pri stiahnutí hlavnej stránky."</string>
 Download them when you want
 and never miss the cool new ones!"</string>
     <string name="new_function_title_str">About WeChat stickers</string>
+    <string name="new_storage_info_detail">Dostupné: %1$s | Celkom: %2$s</string>
     <string name="next">Ďalej</string>
     <string name="night">Večer</string>
     <string name="no">Nie</string>
@@ -980,6 +985,9 @@ Získali ste ďalších %1$s"</string>
     <string name="start_use_xiaomi_account">Prihlásiť</string>
     <string name="stay_awake_summary">Zabrániť spánku počas FTP prenosu</string>
     <string name="stay_awake_title">Zabrániť spánku</string>
+    <string name="stop_extend_service_dialog_confirm">Vypnúť</string>
+    <string name="stop_extend_service_dialog_summary">Ak túto funkciu vypnete, nebudete môcť spravovať svoje súbory uložené v Mi Drive. Vypnúť ju napriek tomu?</string>
+    <string name="stop_extend_service_dialog_tilte">Ďalšie služby</string>
     <string name="stop_server">Ukončiť FTP</string>
     <string name="storage_cloned_app">Úložisko pre klonované apl.</string>
     <string name="storage_info">Dostupné: %1$s</string>
@@ -1089,7 +1097,6 @@ Získali ste ďalších %1$s"</string>
     <string name="user_message_text">Správy</string>
     <string name="user_not_login">Prihláste sa</string>
     <string name="utf8_summary">Predvolené kódovanie FTP</string>
-    <string name="evening">Popoludní</string>
     <string name="video_play_failed">Neznáma chyba</string>
     <string name="video_releasing">Nahrávanie...</string>
     <string name="video_replay">Prehrať znova</string>
@@ -1122,12 +1129,4 @@ Získali ste ďalších %1$s"</string>
     <string name="year_month_day_format">dd. MMM. yyyy</string>
     <string name="yes">Áno</string>
     <string name="yesterday">Včera</string>
-    <string name="new_storage_info_detail">Dostupné: %1$s | Celkom: %2$s</string>
-	
-<string name="extend_service_setting">Ďalšie služby</string>
-     <string name="extend_service_summary">Ak túto službu vypnete, nebudete môcť používať funkcie súvisiace s Mi Drive</string>
-     <string name="extend_service_title">Spravovať súbory Mi Drive</string>
-     <string name="stop_extend_service_dialog_confirm">Vypnúť</string>
-     <string name="stop_extend_service_dialog_summary">Ak túto funkciu vypnete, nebudete môcť spravovať svoje súbory uložené v Mi Drive. Vypnúť ju napriek tomu?</string>
-     <string name="stop_extend_service_dialog_tilte">Ďalšie služby</string>	
 </resources>

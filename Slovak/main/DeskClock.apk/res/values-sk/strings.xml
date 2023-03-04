@@ -23,6 +23,7 @@
     <string name="alarm_ascending_mode_title">Zvyšujúca sa hlasitosť</string>
     <string name="alarm_clock_more_setting">Ďalšie nastavenia</string>
     <string name="alarm_disabled">Vypnutý</string>
+    <string name="alarm_in_furture_new">Budík za menej ako %d minútu</string>
     <string name="alarm_in_silent_mode_title">Budík v tichom režime</string>
     <string name="alarm_klaxon_service_desc">Služba prehrávania zvuku budíkov nastavených v aplikácii Hodiny.</string>
     <string name="alarm_label_hint">Zadajte názov</string>
@@ -33,6 +34,7 @@
     <string name="alarm_ringtone">Zvonenie budíka</string>
     <string name="alarm_ringtone_picker">Zvuky budíkov</string>
     <string name="alarm_screen">Štýl budíka</string>
+    <string name="alarm_set_new">Budík sa spustí za menej ako %d minútu.</string>
     <string name="alarm_settings">Nastavenie budíkov</string>
     <string name="alarm_settings_category_title">Nastavenie budíka</string>
     <string name="alarm_vibrate">Vibrácie</string>
@@ -50,6 +52,7 @@
     <string name="analog_gadget">Analógové hodiny</string>
     <string name="app_label">Hodiny</string>
     <string name="app_name">Nastavenia</string>
+    <string name="auto_silence_entries1">Nikdy</string>
     <string name="auto_silence_never">Nezastaviť</string>
     <string name="auto_silence_summary">Nastaviť čas po ktorom budú budíky a časovač stíšené</string>
     <string name="auto_silence_title">Auto-stíšenie</string>
@@ -75,6 +78,7 @@
     <string name="bedtime_setting_repeat_type_desc">Vyberte dni kedy chcete dostávať upozornenia na spánok</string>
     <string name="bedtime_settings">Nastavenie spánku</string>
     <string name="bedtime_sleep_time_remind">Budete upozornený na čas spánku 15 minút predtým</string>
+    <string name="bedtime_sleep_time_remind_new">Pripomenieme vám, že máte ísť spať %d minút pred týmto časom</string>
     <string name="bedtime_sleep_time_setting">Kedy pôjdete spať?</string>
     <string name="bedtime_wake_up_time_remind">Budík sa deaktivuje</string>
     <string name="bedtime_wake_up_time_setting">Kedy sa chcete prebudiť?</string>
@@ -162,6 +166,8 @@
     <string name="fmt_date_short_month_day">"d. MMM "</string>
     <string name="fmt_date_short_year_month">MMM, yyyy</string>
     <string name="fmt_date_short_year_month_day">d MMM, yyyy</string>
+    <string name="force_start_permission_desc">Povoliť, aby budíky fungovali normálne aj po zatvorení aplikácie</string>
+    <string name="force_start_permission_title">Automatické spustenie</string>
     <string name="force_touch_add_alarm">Budík</string>
     <string name="force_touch_enter_stopwatch">Stopky</string>
     <string name="force_touch_enter_timer">Časovač</string>
@@ -204,6 +210,7 @@
     <string name="life_post_setting_open_desc">Vypnúť opakujúce sa budíky medzi 04:00 a 10:00</string>
     <string name="life_post_setting_open_subtitle">Zobraziť informácie o počasí po zrušení budíka v čase od 4:00 do 9:30</string>
     <string name="life_post_setting_open_summary">Zobraziť informácie o počasí pre prvý vypnutý budík medzi 4:00 a 10:00</string>
+    <string name="life_post_setting_open_summary_new">Zahrnúť informácie o počasí do prvého budíka vypnutého medzi %1$s a %2$s</string>
     <string name="life_post_setting_open_title">Zobraziť ranné hlásenie</string>
     <string name="life_post_setting_wake_up_list_title">História prebudenia</string>
     <string name="life_post_wake_up_acumu_day_title">Počet dní</string>
@@ -225,6 +232,18 @@
     <string name="menu_item_sort_by_name">Zoradiť podľa názvu</string>
     <string name="minute">1 minúta</string>
     <string name="minutes">%d minút</string>
+    <string name="miui_clock_city_name_local">Lokálne</string>
+    <string name="miui_clock_city_name_second">Druhé hodiny</string>
+    <string name="miui_lock_screen_date">EEE, d MMM</string>
+    <string name="miui_lock_screen_date_12">EEE, d MMM</string>
+    <string name="miui_lock_screen_date_two_lines">"EEE
+d MMM"</string>
+    <string name="miui_lock_screen_date_two_lines_12">"EEE
+d MMM"</string>
+    <string name="miui_lock_screen_large_date">"EEE
+d.MM."</string>
+    <string name="miui_lock_screen_large_date_12">"EEE
+d.MM."</string>
     <string name="miuix_appcompat_action_mode_deselect_all">Odznačiť</string>
     <string name="miuix_appcompat_action_mode_select_all">Všetko</string>
     <string name="miuix_appcompat_action_mode_title_empty">Vybrať položky</string>
@@ -270,22 +289,30 @@
     <string name="module_update_success">Aktualizované zvuky pre inteligentný budík boli stiahnuté.</string>
     <string name="module_update_success_control">Rozumiem</string>
     <string name="module_weather_ringtone_download_data">Počasie budíka vyberie rôzne melódie pre budenie podľa aktuálneho počasia. Je potrebné stiahnuť ≈30MB dodatočných dát. Pokračovať?</string>
+    <string name="module_weather_ringtone_download_data_new">Budik vyberá rôzne tóny zvonenia podľa aktuálneho počasia. Hodiny potrebujú stiahnuť ≈%d MB súbor, aby fungovali. Stiahnuť teraz?</string>
     <string name="module_weather_ringtone_download_data_privacy">Počasie budíka vyberie rôzne melódie pre budenie podľa aktuálneho počasia. Je potrebné stiahnuť ≈30MB dodatočných dát. Pokračovať?</string>
+    <string name="module_weather_ringtone_download_data_privacy_new" formatted="false"><Data>Budik vyberá rôzne tóny zvonenia podľa aktuálneho počasia. Hodiny sa musia pripojiť k internetu, aby mohli stiahnuť ≈&lt;xliff:g id=FLOW refersto=30>%d&lt;/xliff:g> MB zvuku. Pred použitím aplikácie Hodiny si tiež musíte prečítať a vyjadriť súhlas s našou &lt;a href=\"%1$s\">Zmluvou s používateľom&lt;/a> a &lt;a href=\"%2$s\">Zásadami ochrany osobných údajov&lt;/a>. Súhlasíte?</Data></string>
     <string name="module_weather_ringtone_download_wifi">Počasie budíka vyberie rôzne melódie pre budenie podľa aktuálneho počasia. Je potrebné stiahnuť ≈30MB dodatočných dát. Pokračovať?</string>
     <string name="module_weather_ringtone_download_wifi_privacy">Počasie budíka vyberie rôzne melódie pre budenie podľa aktuálneho počasia. Je potrebné stiahnuť ≈30MB dodatočných dát. Pokračovať?</string>
     <string name="module_weather_ringtone_introduce">Alarm počasia vyberá rôzne tóny zvonenia podľa aktuálneho počasia.</string>
     <string name="module_weather_ringtone_introduce_global">Počasie budíka vyberie rôzne melódie pre budenie podľa aktuálneho počasia.</string>
     <string name="module_weather_ringtone_update_data">Počasie budíka vyberie rôzne melódie pre budenie podľa aktuálneho počasia. Je potrebné stiahnuť ≈30MB dodatočných dát. Pokračovať?</string>
+    <string name="module_weather_ringtone_update_data_new">Alarm počasia teraz prichádza s hudbou na pozadí a lepšími hlasovými oznámeniami. Hodiny potrebujú stiahnuť ≈%d MB zvuku, aby fungovali. Stiahnuť teraz?</string>
     <string name="module_weather_ringtone_update_success">Počasie budíka vyberie rôzne melódie pre budenie podľa aktuálneho počasia. Môžete to nastaviť v nastaveniach Hodín.</string>
     <string name="module_week_ringtone_download_data">Týždenný budík prehráva rôzne zvuky prírody každý deň. Je potrebné stiahnuť ≈30MB dodatočných dát. Pokračovať?</string>
+    <string name="module_week_ringtone_download_data_new">Prírodný alarm prehráva rôzne zvuky v závislosti od dátumu. Hodiny potrebujú stiahnuť ≈%d MB zvuku, aby fungovali. Stiahnuť teraz?</string>
     <string name="module_week_ringtone_download_data_privacy">Týždenný budík prehráva rôzne zvuky prírody každý deň. Je potrebné stiahnuť ≈30MB dodatočných dát. Pred používaním tejto aplikácie musíte súhlasiť s našimi Podmienkami používania a Ochranou súkromia. Súhlasíte?</string>
+    <string name="module_week_ringtone_download_data_privacy_new" formatted="false"><Data>Prírodný alarm prehráva rôzne zvuky v závislosti od dátumu. Hodiny sa musia pripojiť k internetu, aby mohli stiahnuť ≈&lt;xliff:g id=FLOW refersto=30>%d&lt;/xliff:g> MB zvuku. Pred použitím aplikácie Hodiny si tiež musíte prečítať a vyjadriť súhlas s našimi &lt;a href=\"%1$s\">Zmluvou s používateľom&lt;/a> a &lt;a href=\"%2$s\">Zásadami ochrany osobných údajov&lt;/a>. Súhlasíte?</Data></string>
     <string name="module_week_ringtone_download_wifi">Týždenný budík prehráva rôzne zvuky prírody každý deň. Je potrebné stiahnuť ≈30MB dodatočných dát. Pokračovať?</string>
     <string name="module_week_ringtone_download_wifi_privacy">Týždenný budík prehráva rôzne zvuky prírody každý deň. Je potrebné stiahnuť ≈30MB dodatočných dát. Pred používaním tejto aplikácie musíte súhlasiť s našimi Podmienkami používania a Ochranou súkromia. Súhlasíte?</string>
     <string name="module_week_ringtone_introduce">Týždenný budík prehráva rôzne zvuky prírody každý deň.</string>
     <string name="module_week_ringtone_update_data">Týždenný budík prehráva rôzne zvuky prírody každý deň. Je potrebné stiahnuť ≈30MB dodatočných dát. Pokračovať?</string>
+    <string name="module_week_ringtone_update_data_new">Prírodný alarm prehráva rôzne zvuky v závislosti od dátumu. Hodiny potrebujú stiahnuť ≈%d MB zvuku, aby fungovali. Stiahnuť teraz?</string>
     <string name="module_week_ringtone_update_success">Týždenný budík prehráva rôzne zvuky prírody každý deň. Môžete to nastaviť v nastaveniach Hodín.</string>
     <string name="module_white_noise_download_data">Časovač vyžaduje stiahnutie zvukových súborov. Je potrebné stiahnuť ≈30MB dodatočných dát. Pokračovať?</string>
+    <string name="module_white_noise_download_data_new">Hodiny potrebujú stiahnuť zvukové súbory pre časovače okolitého hluku. Na toto stiahnutie bude potrebných ≈%d MB vašich mobilných dát. Stiahnuť teraz?</string>
     <string name="module_white_noise_download_data_privacy">Časovač vyžaduje stiahnutie zvukových súborov. Je potrebné stiahnuť ≈30MB dodatočných dát. Pred používaním tejto aplikácie musíte súhlasiť s našimi Podmienkami používania a Ochranou súkromia. Súhlasíte?</string>
+    <string name="module_white_noise_download_data_privacy_new" formatted="false"><Data>"Na stiahnutie zvukových súborov pre časovače okolitého hluku (≈&lt;xliff:g id=FLOW refersto=30>%d&lt;/xliff:g> MB) a poskytovať prispôsobené služby, Hodiny sa musia pripojiť k internetu. Pred použitím Hodín si tiež musíte prečítať a vyjadriť súhlas s našimi &lt;a href=\"%1$s\">Zmluvou s používateľom&lt;/a> a &lt;a href=\"%2$s\">Zásady ochrany osobných údajov&lt;/a>. Teraz používate mobilné dáta. Súhlasíte?"</Data></string>
     <string name="module_white_noise_download_wifi">Časovač vyžaduje stiahnutie zvukových súborov. Je potrebné stiahnuť ≈30MB dodatočných dát. Pokračovať?</string>
     <string name="module_white_noise_download_wifi_privacy">Časovač vyžaduje stiahnutie zvukových súborov. Je potrebné stiahnuť ≈30MB dodatočných dát. Pred používaním tejto aplikácie musíte súhlasiť s našimi Podmienkami používania a Ochranou súkromia. Súhlasíte?</string>
     <string name="monday">Pondelok</string>
@@ -343,6 +370,11 @@
     <string name="not_set">Nie je nastavené</string>
     <string name="not_set_temporarily">Nie ďakujem</string>
     <string name="not_update">Neskôr</string>
+    <string name="notification_adv_time_entries1">V nastavenom čase</string>
+    <string name="notification_adv_time_entries2"><xliff id="MINUTES" refersto="15">%d</xliff> minút vopred</string>
+    <string name="notification_adv_time_entries3"><xliff id="MINUTES" refersto="30">%d</xliff> minút vopred</string>
+    <string name="notification_adv_time_entries4"><xliff id="HOUR" refersto="1">%d</xliff> hodinu vopred</string>
+    <string name="notification_adv_time_entries5">Žiadne</string>
     <string name="oneshot_alarm">Vymazať budík po vypnutí</string>
     <string name="open_keep_screen">Displej sa nezhasne</string>
     <string name="open_sleep_record">Povoliť</string>
@@ -422,6 +454,7 @@
     <string name="sleep_duration_desc">Spali ste %1$s %2$s</string>
     <string name="sleep_duration_no_data">Nie je dostatok dát</string>
     <string name="sleep_duration_recommendation">Väčšina ľudí potrebuje 7 až 9 hodín spánku denne</string>
+    <string name="sleep_duration_recommendation_new" formatted="false">Väčšina ľudí potrebuje %d až %d hodín spánku za noc</string>
     <string name="sleep_no_disturbance">Režim Nerušiť</string>
     <string name="sleep_no_disturbance_desc">Prepnúť do režimu Nerušiť kým sa neprebudíte</string>
     <string name="sleep_no_record_text">Začnite sledovať váš spánok pre zobrazenie štatistík</string>
@@ -580,41 +613,4 @@
     <string name="xiaomi_deskclock_uninstall_description_title">Odinštalovať Hodiny?</string>
     <string name="yesterday">Včera</string>
     <string name="your_sounds">Moje zvuky</string>
-    
-    <string name="miui_clock_city_name_local">Lokálne</string>
-    <string name="miui_clock_city_name_second">Druhé hodiny</string>
-  <string name="miui_lock_screen_date">EEE, d MMM</string>
-  <string name="miui_lock_screen_date_12">EEE, d MMM</string>
-  <string name="miui_lock_screen_date_two_lines">"EEE
-d MMM"</string>
-  <string name="miui_lock_screen_date_two_lines_12">"EEE
-d MMM"</string>
-  <string name="miui_lock_screen_large_date">"EEE
-d.MM."</string>
-  <string name="miui_lock_screen_large_date_12">"EEE
-d.MM."</string>   
-
-<string name="force_start_permission_desc">Povoliť, aby budíky fungovali normálne aj po zatvorení aplikácie</string>
-     <string name="force_start_permission_title">Automatické spustenie</string>
-	 
- <string name="alarm_in_furture_new">Budík za menej ako %d minútu</string>
-     <string name="alarm_set_new">Budík sa spustí za menej ako %d minútu.</string>
-<string name="auto_silence_entries1">Nikdy</string>
-     <string name="bedtime_sleep_time_remind_new">Pripomenieme vám, že máte ísť spať %d minút pred týmto časom</string>
-     <string name="life_post_setting_open_summary_new">Zahrnúť informácie o počasí do prvého budíka vypnutého medzi %1$s a %2$s</string>
-     <string name="module_weather_ringtone_download_data_new">Budik vyberá rôzne tóny zvonenia podľa aktuálneho počasia. Hodiny potrebujú stiahnuť ≈%d MB súbor, aby fungovali. Stiahnuť teraz?</string>
-<string name="module_weather_ringtone_download_data_privacy_new" formatted="false"><Data>Budik vyberá rôzne tóny zvonenia podľa aktuálneho počasia. Hodiny sa musia pripojiť k internetu, aby mohli stiahnuť ≈&lt;xliff:g id=FLOW refersto=30>%d&lt;/xliff:g> MB zvuku. Pred použitím aplikácie Hodiny si tiež musíte prečítať a vyjadriť súhlas s našou &lt;a href=\"%1$s\">Zmluvou s používateľom&lt;/a> a &lt;a href=\"%2$s\">Zásadami ochrany osobných údajov&lt;/a>. Súhlasíte?</Data></string>
-<string name="module_weather_ringtone_update_data_new">Alarm počasia teraz prichádza s hudbou na pozadí a lepšími hlasovými oznámeniami. Hodiny potrebujú stiahnuť ≈%d MB zvuku, aby fungovali. Stiahnuť teraz?</string>
-<string name="module_week_ringtone_download_data_new">Prírodný alarm prehráva rôzne zvuky v závislosti od dátumu. Hodiny potrebujú stiahnuť ≈%d MB zvuku, aby fungovali. Stiahnuť teraz?</string>
-<string name="module_week_ringtone_download_data_privacy_new" formatted="false"><Data>Prírodný alarm prehráva rôzne zvuky v závislosti od dátumu. Hodiny sa musia pripojiť k internetu, aby mohli stiahnuť ≈&lt;xliff:g id=FLOW refersto=30>%d&lt;/xliff:g> MB zvuku. Pred použitím aplikácie Hodiny si tiež musíte prečítať a vyjadriť súhlas s našimi &lt;a href=\"%1$s\">Zmluvou s používateľom&lt;/a> a &lt;a href=\"%2$s\">Zásadami ochrany osobných údajov&lt;/a>. Súhlasíte?</Data></string>
-  <string name="module_week_ringtone_update_data_new">Prírodný alarm prehráva rôzne zvuky v závislosti od dátumu. Hodiny potrebujú stiahnuť ≈%d MB zvuku, aby fungovali. Stiahnuť teraz?</string>
-     <string name="module_white_noise_download_data_new">Hodiny potrebujú stiahnuť zvukové súbory pre časovače okolitého hluku. Na toto stiahnutie bude potrebných ≈%d MB vašich mobilných dát. Stiahnuť teraz?</string>
- <string name="module_white_noise_download_data_privacy_new" formatted="false"><Data>"Na stiahnutie zvukových súborov pre časovače okolitého hluku (≈&lt;xliff:g id=FLOW refersto=30>%d&lt;/xliff:g> MB) a poskytovať prispôsobené služby, Hodiny sa musia pripojiť k internetu. Pred použitím Hodín si tiež musíte prečítať a vyjadriť súhlas s našimi &lt;a href=\"%1$s\">Zmluvou s používateľom&lt;/a> a &lt;a href=\"%2$s\">Zásady ochrany osobných údajov&lt;/a>. Teraz používate mobilné dáta. Súhlasíte?"</Data></string>
- <string name="notification_adv_time_entries1">V nastavenom čase</string>
-     <string name="notification_adv_time_entries2"><xliff id="MINUTES" refersto="15">%d</xliff> minút vopred</string>
-     <string name="notification_adv_time_entries3"><xliff id="MINUTES" refersto="30">%d</xliff> minút vopred</string>
-     <string name="notification_adv_time_entries4"><xliff id="HOUR" refersto="1">%d</xliff> hodinu vopred</string>
-     <string name="notification_adv_time_entries5">Žiadne</string>
-     <string name="sleep_duration_recommendation_new" formatted="false">Väčšina ľudí potrebuje %d až %d hodín spánku za noc</string>
-	
 </resources>

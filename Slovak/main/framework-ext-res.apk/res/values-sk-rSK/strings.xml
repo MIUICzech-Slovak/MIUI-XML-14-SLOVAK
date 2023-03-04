@@ -449,6 +449,7 @@
     <string name="sunrise">Východ slnka</string>
     <string name="super_resolution_maintain_tips">Super rozlíšenie nie je dostupné.</string>
     <string name="surprise">Prekvapenie</string>
+    <string name="swipe_up_to_continue_using">Potiahnite nahor pre pokračovanie</string>
     <string name="switch_brand_desc_tv">Zabezpečenie je poskytované Graphite</string>
     <string name="switch_desc_tv">Dva profily. Jedno zariadenie.</string>
     <string name="switching_tv">Prepínanie...</string>
@@ -485,15 +486,18 @@
     <string name="wallpaper_group_concerto_title">Koncert</string>
     <string name="wallpaper_group_crystallization_subtitle">Krása vedy</string>
     <string name="wallpaper_group_crystallization_title">Kryštalizácia</string>
+    <string name="wallpaper_group_curves_title">Krivky</string>
     <string name="wallpaper_group_dynamic_nebula_subtitle">Teun van der Zalm</string>
     <string name="wallpaper_group_dynamic_nebula_title">Dynamická hmlovina</string>
     <string name="wallpaper_group_geometric_subtitle">Rutger Paulusse</string>
     <string name="wallpaper_group_geometric_title">Geometria</string>
+    <string name="wallpaper_group_light_cycles_title">Neónové kruhy</string>
     <string name="wallpaper_group_minimalist_scenery_title">Minimalizmus</string>
     <string name="wallpaper_group_molten_glass_title">Roztavené sklo</string>
     <string name="wallpaper_group_more_system_wallpaper_title">Viac systémových tapiet</string>
     <string name="wallpaper_group_natural_texture_subtitle">Tom Hegen a ďalší</string>
     <string name="wallpaper_group_natural_texture_title">Vzory prírody</string>
+    <string name="wallpaper_group_petros_koublis_title">Sny</string>
     <string name="wallpaper_group_red_mars_title">Mars</string>
     <string name="wallpaper_group_sgn_mountain_title">Hora Siguniang</string>
     <string name="waterdrop_preview">Kvapky</string>
@@ -506,9 +510,4 @@
     <string name="wireless_charging_notification_titile">Reverzné bezdrôtové nabíjanie je deaktivované</string>
     <string name="xspace_head">Klonovaná aplikácia</string>
     <string name="xspace_resolver_activity_title">Vybrať apl.</string>
-    
-<string name="wallpaper_group_curves_title">Krivky</string>
-     <string name="wallpaper_group_light_cycles_title">Neónové kruhy</string>
-     <string name="wallpaper_group_petros_koublis_title">Sny</string>  
-    <string name="swipe_up_to_continue_using">Potiahnite nahor pre pokračovanie</string>     
 </resources>

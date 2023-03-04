@@ -84,6 +84,10 @@
         <item quantity="few">Koncepty</item>
         <item quantity="many">Konceptu</item>
     </plurals>
+    <plurals name="email_filter_rule_max_tips">
+        <item quantity="other">Môžete pridať až %1$d podmienok</item>
+        <item quantity="one">Môžete pridať až %1$d podmienku</item>
+    </plurals>
     <plurals name="half_hour_ago">
         <item quantity="other">Pred pol hodinou</item>
         <item quantity="one">Pred pol hodinou</item>
@@ -137,6 +141,10 @@
         <item quantity="one">Ostáva %1$d príloha</item>
         <item quantity="few">Ostávajú %1$d prílohy</item>
         <item quantity="many">Ostáva %1$d prílohy</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d nových oznámení</item>
+        <item quantity="one">%d nové oznámenie</item>
     </plurals>
     <plurals name="new_messages">
         <item quantity="other">%1$d nových správ</item>
@@ -216,12 +224,4 @@
         <item quantity="few">%1$d týždne dopredu</item>
         <item quantity="many">%1$d týždňa dopredu</item>
     </plurals>
-	<plurals name="mtrl_badge_content_description">
-        <item quantity="other">%d nových oznámení</item>
-        <item quantity="one">%d nové oznámenie</item>
-	</plurals>
-	<plurals name="email_filter_rule_max_tips">
-         <item quantity="other">Môžete pridať až %1$d podmienok</item>
-         <item quantity="one">Môžete pridať až %1$d podmienku</item>
-	</plurals>
 </resources>

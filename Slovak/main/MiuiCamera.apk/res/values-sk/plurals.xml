@@ -53,6 +53,14 @@
         <item quantity="other">Vymazať zvolené položky?</item>
         <item quantity="one">Vymazať zvolenú položku?</item>
     </plurals>
+    <plurals name="exit_camera_hint">
+        <item quantity="other">"&lt;Data>"Nedá sa pripojiť k fotoaparátu.&lt;br>Táto aplikácia bude zatvorená o &lt;font color=#FFCE16>&lt;b>%1$d s&lt; /b>&lt;/font>. Potom počkajte minútu alebo dve a skúste to znova."&lt;/Data>"</item>
+        <item quantity="one">"&lt;Data>"Nedá sa pripojiť ku kamere.&lt;br>Táto aplikácia bude zatvorená o &lt;font color=#FFCE16>&lt;b>%1$d s&lt; /b>&lt;/font>. Potom počkajte minútu alebo dve a skúste to znova."&lt;/Data>"</item>
+    </plurals>
+    <plurals name="exit_thermal_hint">
+        <item quantity="other">&lt;Data>Toto zariadenie je teraz príliš horúce.&lt;br>Aplikácia sa zatvorí o &lt;font color=#FFCE16>&lt;b>%1$d s&lt;/b> &lt;/font>. Aktuálny priebeh sa automaticky uložil.&lt;/Data></item>
+        <item quantity="one">&lt;Data>Toto zariadenie je teraz príliš horúce.&lt;br>Aplikácia sa zatvorí o &lt;font color=#FFCE16>&lt;b>%1$d s&lt;/b> &lt;/font>. Aktuálny priebeh sa automaticky uložil.&lt;/Data></item>
+    </plurals>
     <plurals name="fastmotion_pro_min_unit">
         <item quantity="other">%1$dmin</item>
         <item quantity="one">%1$dmin</item>
@@ -92,6 +100,14 @@
         <item quantity="other">Pred %d minútami</item>
         <item quantity="one">Pred minútou</item>
     </plurals>
+    <plurals name="pad_ccc_temperature_warning_msg">
+        <item quantity="other">Vaše zariadenie je prehriate. Kamera sa zatvorí o %d sekúnd. Vaše fotografie alebo videá sa uložia automaticky.</item>
+        <item quantity="one">Vaše zariadenie je prehriate. Kamera sa zatvorí o %d sekundu. Vaše fotografie alebo videá sa uložia automaticky.</item>
+    </plurals>
+    <plurals name="pref_camera_fastmotion_duration_unit">
+        <item quantity="other">%1$s min</item>
+        <item quantity="one">%1$s min</item>
+    </plurals>
     <plurals name="pref_live_duration_prompt">
         <item quantity="other">Nahrať %ds</item>
         <item quantity="one">Nahrať %ds</item>
@@ -100,29 +116,12 @@
         <item quantity="other">Môžete nahrať zamrznuté videa s max %d objektami.</item>
         <item quantity="one">Môžete nahrať zamrznuté videa s max %d objektom.</item>
     </plurals>
+    <plurals name="timer_burst_setting_total_count">
+        <item quantity="other">%1$s fotografií</item>
+        <item quantity="one">fotka %1$s</item>
+    </plurals>
     <plurals name="toast_burst_snap_finished_summary">
         <item quantity="other">Dávkové snímanie dokončené, zhotovených %1$s snímkov</item>
         <item quantity="one">Dávkové snímanie dokončené, zhotovených %1$s snímkov</item>
     </plurals>
-    
-<plurals name="exit_camera_hint">
-         <item quantity="other">"&lt;Data>"Nedá sa pripojiť k fotoaparátu.&lt;br>Táto aplikácia bude zatvorená o &lt;font color=#FFCE16>&lt;b>%1$d s&lt; /b>&lt;/font>. Potom počkajte minútu alebo dve a skúste to znova."&lt;/Data>"</item>
-         <item quantity="one">"&lt;Data>"Nedá sa pripojiť ku kamere.&lt;br>Táto aplikácia bude zatvorená o &lt;font color=#FFCE16>&lt;b>%1$d s&lt; /b>&lt;/font>. Potom počkajte minútu alebo dve a skúste to znova."&lt;/Data>"</item>
-      </plurals>
-      <plurals name="exit_thermal_hint">
-         <item quantity="other">&lt;Data>Toto zariadenie je teraz príliš horúce.&lt;br>Aplikácia sa zatvorí o &lt;font color=#FFCE16>&lt;b>%1$d s&lt;/b> &lt;/font>. Aktuálny priebeh sa automaticky uložil.&lt;/Data></item>
-         <item quantity="one">&lt;Data>Toto zariadenie je teraz príliš horúce.&lt;br>Aplikácia sa zatvorí o &lt;font color=#FFCE16>&lt;b>%1$d s&lt;/b> &lt;/font>. Aktuálny priebeh sa automaticky uložil.&lt;/Data></item>
-      </plurals>
-      <plurals name="pad_ccc_temperature_warning_msg">
-         <item quantity="other">Vaše zariadenie je prehriate. Kamera sa zatvorí o %d sekúnd. Vaše fotografie alebo videá sa uložia automaticky.</item>
-         <item quantity="one">Vaše zariadenie je prehriate. Kamera sa zatvorí o %d sekundu. Vaše fotografie alebo videá sa uložia automaticky.</item>
-      </plurals>
-      <plurals name="pref_camera_fastmotion_duration_unit">
-         <item quantity="other">%1$s min</item>
-         <item quantity="one">%1$s min</item>
-      </plurals>
-      <plurals name="timer_burst_setting_total_count">
-         <item quantity="other">%1$s fotografií</item>
-         <item quantity="one">fotka %1$s</item>
-      </plurals>    
 </resources>

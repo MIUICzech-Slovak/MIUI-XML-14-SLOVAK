@@ -1162,6 +1162,7 @@ Napriek tomu aktivovať eSIM?"</string>
 Kontaktujte vášho operátora"</string>
     <string name="no_vm_number">Číslo hlasovej schránky neexistuje</string>
     <string name="no_vm_number_msg">Na karte SIM nie je uložené žiadne číslo hlasovej schránky.</string>
+    <string name="no_voice_capability">Nepodarilo sa spojiť s operátorom. Počkajte minútu alebo dve a skúste to znova.</string>
     <string name="no_voip">Internetové hovory nie sú podporované</string>
     <string name="no_volte">Unable to make IMS call</string>
     <string name="no_vt_allowed">To place a video call, turn off the TTY mode</string>
@@ -2011,5 +2012,4 @@ Ak sa rozhodnete uprednostňovať mobilné siete, budú sa predvolene používa�
     <string name="xdivert_summary">CFNRc Nastavenia</string>
     <string name="xdivert_title">X-Divert</string>
     <string name="yesterday">Včera</string>
-<string name="no_voice_capability">Nepodarilo sa spojiť s operátorom. Počkajte minútu alebo dve a skúste to znova.</string>    
 </resources>

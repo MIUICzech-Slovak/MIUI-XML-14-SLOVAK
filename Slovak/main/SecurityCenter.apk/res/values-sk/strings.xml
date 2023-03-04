@@ -411,11 +411,18 @@ alebo zadajte heslo"</string>
     <string name="app_behavior_read_clipboard_bg">Aplikácia %1s načítala položky zo schránky</string>
     <string name="app_behavior_recognition">%1s sa pokúsila o prístup k aktivitám</string>
     <string name="app_behavior_recognition_single">Táto aplikácia načítala info o vašej aktivite</string>
+    <string name="app_behavior_record_cancel">Zrušiť</string>
+    <string name="app_behavior_record_close">Vypnúť</string>
+    <string name="app_behavior_record_close_title">Vypnúť</string>
+    <string name="app_behavior_record_hide_system">Skryť systémové aplikácie</string>
+    <string name="app_behavior_record_open">Zapnúť</string>
+    <string name="app_behavior_record_open_content_text">Záznamy správania aplikácií ukazujú, čo aplikácie robia, a pomáhajú vám vyhnúť sa bezpečnostným rizikám.</string>
     <string name="app_behavior_record_setting_button_title">Zobraziť správanie systémových služieb</string>
     <string name="app_behavior_record_setting_show_system">Zobraziť správanie systémových služieb</string>
     <string name="app_behavior_record_setting_show_system_desc">Povoľte pre zobrazenie správania systémových služieb.</string>
     <string name="app_behavior_record_setting_show_system_title">Zobraziť správanie systémových služieb</string>
     <string name="app_behavior_record_setting_title">Záznamy o správaní</string>
+    <string name="app_behavior_record_show_system">Zobraziť systémové aplikácie</string>
     <string name="app_behavior_search">Vyhľadať</string>
     <string name="app_behavior_sensor">%1s sa pokúsila o prístup k senzorom</string>
     <string name="app_behavior_sensor_single">Táto aplikácia načítala dáta zo senzorov</string>
@@ -1319,6 +1326,11 @@ Svoje telefónne číslo môžete zmeniť v Nastaveniach."</string>
     <string name="continue_install">Inštalovať</string>
     <string name="convenient_mode">Odblokovať všetky apl. súčasne</string>
     <string name="convenient_summary">Nevyžadovať heslo ak je odomknutá 1 apl.</string>
+    <string name="conversation_settings_top">"·Posunutím panela nástrojov konferencie počas audio a video hovorov na celú obrazovku získate prístup k jeho funkciám.
+·Typ a počet funkcií závisí od modelu zariadenia."</string>
+    <string name="conversation_sider_tips">Používajte nové konferenčné nástroje pre najlepší zážitok z hovoru</string>
+    <string name="conversation_summary">Skrášľovanie, prepis titulkov a ďalšie funkcie počas audiohovorov a videohovorov</string>
+    <string name="conversation_title">Nástroje pre konferenciu</string>
     <string name="copy">Kopírovať</string>
     <string name="correction_attention_dialog_message">Nastavovanie. Počkajte kým sa dokončí proces a skúste to znova.</string>
     <string name="cpu_usage_android_system">Android Systém</string>
@@ -1336,6 +1348,19 @@ Svoje telefónne číslo môžete zmeniť v Nastaveniach."</string>
     <string name="cpu_usage_view_action_btn_text">Zobraziť</string>
     <string name="create_gamebooster_destop">Odkaz na ploche vytvorený</string>
     <string name="create_shortcut">Vytvoriť odkaz na ploche pre Zrýchlenie hier</string>
+    <string name="cs_color_sense">Teplota farieb</string>
+    <string name="cs_func_toast_headset">Ak chcete používať túto funkciu, odpojte slúchadlá</string>
+    <string name="cs_func_toast_light">Ak chcete používať túto funkciu, prepnite na predný fotoaparát</string>
+    <string name="cs_func_toast_pickup">Ak chcete použiť túto funkciu, prepnite na videohovor</string>
+    <string name="cs_pickup_multi_desc">%d stupeň snímania zvuku</string>
+    <string name="cs_pickup_multi_title">Viacerí účastníci</string>
+    <string name="cs_pickup_single_desc">Snímajte zvuk iba spred obrazovky</string>
+    <string name="cs_pickup_single_title">Jeden účastník</string>
+    <string name="cs_pickup_surround_desc">Používa AI na zníženie šumu pre ostrý a čistý zvuk</string>
+    <string name="cs_pickup_surround_title">Redukcia šumu mikrofónu</string>
+    <string name="cs_title_pickup">Redukcia hluku</string>
+    <string name="cs_title_smart_subtitle">Prepis titulkov</string>
+    <string name="cs_title_ultraclear">Režim Ultra HD</string>
     <string name="cta_HIPS_Perm_Location_Desc">získať presnú polohu (GPS)</string>
     <string name="cta_agree_desc">Pre používanie tejto aplikácie, povoľte prístup na internet a požadované povolenia.</string>
     <string name="cta_button_text_agree">OK</string>
@@ -1955,6 +1980,9 @@ For more info check the message you received from your service provider"</string
     <string name="gb_advance_settings_vibration_4d">4D vibrácie</string>
     <string name="gb_advance_settings_vibration_4d_summary">Znázorniť akcie v hre vibráciami</string>
     <string name="gb_advance_settings_vibration_4d_summary2">Vibrovať počas zabíjania v hrách</string>
+    <string name="gb_already_in_game_list_tips">Táto položka je už medzi pridanými hrami. Nie je možné ju sem pridať.</string>
+    <string name="gb_already_in_video_list_tips">Táto položka sa už nachádza medzi pridanými video aplikáciami. Nie je možné ju sem pridať.</string>
+    <string name="gb_application_not_find">Nič sa nenašlo</string>
     <string name="gb_audition_instruction">Stlačte a podržte pre nahrávanie (0-10s)</string>
     <string name="gb_audition_play_instruction">Použite slúchadlá pre najlepší efekt</string>
     <string name="gb_barrage_chat_pre_desc">Ukážka</string>
@@ -2093,6 +2121,8 @@ z vášho hrania hier"</string>
     <string name="gd_app_edit_done">Hotovo</string>
     <string name="gd_app_edit_title">Pridať aplikácie</string>
     <string name="gd_app_edit_title_new">Upraviť odkazy plávajúceho okna</string>
+    <string name="gd_setting_conversation">Nástroje pre konferenciu</string>
+    <string name="gd_setting_conversation_desc">Poskytuje množstvo funkcií na použitie pri zvukových hovoroch a videohovoroch na celú obrazovku</string>
     <string name="gd_setting_desc_action1">Otvoriť plávajúce okno</string>
     <string name="gd_setting_desc_action2">Použiť odkaz</string>
     <string name="gd_setting_group_custom_gtb_apps">Hry</string>
@@ -2120,6 +2150,11 @@ z vášho hrania hier"</string>
     <string name="gdpr_msg">Pre používanie bezpečnostných funkcií musíte súhlasiť, že Xiaomi bude zhromažďovať, spracovávať a používať vaše osobné dáta.</string>
     <string name="get_phone_num_fail">Neznáme telefónne číslo</string>
     <string name="get_sys_info">Získavanie informácií...</string>
+    <string name="global_dock_guide_desc_with_split_screen">"· Klepnutím na aplikáciu na bočnom paneli ju otvoríte v plávajúcom okne.
+· Potiahnutím aplikácie do stredu obrazovky ju otvoríte v plávajúcom okne alebo do strany, ak chcete použiť rozdelenú obrazovku.
+· Stlačením a podržaním indikátora posuniete okno."</string>
+    <string name="global_dock_guide_desc_without_split_screen">"· Klepnutím na aplikáciu na bočnom paneli ju otvoríte v plávajúcom okne.
+· Stlačením a podržaním indikátora posuniete okno."</string>
     <string name="global_wa_setting_alert_dialog_content">Môžete uvoľniť %s</string>
     <string name="global_wa_setting_alert_dialog_title">WhatsApp Čistič</string>
     <string name="gmscore_support_remind">Povoľte túto funkciu v prípade, že pozorujete problémy so synchronizáciou Gmail, Google Maps, a ostatných Google aplikácií.</string>
@@ -2359,6 +2394,7 @@ pre kontrolu vašej spotreby"</string>
     <string name="item_virus_lib">Aktualizovať vírusovú databázu automaticky</string>
     <string name="keywords_powercenter_powerrank">Spotreba batérie</string>
     <string name="kilobyte_per_second">KB/s</string>
+    <string name="label">Štítok</string>
     <string name="label_callwait">Čakajúci hovor</string>
     <string name="large_file_sort_type_name">Podľa názvu</string>
     <string name="large_file_sort_type_size">Podľa veľkosti</string>
@@ -2921,6 +2957,7 @@ Vaše zariadenie je teraz %s rýchlejšie."</string>
     <string name="notify_channel_name_behavior">Záznam o správaní</string>
     <string name="notify_channel_name_security">Bezpečnosť systému</string>
     <string name="notify_channel_optimize">Bezpečnostné oznámenia</string>
+    <string name="notify_channel_resident_hide">Upozornenia bezpečnostného asistenta</string>
     <string name="notify_daily_data_usage_body">Pre automatické obmedzenie využitých dát nastavte svoj mesačný limit.</string>
     <string name="notify_daily_limit_body">Nastavte limit mobilných dát.</string>
     <string name="notify_daily_limit_title">Dnes využité: %s</string>
@@ -3118,6 +3155,17 @@ Tento proces skracuje životnosť batérie."</string>
     <string name="pc_battery_history_total_consumption_title">Celková spotreba energie</string>
     <string name="pc_battery_history_usetime_title">Aktívne</string>
     <string name="pc_endurance_calculation">Prebieha výpočet…</string>
+    <string name="pc_entered_extreme_mode">Režim dlhodobého spánku je zapnutý</string>
+    <string name="pc_entered_extreme_mode_summary">Vaše zariadenie je vybité a prešlo do režimu dlhodobého spánku. Aplikácie budú bežať na pozadí a nebudú odosielať upozornenia.</string>
+    <string name="pc_extreme_exit_and_power_off">Ukončiť</string>
+    <string name="pc_extreme_mode_bg_toast">V režime hibernácie budú aplikácie bežať na pozadí a nebudú odosielať upozornenia</string>
+    <string name="pc_extreme_mode_entering">Prebieha režim dlhodobého spánku…</string>
+    <string name="pc_extreme_mode_exit_risk_title">Pozor</string>
+    <string name="pc_extreme_mode_exit_risk_title_summary">Vaše zariadenie je vybité. Ak ukončíte režim hibernácie, vaše zariadenie sa vypne.</string>
+    <string name="pc_extreme_mode_exiting">Ukončuje sa režim dlhodobého spánku…</string>
+    <string name="pc_extreme_mode_find_charger">Nabite svoje zariadenie čo najskôr.</string>
+    <string name="pc_extreme_mode_runtime">Pre %1$s %2$s bol zapnutý režim dlhodobého spánku.</string>
+    <string name="pc_extreme_mode_title">Režim dlhodobého spánku</string>
     <string name="pc_fast_charge_notifi_action_text_off">Zastaviť</string>
     <string name="pc_fast_charge_notifi_action_text_on">Zrýchliť</string>
     <string name="pc_fast_charge_notifi_power_threshold_title">Nastaviť úroveň batérie pre upozornenia</string>
@@ -3131,11 +3179,15 @@ Tento proces skracuje životnosť batérie."</string>
     <string name="pc_fast_charge_switch_title">Zrýchliť nabíjanie</string>
     <string name="pc_fast_charge_switch_toast_message">Zmeny budú použité pri ďalšom nabíjaní</string>
     <string name="pc_fast_charge_title">Zrýchliť nabíjanie</string>
+    <string name="pc_going_to_exit_extreme_mode">Ukončenie režimu dlhodobého spánku</string>
+    <string name="pc_going_to_exit_extreme_mode_summary">Vaše zariadenie sa nabíja. Režim hibernácie je vypnutý.</string>
+    <string name="pc_going_to_extreme_mode">Prechod do režimu dlhodobého spánku</string>
     <string name="pc_hidemode_normal">Vyvážené</string>
     <string name="pc_hidemode_normal_title">Vyvážené</string>
     <string name="pc_hidemode_performance">Výkon</string>
     <string name="pc_hidemode_performance_title">Výkonný režim</string>
     <string name="pc_hidemode_power_save">Úspora</string>
+    <string name="pc_high_temp_protection_noti_summary2">Nie je možné použiť hotspot</string>
     <string name="pc_install_manager">Správca inštalácií</string>
     <string name="pc_main_activity_back">Späť</string>
     <string name="pc_main_battery_text_day">Pridaných %1$smin, ostáva %2$sd</string>
@@ -3184,6 +3236,8 @@ Tento proces skracuje životnosť batérie."</string>
     <string name="permgroupdesc_location">Prístup k polohe</string>
     <string name="permgroupdesc_microphone">Nahrávať zvuk</string>
     <string name="permgroupdesc_phone">Uskutočniť hovory</string>
+    <string name="permgroupdesc_readmediaimages">Prístup k fotografiám a videám</string>
+    <string name="permgroupdesc_readmediavideo">Prístup k hudbe a zvuku</string>
     <string name="permgroupdesc_recognition">Prístup k aktivitám</string>
     <string name="permgroupdesc_sensors">Prístup k senzorom</string>
     <string name="permgroupdesc_sms">Prístup k SMS</string>
@@ -3225,6 +3279,7 @@ Tento proces skracuje životnosť batérie."</string>
     <string name="permission_instruction_get_accounts">Toto povolenie umožňuje aplikáciám prístup k zoznamu účtov uložených vo vašom zariadení. Tento zoznam môže obsahovať všetky vaše osobné účty vytvorené nainštalovanými aplikáciami, ako aj účty z platforiem sociálnych médií a komunikačných nástrojov.</string>
     <string name="permission_instruction_install_shortcuts">Toto povolenie umožňuje aplikáciám vytvárať odkazy na ploche.</string>
     <string name="permission_instruction_install_unknown_source">Toto povolenie umožňuje aplikáciám inštalovať do vášho zariadenia ďalšie aplikácie. Škodlivé aplikácie používajú toto povolenie na inštaláciu aplikácií bez vášho potvrdenia.</string>
+    <string name="permission_instruction_location">Keď udelíte toto povolenie, aplikácie budú používať siete alebo satelitné určovanie polohy na prístup k vašej polohe. Aplikáciám, ktoré túto funkciu podporujú, môžete povoliť prístup iba k vašej približnej polohe.</string>
     <string name="permission_instruction_media_audio">Povoľte toto povolenie aplikáciám pre prístup k hudbe a inému zvuku vo vašom zariadení.</string>
     <string name="permission_instruction_media_files">Udeľuje toto povolenie aplikáciám na prístup k súborom a dokumentom vo vašom zariadení.</string>
     <string name="permission_instruction_modify_audio_settings">Toto povolenie umožňuje aplikáciám upravovať nastavenia zvuku (napr. Upravovať hlasitosť bez vášho potvrdenia). V niektorých aplikáciách možno nebudete môcť upraviť hlasitosť, pokiaľ im nedáte toto povolenie.</string>
@@ -3257,6 +3312,7 @@ Tento proces skracuje životnosť batérie."</string>
     <string name="permission_instruction_touch_pay">Toto povolenie umožňuje aplikáciám uskutočňovať bezkontaktné platby.</string>
     <string name="permission_instruction_use_sip">Toto povolenie umožňuje aplikáciám používať videoslužby SIP.</string>
     <string name="permission_instruction_vr_assistant">Toto povolenie umožňuje aplikáciám využívať služby asistenta VR.</string>
+    <string name="permission_instruction_wall_paper">Udeľte toto povolenie, aby ste aplikáciám umožnili meniť predvolené služby dynamických tapiet a ponechať ich spustené na pozadí.</string>
     <string name="permission_instruction_write_calllog">Toto povolenie umožňuje aplikáciám upravovať históriu hovorov, ktorá môže obsahovať podrobné informácie o vašich prichádzajúcich a odchádzajúcich hovoroch. Škodlivé aplikácie môžu toto povolenie použiť na vymazanie alebo úpravu vašej histórie hovorov.</string>
     <string name="permission_instruction_write_clipboard">Toto povolenie umožňuje aplikáciám ukladať položky do schránky. Spamové správy môžu mať vplyv na vaše bežné používanie schránky.</string>
     <string name="permission_instruction_write_contacts">Toto povolenie umožňuje aplikáciám upravovať, pridávať a odstraňovať kontaktné informácie uložené vo vašom zariadení. Tieto informácie môžu obsahovať frekvenciu vašej komunikácie s konkrétnymi kontaktmi prostredníctvom hovorov, e-mailov a ďalších metód. Toto povolenie tiež umožňuje aplikáciám odstraňovať vaše kontakty.</string>
@@ -3630,6 +3686,8 @@ Tento proces skracuje životnosť batérie."</string>
     <string name="pp_identifier_protection">Chrániť osobné identifikátory</string>
     <string name="pp_interception_net_visit_content_manager">Chrániť Galériu a sociálne aplikácie</string>
     <string name="pp_interception_net_visit_content_manager_detail">Vyberte ktoré aplikácie majú povolenie pre prístup k fotografiám, videám a správam</string>
+    <string name="pp_lab_compact_blur_location">Aplikácie s približnou polohou</string>
+    <string name="pp_lab_compact_blur_location_summary">"Výberom možnosti \"Predvolené\" použijete funkciu približnej polohy systému Android alebo výberom možnosti \"Všetky\" prepnete na MIUI."</string>
     <string name="pp_local_msg">Informácie o polohe</string>
     <string name="pp_manage_apps_location_information">Povoliť aplikáciám prístup k polohe</string>
     <string name="pp_manage_track">Monitorovať sledovače</string>
@@ -3928,6 +3986,7 @@ Počas dátového prenosu sa text a obrázky komprimujú na serveri a tým sa ur
     <string name="privacy_permission_call_title">Chrániť hovory</string>
     <string name="privacy_permission_camera_title">Obmedziť používanie fotoaparátu na pozadí</string>
     <string name="privacy_permission_contacts">Prístup ku kontaktom</string>
+    <string name="privacy_permission_desc">Podrobnosti o povoleniach</string>
     <string name="privacy_permission_location">Prístup k polohe</string>
     <string name="privacy_permission_management">Spravovať povolenia</string>
     <string name="privacy_permission_management_summary">Aplikácie ktoré používajú povolenia pre prístup k hovorom, SMS, a kontaktom</string>
@@ -5131,6 +5190,8 @@ Rešpektujeme a chránime vaše súkromie."</string>
     <string name="tc_sms_report_upload_success">"Data usage report SMS submitted. We'll get right on it!"</string>
     <string name="tc_sms_report_upload_when_net">Thank you for the feedback!</string>
     <string name="ten_percent_total_pkg">%s (10%% z mesačného objemu dát)</string>
+    <string name="terminal_privacy">Ochrana súkromia v zariadení</string>
+    <string name="terminal_privacy_summary">Spracúvať osobné informácie v tomto zariadení</string>
     <string name="tether_custom_dialog_title">Limit mobilných dát</string>
     <string name="tether_limit_dialog_title">Limit mobilných dát</string>
     <string name="tether_limit_value_custom">Vlastné</string>
@@ -5714,69 +5775,4 @@ Skúste zväčšiť rozlíšenie!"</string>
     <string name="xspace_warning_dialog_title">Upozornenie</string>
     <string name="xunyou_server_expired">Relácia vypršala.</string>
     <string name="yesterday">Včera</string>
-    <string name="pc_high_temp_protection_noti_summary2">Nie je možné použiť hotspot</string>
-    
-<string name="app_behavior_record_cancel">Zrušiť</string>
-     <string name="app_behavior_record_close">Vypnúť</string>
-     <string name="app_behavior_record_close_title">Vypnúť</string>
-     <string name="app_behavior_record_hide_system">Skryť systémové aplikácie</string>
-     <string name="app_behavior_record_open">Zapnúť</string>
-     <string name="app_behavior_record_open_content_text">Záznamy správania aplikácií ukazujú, čo aplikácie robia, a pomáhajú vám vyhnúť sa bezpečnostným rizikám.</string>
-     <string name="app_behavior_record_show_system">Zobraziť systémové aplikácie</string>
-     <string name="global_dock_guide_desc_with_split_screen">"· Klepnutím na aplikáciu na bočnom paneli ju otvoríte v plávajúcom okne.
-· Potiahnutím aplikácie do stredu obrazovky ju otvoríte v plávajúcom okne alebo do strany, ak chcete použiť rozdelenú obrazovku.
-· Stlačením a podržaním indikátora posuniete okno."</string>
-     <string name="global_dock_guide_desc_without_split_screen">"· Klepnutím na aplikáciu na bočnom paneli ju otvoríte v plávajúcom okne.
-· Stlačením a podržaním indikátora posuniete okno."</string>    
-
-<string name="terminal_privacy">Ochrana súkromia v zariadení</string>
-<string name="terminal_privacy_summary">Spracúvať osobné informácie v tomto zariadení</string>
-<string name="privacy_permission_desc">Podrobnosti o povoleniach</string>
-
-<string name="conversation_settings_top">"·Posunutím panela nástrojov konferencie počas audio a video hovorov na celú obrazovku získate prístup k jeho funkciám.
-·Typ a počet funkcií závisí od modelu zariadenia."</string>
-     <string name="conversation_sider_tips">Používajte nové konferenčné nástroje pre najlepší zážitok z hovoru</string>
-     <string name="conversation_summary">Skrášľovanie, prepis titulkov a ďalšie funkcie počas audiohovorov a videohovorov</string>
-     <string name="conversation_title">Nástroje pre konferenciu</string>
-     <string name="cs_color_sense">Teplota farieb</string>
-     <string name="cs_func_toast_headset">Ak chcete používať túto funkciu, odpojte slúchadlá</string>
-     <string name="cs_func_toast_light">Ak chcete používať túto funkciu, prepnite na predný fotoaparát</string>
-     <string name="cs_func_toast_pickup">Ak chcete použiť túto funkciu, prepnite na videohovor</string>
-     <string name="cs_pickup_multi_desc">%d stupeň snímania zvuku</string>
-     <string name="cs_pickup_multi_title">Viacerí účastníci</string>
-     <string name="cs_pickup_single_desc">Snímajte zvuk iba spred obrazovky</string>
-     <string name="cs_pickup_single_title">Jeden účastník</string>
-     <string name="cs_pickup_surround_desc">Používa AI na zníženie šumu pre ostrý a čistý zvuk</string>
-     <string name="cs_pickup_surround_title">Redukcia šumu mikrofónu</string>
-     <string name="cs_title_pickup">Redukcia hluku</string>
-     <string name="cs_title_smart_subtitle">Prepis titulkov</string>
-     <string name="cs_title_ultraclear">Režim Ultra HD</string>
-     <string name="gb_already_in_game_list_tips">Táto položka je už medzi pridanými hrami. Nie je možné ju sem pridať.</string>
-     <string name="gb_already_in_video_list_tips">Táto položka sa už nachádza medzi pridanými video aplikáciami. Nie je možné ju sem pridať.</string>
-     <string name="gb_application_not_find">Nič sa nenašlo</string>
-     <string name="gd_setting_conversation">Nástroje pre konferenciu</string>
-     <string name="gd_setting_conversation_desc">Poskytuje množstvo funkcií na použitie pri zvukových hovoroch a videohovoroch na celú obrazovku</string>
-     <string name="label">Štítok</string>
-     <string name="notify_channel_resident_hide">Upozornenia bezpečnostného asistenta</string>
-     <string name="pc_entered_extreme_mode">Režim dlhodobého spánku je zapnutý</string>
-     <string name="pc_entered_extreme_mode_summary">Vaše zariadenie je vybité a prešlo do režimu dlhodobého spánku. Aplikácie budú bežať na pozadí a nebudú odosielať upozornenia.</string>
-     <string name="pc_extreme_exit_and_power_off">Ukončiť</string>
-     <string name="pc_extreme_mode_bg_toast">V režime hibernácie budú aplikácie bežať na pozadí a nebudú odosielať upozornenia</string>
-     <string name="pc_extreme_mode_entering">Prebieha režim dlhodobého spánku…</string>
-     <string name="pc_extreme_mode_exit_risk_title">Pozor</string>
-     <string name="pc_extreme_mode_exit_risk_title_summary">Vaše zariadenie je vybité. Ak ukončíte režim hibernácie, vaše zariadenie sa vypne.</string>
-     <string name="pc_extreme_mode_exiting">Ukončuje sa režim dlhodobého spánku…</string>
-     <string name="pc_extreme_mode_find_charger">Nabite svoje zariadenie čo najskôr.</string>
-     <string name="pc_extreme_mode_runtime">Pre %1$s %2$s bol zapnutý režim dlhodobého spánku.</string>
-     <string name="pc_extreme_mode_title">Režim dlhodobého spánku</string>
-     <string name="pc_going_to_exit_extreme_mode">Ukončenie režimu dlhodobého spánku</string>
-     <string name="pc_going_to_exit_extreme_mode_summary">Vaše zariadenie sa nabíja. Režim hibernácie je vypnutý.</string>
-     <string name="pc_going_to_extreme_mode">Prechod do režimu dlhodobého spánku</string>
-     <string name="permgroupdesc_readmediaimages">Prístup k fotografiám a videám</string>
-     <string name="permgroupdesc_readmediavideo">Prístup k hudbe a zvuku</string>
-<string name="permission_instruction_location">Keď udelíte toto povolenie, aplikácie budú používať siete alebo satelitné určovanie polohy na prístup k vašej polohe. Aplikáciám, ktoré túto funkciu podporujú, môžete povoliť prístup iba k vašej približnej polohe.</string>
-<string name="permission_instruction_wall_paper">Udeľte toto povolenie, aby ste aplikáciám umožnili meniť predvolené služby dynamických tapiet a ponechať ich spustené na pozadí.</string>
-     <string name="pp_lab_compact_blur_location">Aplikácie s približnou polohou</string>
-     <string name="pp_lab_compact_blur_location_summary">"Výberom možnosti \"Predvolené\" použijete funkciu približnej polohy systému Android alebo výberom možnosti \"Všetky\" prepnete na MIUI."</string>
-
 </resources>

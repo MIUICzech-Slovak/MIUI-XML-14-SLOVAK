@@ -33,6 +33,10 @@
         <item quantity="other">Nebolo možné synchr. %s položiek</item>
         <item quantity="one">Nebolo možné synchr. %s položku</item>
     </plurals>
+    <plurals name="cloud_storage_full_upgrade_text">
+        <item quantity="other">Nie je miesto na úložisku. Nepodarilo sa synchronizovať %d fotografií.</item>
+        <item quantity="one">Nie je miesto na úložisku. Nepodarilo sa synchronizovať %d fotografiu.</item>
+    </plurals>
     <plurals name="dirty_blocklist_count">
         <item quantity="other">%d čierne listiny</item>
         <item quantity="one">%d čierna listina</item>
@@ -93,6 +97,10 @@
         <item quantity="other">%d Wi-Fi sietí</item>
         <item quantity="one">%d Wi-Fi sieť</item>
     </plurals>
+    <plurals name="gallery_auto_sync_fail_noti_red_title">
+        <item quantity="other">Nepodarilo sa synchronizovať &lt;font color=#F22424>%s položiek&lt;/font></item>
+        <item quantity="one">Nepodarilo sa synchronizovať &lt;font color=#F22424>%s položku&lt;/font>"</item>
+    </plurals>
     <plurals name="half_hour_ago">
         <item quantity="other">Pred pol hodinou</item>
     </plurals>
@@ -144,6 +152,10 @@
         <item quantity="other">Položiek: %1$s</item>
         <item quantity="one">Položiek: %1$s</item>
     </plurals>
+    <plurals name="noti_quota_full_title_with_icon_text">
+        <item quantity="other">Nie je miesto na úložisku. Nepodarilo sa synchronizovať &lt;font color=#F22424>%d aplikácií&lt;/font></item>
+        <item quantity="one">Nie je miesto na úložisku. Nepodarilo sa synchronizovať &lt;font color=#F22424>%d aplikáciu&lt;/font></item>
+    </plurals>
     <plurals name="num_minutes_ago">
         <item quantity="other">Pred %d minútami</item>
         <item quantity="one">Pred minútou</item>
@@ -160,17 +172,4 @@
         <item quantity="other">%d sú vypnuté</item>
         <item quantity="one">%d je vypnuté</item>
     </plurals>
-	
-<plurals name="cloud_storage_full_upgrade_text">
-         <item quantity="other">Nie je miesto na úložisku. Nepodarilo sa synchronizovať %d fotografií.</item>
-         <item quantity="one">Nie je miesto na úložisku. Nepodarilo sa synchronizovať %d fotografiu.</item>
-     </plurals>
-     <plurals name="gallery_auto_sync_fail_noti_red_title">
-         <item quantity="other">Nepodarilo sa synchronizovať &lt;font color=#F22424>%s položiek&lt;/font></item>
-         <item quantity="one">Nepodarilo sa synchronizovať &lt;font color=#F22424>%s položku&lt;/font>"</item>
-     </plurals>
-     <plurals name="noti_quota_full_title_with_icon_text">
-         <item quantity="other">Nie je miesto na úložisku. Nepodarilo sa synchronizovať &lt;font color=#F22424>%d aplikácií&lt;/font></item>
-         <item quantity="one">Nie je miesto na úložisku. Nepodarilo sa synchronizovať &lt;font color=#F22424>%d aplikáciu&lt;/font></item>
-     </plurals>		
 </resources>

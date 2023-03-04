@@ -163,6 +163,7 @@
     <string name="error_open_file_failed_no_app_found">"Nenašli sa aplikácie, ktoré dokážu otvoriť túto položku"</string>
     <string name="error_ppt_to_pdf_algorithm">"Obrázok sa nepodarilo spracovať. Namiesto toho sa použil pôvodný súbor."</string>
     <string name="error_ptp_ai_recommend_pdf_save_fail">"Nepodarilo sa uložiť. Skúste to znova."</string>
+    <string name="evening">Popoludnie</string>
     <string name="exception_cloud_storage_is_full">Cloudové úložisko je plné</string>
     <string name="exception_copy_file_exist">"Položka, ktorú ste skopírovali, sa už nachádza v cieľovom priečinku"</string>
     <string name="exception_copy_sub_path">"Položky sa nedajú skopírovať do rovnakého priečinka"</string>
@@ -536,7 +537,6 @@ Uistite sa, že ako systémový účet MIUI používate aktuálny účet Mi."</s
     <string name="user_protocol_and_privacy_protocol">Prečítal som si Podmienky používania a Ochranu súkromia.</string>
     <string name="v7_preference_off">VYPNUTÉ</string>
     <string name="v7_preference_on">ZAPNUTÉ</string>
-    <string name="evening">Popoludnie</string>
     <string name="video_picker_title">Vyberte videá</string>
     <string name="view_type">Zobraziť</string>
     <string name="vip_info">VIP: %1$s</string>

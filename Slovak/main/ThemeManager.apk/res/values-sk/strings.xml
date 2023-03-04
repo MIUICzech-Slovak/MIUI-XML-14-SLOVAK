@@ -226,12 +226,14 @@
     <string name="download_failed">Sťahovanie zlyhalo</string>
     <string name="download_preview_failed">Načítavanie náhľadu zlyhalo</string>
     <string name="download_success">Úspešne stiahnuté</string>
+    <string name="dynamic_large_icon_not_support_current_type">%s nie je pre túto dynamickú ikonu podporované</string>
     <string name="dynamic_video_wallpaper">24H tapeta</string>
     <string name="enable_all_free_mode">Len zdarma</string>
     <string name="enable_aod_list">Zapnite vždy zapnuté zobrazenie</string>
     <string name="enable_transparent_wallpaper">Použiť priehľadné pozadie</string>
     <string name="enabling_all_free_mode">Načítavanie...</string>
     <string name="error_icon_content_description">Chyba</string>
+    <string name="evening">Popoludnie</string>
     <string name="exchange_alert">Kód môžete získať počas našich akcií a vložiť ho sem</string>
     <string name="exit_extreme_mode_dialog_agree">Súhlasím</string>
     <string name="exit_extreme_mode_dialog_cancel">Zrušiť</string>
@@ -319,6 +321,7 @@
     <string name="has_mamual_hide_aod">Táto položka je teraz skrytá</string>
     <string name="has_mamual_hide_font">Skryté</string>
     <string name="has_mamual_hide_icons">Skryté ikony</string>
+    <string name="has_mamual_hide_large_icons">Super ikona bola úspešne skrytá</string>
     <string name="has_mamual_hide_theme">Skryté</string>
     <string name="has_mamual_hide_wallpaper">Skryté</string>
     <string name="head_portraits">Profilová fotografia</string>
@@ -333,6 +336,7 @@
     <string name="hide_mamual_hide_aod">Nezobrazovať manuálne skryté AOD témy</string>
     <string name="hide_mamual_hide_font">Nezobrazovať skryté písma</string>
     <string name="hide_mamual_hide_icons">Nezobrazovať manuálne skryté ikony</string>
+    <string name="hide_mamual_hide_large_icons">Nezobrazovať skryté super ikony</string>
     <string name="hide_mamual_hide_miwallpaper">Nezobrazovať manuálne skryté tapety</string>
     <string name="hide_mamual_hide_theme">Nezobrazovať skryté témy</string>
     <string name="hide_mamual_hide_wallpaper">Nezobrazovať skryté tapety</string>
@@ -372,6 +376,28 @@
     <string name="item_resource_audio_optional_phone_ring">Tón zvonenia</string>
     <string name="item_view_role_description">Tab</string>
     <string name="lab">Experimentálne</string>
+    <string name="large_icon_apply_fail_for_in_dock">V doku aplikácie nie je možné použiť ikony Super pre aplikácie</string>
+    <string name="large_icon_apply_fail_for_in_folder">Nie je možné použiť Super ikony pre aplikácie v priečinkoch</string>
+    <string name="large_icon_apply_fail_for_in_oldmode">Super ikony nie sú podporované v zjednodušenom režime</string>
+    <string name="large_icon_apply_fail_for_not_in_launcher">"Superikony nemožno použiť pre aplikácie, ktoré nie sú na ploche</string>
+    <string name="large_icon_detail_title">%s Super ikony</string>
+    <string name="large_icon_detail_warning_dialog_btn_keep">Super ikony</string>
+    <string name="large_icon_detail_warning_dialog_btn_not_keep">Predvolené ikony</string>
+    <string name="large_icon_detail_warning_dialog_msg">Niektoré aplikácie používajú super ikony. Naďalej používať super ikony alebo sa vrátiť k predvoleným ikonám motívu?</string>
+    <string name="large_icon_detail_warning_dialog_title">Nastavenia super ikon</string>
+    <string name="large_icon_no_more">Zatiaľ tu nič nie je</string>
+    <string name="large_icon_no_network">Nepodarilo sa pripojiť k sieti</string>
+    <string name="large_icon_not_support">Nie je možné nastaviť ikony pre %s</string>
+    <string name="large_icon_not_support_current_type">%s nie je pre túto ikonu podporované</string>
+    <string name="large_icon_official">Predvolené</string>
+    <string name="large_icon_picker_haven">Dostupné ikony</string>
+    <string name="large_icon_picker_more">Viac</string>
+    <string name="large_icon_picker_size">Veľkosť ikony</string>
+    <string name="large_icon_theme">Témy</string>
+    <string name="large_icon_to_find_more">Zobraziť viac</string>
+    <string name="large_icon_warning_install">Inštalovať</string>
+    <string name="large_icon_warning_not_install">Nainštalujte %s</string>
+    <string name="large_icon_warning_not_install_msg">Nainštalujte %s, aby ste mohli používať ikonu Super. Inštalovať teraz?</string>
     <string name="like_list">Obľúbené</string>
     <string name="live_wallpaper">Dynamické tapety</string>
     <string name="load_from_local_photos">Galéria</string>
@@ -1030,6 +1056,7 @@ ale obsah ktorý hľadáte nie je dostupný vo vašej krajine."</string>
     <string name="show_mamual_hide_aod">Zobraziť manuálne skryté položky</string>
     <string name="show_mamual_hide_font">Zobraziť ukryté písma</string>
     <string name="show_mamual_hide_icons">Zobraziť ručne skryté ikony</string>
+    <string name="show_mamual_hide_large_icons">Zobraziť skryté super ikony</string>
     <string name="show_mamual_hide_miwallpaper">Zobraziť skryté efekty plochy</string>
     <string name="show_mamual_hide_theme">Zobraziť ukryté témy</string>
     <string name="show_mamual_hide_wallpaper">Zobraziť ukryté tapety</string>
@@ -1108,6 +1135,7 @@ ale obsah ktorý hľadáte nie je dostupný vo vašej krajine."</string>
     <string name="theme_component_title_framework">Framework</string>
     <string name="theme_component_title_homepage">Domáca plocha</string>
     <string name="theme_component_title_icon">Ikony</string>
+    <string name="theme_component_title_large_icon">Super ikony</string>
     <string name="theme_component_title_launcher">Domov</string>
     <string name="theme_component_title_lockstyle">Zámok</string>
     <string name="theme_component_title_lockwallpaper">Tapeta zám.</string>
@@ -1261,7 +1289,6 @@ ale obsah ktorý hľadáte nie je dostupný vo vašej krajine."</string>
     <string name="using_theme_next_automatic_update_summary">Aktualizovať stiahnuté témy automaticky cez Wi-Fi</string>
     <string name="using_theme_show_ad">Odporúčania</string>
     <string name="version_update">Skontrolovať aktualizácie</string>
-    <string name="evening">Popoludnie</string>
     <string name="video_ad_click">Vyskúšať</string>
     <string name="video_ad_try_for_free">Bezplatná skúšobná verzia</string>
     <string name="video_ad_uncomplete_tip">Ak chcete získať motív, dokončite sledovanie videa.</string>
@@ -1366,33 +1393,4 @@ ale obsah ktorý hľadáte nie je dostupný vo vašej krajine."</string>
     <string name="wifi_check_message">Používať na sťahovanie aktualizácií mobilné dáta?</string>
     <string name="wifi_check_tip">Už nezobrazovať</string>
     <string name="yesterday">Včera</string>
-    
-<string name="has_mamual_hide_large_icons">Super ikona bola úspešne skrytá</string>
-     <string name="hide_mamual_hide_large_icons">Nezobrazovať skryté super ikony</string>
-     <string name="large_icon_apply_fail_for_in_dock">V doku aplikácie nie je možné použiť ikony Super pre aplikácie</string>
-     <string name="large_icon_apply_fail_for_in_folder">Nie je možné použiť Super ikony pre aplikácie v priečinkoch</string>
-     <string name="large_icon_apply_fail_for_in_oldmode">Super ikony nie sú podporované v zjednodušenom režime</string>
-     <string name="large_icon_apply_fail_for_not_in_launcher">"Superikony nemožno použiť pre aplikácie, ktoré nie sú na ploche</string>
-     <string name="large_icon_detail_title">%s Super ikony</string>
-     <string name="large_icon_no_more">Zatiaľ tu nič nie je</string>
-     <string name="large_icon_no_network">Nepodarilo sa pripojiť k sieti</string>
-     <string name="large_icon_not_support">Nie je možné nastaviť ikony pre %s</string>
-     <string name="large_icon_official">Predvolené</string>
-     <string name="large_icon_picker_haven">Dostupné ikony</string>
-     <string name="large_icon_picker_more">Viac</string>
-     <string name="large_icon_picker_size">Veľkosť ikony</string>
-     <string name="large_icon_to_find_more">Zobraziť viac</string>
-     <string name="large_icon_warning_install">Inštalovať</string>
-     <string name="large_icon_warning_not_install">Nainštalujte %s</string>
-     <string name="large_icon_warning_not_install_msg">Nainštalujte %s, aby ste mohli používať ikonu Super. Inštalovať teraz?</string>
-     <string name="show_mamual_hide_large_icons">Zobraziť skryté super ikony</string>
-     <string name="theme_component_title_large_icon">Super ikony</string>    
-     
-<string name="dynamic_large_icon_not_support_current_type">%s nie je pre túto dynamickú ikonu podporované</string>
-     <string name="large_icon_detail_warning_dialog_btn_keep">Super ikony</string>
-     <string name="large_icon_detail_warning_dialog_btn_not_keep">Predvolené ikony</string>
-     <string name="large_icon_detail_warning_dialog_msg">Niektoré aplikácie používajú super ikony. Naďalej používať super ikony alebo sa vrátiť k predvoleným ikonám motívu?</string>
-     <string name="large_icon_detail_warning_dialog_title">Nastavenia super ikon</string>
-<string name="large_icon_not_support_current_type">%s nie je pre túto ikonu podporované</string>
-     <string name="large_icon_theme">Témy</string>      
 </resources>

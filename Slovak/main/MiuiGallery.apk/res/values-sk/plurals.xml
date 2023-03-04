@@ -254,6 +254,10 @@
         <item quantity="other">Vybraných: %d</item>
         <item quantity="one">Vybraných: %d</item>
     </plurals>
+    <plurals name="delete_brust_title">
+        <item quantity="other">Odstrániť %d sériových záberov?</item>
+        <item quantity="one">Odstrániť %d sériový záber?</item>
+    </plurals>
     <plurals name="delete_burst_photo_from_all_devices_and_cloud_msg">
         <item quantity="other">Vymazať dávkové snímanie (%d) z MiCloud a zariadení?</item>
         <item quantity="one">Vymazať dávkové snímanie (%d) z MiCloud a zariadení?</item>
@@ -285,6 +289,10 @@
     <plurals name="delete_media_msg_format">
         <item quantity="other">Vymazať %1$d položiek %2$s?</item>
         <item quantity="one">Vymazať %1$d položku %2$s?</item>
+    </plurals>
+    <plurals name="delete_media_title">
+        <item quantity="other">Odstrániť %d položiek?</item>
+        <item quantity="one">Odstrániť %d položku?</item>
     </plurals>
     <plurals name="delete_photo_from_all_devices_and_cloud_msg">
         <item quantity="other">Vymazať %d fotografií zo všetkých zariadení a MiCloud?</item>
@@ -657,13 +665,4 @@
         <item quantity="other">Videá: %d</item>
         <item quantity="one">Videá: %d</item>
     </plurals>
-    
-<plurals name="delete_brust_title">
-         <item quantity="other">Odstrániť %d sériových záberov?</item>
-         <item quantity="one">Odstrániť %d sériový záber?</item>
-     </plurals>
-<plurals name="delete_media_title">
-         <item quantity="other">Odstrániť %d položiek?</item>
-         <item quantity="one">Odstrániť %d položku?</item>
-     </plurals>         
 </resources>

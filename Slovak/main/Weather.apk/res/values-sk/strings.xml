@@ -30,6 +30,7 @@
     <string name="alert_warning">Varovania</string>
     <string name="app_name">Počasie</string>
     <string name="aqi_desc">Index kvality ovzdušia</string>
+    <string name="aqi_detail_5_days">%d-dňová predpoveď</string>
     <string name="aqi_detail_title">Index kvality ovzdušia</string>
     <string name="button_abandon">Zrušiť zmeny</string>
     <string name="button_add_city">Pridať mesto</string>
@@ -377,5 +378,4 @@ Zadajte vaše mesto manuálne"</string>
     <string name="xiaomi_weather_description_title">O Počasí</string>
     <string name="yesterday">Včera</string>
     <string name="your_location">Vaša poloha</string>
-    <string name="aqi_detail_5_days">%d-dňová predpoveď</string>
 </resources>

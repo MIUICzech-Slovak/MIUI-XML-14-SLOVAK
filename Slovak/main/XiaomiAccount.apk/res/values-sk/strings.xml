@@ -174,6 +174,8 @@
     <string name="common_signin_button_text_long">Prihlásiť sa s Google</string>
     <string name="completed">Dokončiť</string>
     <string name="confirm_activate_email">Overené</string>
+    <string name="confirm_bundled_phone_dialog_confirm">Potvrdiť</string>
+    <string name="confirm_bundled_phone_dialog_confirm_timer">Potvrdiť (%ds)</string>
     <string name="confirm_bundled_phone_dialog_title">Potvrďte prepojené telefónne číslo</string>
     <string name="confirm_delete_app_message">Po vymazaní tejto apl, bude nutné overiť vaše telefónne číslo pri ďalšom prihlásení sa ku Xiaomi účtu.</string>
     <string name="confirm_delete_browser_message">Po vymazaní tohto prehliadača, bude nutné overiť vaše telefónne číslo pri ďalšom prihlásení sa ku Xiaomi účtu.</string>
@@ -191,6 +193,7 @@
     <string name="cta_declaration_ignore">Viac sa nepýtať</string>
     <string name="cta_declaration_message">"Pre prihlásenie sa k vášmu Xiaomi účtu, je nutné internetové pripojenie, vyhľadanie vášho zariadenia a povoliť MiCloud. Pre zálohovanie vašich dát, táto aplikácia vyžaduje prístup k vašim kontaktom, SMS a MMS správam, históriu hovorov, a nahrávkam. Tieto dáta nepoužívame k žiadnym komerčným účelom a nie sú poskytované tretím stranám."</string>
     <string name="cta_declaration_title">Podmienky používania</string>
+    <string name="current_account_can_use_pwd_login">Zadajte svoje heslo na prihlásenie</string>
     <string name="current_location_title">Súčasná poloha</string>
     <string name="data_keep_in_device">Ponechať v mojom zariadení</string>
     <string name="data_wipe_from_device">Vymazať z môjho zariadenia</string>
@@ -294,6 +297,7 @@
     <string name="input_new_pwd">Zadajte nové heslo</string>
     <string name="io_error_title">Potvrďte vašu sieť</string>
     <string name="just_a_second">Čakajte prosím...</string>
+    <string name="keep_phone_ticket_login">Prihláste sa pomocou overovacieho kódu</string>
     <string name="loading_micloud_sync_data">Načítavanie...</string>
     <string name="local_device">(toto zariadenie)</string>
     <string name="locating_current_location">Získavanie polohy...</string>
@@ -305,6 +309,7 @@
     <string name="login_guard_prompt">Vyžadovať overenie telefónneho čísla pri nasledujúcom prihlásení sa ku Xiaomi účtu na neznámom zariadení alebo aplikácií.</string>
     <string name="logout_account">Odhlásiť</string>
     <string name="logout_failed">Odhlásenie zlyhalo</string>
+    <string name="messenger_send_button_text">Odoslať</string>
     <string name="mi_account">Môj účet</string>
     <string name="mi_account_identity_title">Overiť vašu identitu</string>
     <string name="mi_member">Xiaomi Komunita</string>
@@ -675,6 +680,8 @@ Skontrolujte aj SPAM."</string>
     <string name="phone_num_use_for">Telefónne číslo použité pre:</string>
     <string name="phone_register">Použiť telefónne číslo</string>
     <string name="phone_send_verify_code_prompt">Odoslať overovací kód na %s</string>
+    <string name="phone_ticket_login">Prihláste sa pomocou overovacieho kódu</string>
+    <string name="phone_ticket_register">Vytvorte si účet s telefónnym číslom</string>
     <string name="phone_unactivated">Neaktivované</string>
     <string name="phone_unknown">Neznáme</string>
     <string name="photoPickerNotFoundText">Obrázok nie je dostupný.</string>
@@ -798,6 +805,7 @@ Uistite sa, že nezabudnete odpovede na otázky."</string>
     <string name="update_phone_notice">Zmeniť bezpečnostné nastavenia</string>
     <string name="update_phone_number_notice_message">Musíte overiť vašu identitu predtým ako zmeníte telefónne číslo.</string>
     <string name="updated_nothing">Žiadna aktualizácia</string>
+    <string name="use_google_account_login">Prihláste sa pomocou účtu Google</string>
     <string name="used_cloud_storage_info">Využité úložisko %s</string>
     <string name="user_agreement_device_permission_desc">Na zaistenie bezpečnosti prihlasovacieho prostredia</string>
     <string name="user_agreement_device_permission_title">Prístup k informáciám o zariadení</string>
@@ -831,14 +839,4 @@ Uistite sa, že nezabudnete odpovede na otázky."</string>
     <string name="wipe_data_dialog_msg_separator">, </string>
     <string name="wipe_data_dialog_title">Niektoré položky neboli synchronizované.</string>
     <string name="yesterday">Včera</string>
-    
-    <string name="confirm_bundled_phone_dialog_confirm">Potvrdiť</string>
-    <string name="confirm_bundled_phone_dialog_confirm_timer">Potvrdiť (%ds)</string>    
-    
-<string name="current_account_can_use_pwd_login">Zadajte svoje heslo na prihlásenie</string>
-     <string name="keep_phone_ticket_login">Prihláste sa pomocou overovacieho kódu</string>
-     <string name="messenger_send_button_text">Odoslať</string>
-     <string name="phone_ticket_login">Prihláste sa pomocou overovacieho kódu</string>
-     <string name="phone_ticket_register">Vytvorte si účet s telefónnym číslom</string>
-     <string name="use_google_account_login">Prihláste sa pomocou účtu Google</string>    
 </resources>

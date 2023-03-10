@@ -796,4 +796,10 @@ Zvýšená bezpečnosť."</string>
     <string name="widget_quick_function">Skratky</string>
     <string name="widgets_preview_title">Pridať widget</string>
     <string name="yesterday">Včera</string>
+    
+<string name="global_search">Vyhľadávanie</string>
+     <string name="home_gesture_notification_and_control_center">Panel upozornení a ovládacie centrum</string>
+     <string name="home_pull_down_know">Rozumiem</string>
+     <string name="home_pull_up_content">Vyhľadávanie môžete otvoriť potiahnutím prstom nadol na ploche.</string>
+     <string name="risk_app_report">Nahlásiť túto aplikáciu</string>    
 </resources>

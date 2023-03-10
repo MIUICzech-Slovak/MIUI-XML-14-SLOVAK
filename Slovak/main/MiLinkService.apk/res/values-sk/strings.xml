@@ -671,4 +671,29 @@ uistite sa, že balík obsahuje najnovšie verzie všetkých aplikácií."</stri
     <string name="wifi_scan_btn_text">Skenovať znova</string>
     <string name="wifi_username_et_hint">ID účtu</string>
     <string name="yesterday">Včera</string>
+    
+<string name="appcirculate_toast_connected">Prenášanie sa začalo</string>
+     <string name="circulate_controlphone_button_hint">Zobraziť obrazovku</string>
+     <string name="circulate_controlphone_title">Spravovať zariadenie</string>
+     <string name="circulate_ringfind_button_hint_play">Prehrať zvuk</string>
+     <string name="circulate_ringfind_button_hint_stop">Zastaviť prehrávanie zvuku</string>
+     <string name="circulate_ringfind_error_hint_ringing">Zvuk sa už prehráva</string>
+     <string name="circulate_ringfind_error_hint_start">Nepodarilo sa prehrať zvuk. Skúste to znova.</string>
+     <string name="circulate_ringfind_error_hint_stop">Nepodarilo sa zastaviť prehrávanie zvuku. Skúste to znova.</string>
+     <string name="circulate_ringfind_title">Prehrať zvuk</string>
+     <string name="circulate_ringfind_title_stop">Zastaviť prehrávanie zvuku</string>
+     <string name="device_type_name_pad">Tablet</string>
+     <string name="device_type_name_phone">Telefón</string>
+     <string name="find_device_close">Rozumiem</string>
+     <string name="find_device_notification_content_phone">%1$s hľadá toto zariadenie pomocou %2$s. Ak chcete zastaviť prehrávanie zvuku, odomknite.</string>
+     <string name="find_device_notification_content_single_phone">Niekto hľadá toto zariadenie pomocou %1$s. Ak chcete zastaviť prehrávanie zvuku, odomknite.</string>
+     <string name="find_device_notification_content_single_tablet">Niekto hľadá toto zariadenie pomocou %1$s. Ak chcete zastaviť prehrávanie zvuku, odomknite.</string>
+     <string name="find_device_notification_content_tablet">%1$s hľadá toto zariadenie pomocou %2$s. Ak chcete zastaviť prehrávanie zvuku, odomknite.</string>
+     <string name="find_device_popup_content_phone">%1$s hľadá toto zariadenie pomocou %2$s.</string>
+     <string name="find_device_popup_content_single_phone">Niekto hľadá toto zariadenie pomocou %1$s.</string>
+     <string name="find_device_popup_content_single_tablet">Niekto hľadá toto zariadenie pomocou %1$s.</string>
+     <string name="find_device_popup_content_tablet">%1$s hľadá toto zariadenie pomocou %2$s.</string>
+     <string name="find_device_title">Prehráva sa zvuk na zariadení</string>
+<string name="guide_page_subtitle_earphones">Presunutím slúchadiel medzi telefónom, tabletom a televízorom rýchlo prepnete pripojenie slúchadiel k inému zariadeniu</string>
+     <string name="guide_page_title_earphones">Rýchle prepnutie</string>    
 </resources>

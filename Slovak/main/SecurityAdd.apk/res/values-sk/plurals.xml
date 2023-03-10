@@ -85,4 +85,12 @@
         <item quantity="other">Nepridaných apl.: %d</item>
         <item quantity="one">Nepridaných apl.: %d</item>
     </plurals>
+    <plurals name="extreme_mode_runtime_hour">
+        <item quantity="other">%s h</item>
+        <item quantity="one">%s h</item>
+    </plurals>
+    <plurals name="extreme_mode_runtime_minute">
+        <item quantity="other">%s min</item>
+        <item quantity="one">%s min</item>
+    </plurals>    
 </resources>

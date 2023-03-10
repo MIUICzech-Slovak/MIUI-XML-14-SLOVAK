@@ -1058,4 +1058,10 @@ na zobrazenie widgetov."</string>
     <string name="xspace_resolver_activity_title">vyberte aplikáciu</string>
     <string name="year_month_day_all_format_en">MM.dd.yyyy HH:mm:ss</string>
     <string name="yesterday">Včera</string>
+    
+<string name="pa_picker_tab_title_fun">Objavujte</string>
+     <string name="pa_setting_personalized_recommenddation_swicth_summary">Získajte odporúčania miniaplikácií na základe vašich záujmov</string>
+     <string name="pa_setting_personalized_recommenddation_swicth_title">Prispôsobené odporúčania</string>
+     <string name="pa_sports_jump_error">Stránku sa nepodarilo otvoriť kvôli chybe.</string>
+     
 </resources>

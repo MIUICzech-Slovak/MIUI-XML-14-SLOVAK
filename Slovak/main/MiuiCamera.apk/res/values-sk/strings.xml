@@ -1714,4 +1714,9 @@ Pomocou nižšie uvedených tlačidiel môžete upraviť text, zobraziť ukážk
     <string name="widget_camera_lens_talk_back">Profesionálne objektívy</string>
     <string name="yesterday">Včera</string>
     <string name="zoom_no_support_tip_48M">Zoom nefunguje v 48MP režime</string>
+    
+<string name="download_hint_check_on_wifi">Ste pripojený k Wi-Fi. Stiahnuť tento súbor %1$s MB teraz?</string>
+     <string name="download_hint_check_on_wifi_cn">Ste pripojený k Wi-Fi. Stiahnuť tento súbor %1$s MB teraz?</string>
+     <string name="download_hint_check_on_wifi_remind">Už viac nepripomínať</string>
+     <string name="download_hint_check_on_wifi_remind_cn">Už viac nepripomínať</string>    
 </resources>

@@ -7787,5 +7787,7 @@ Nastavenie telefónu môže vyžadovať prenos významného množstva dát."</st
     <string name="show_alarm_icon_title">Zobraziť ikonu budíka</string>
     <string name="show_bt_icon_title">Zobraziť ikonu Bluetooth</string>
     <string name="show_mute_icon_title">Zobraziť ikonu Režimu nerušiť</string>
-    <string name="show_nfc_icon_title">Zobraziť ikonu NFC</string>                
+    <string name="show_nfc_icon_title">Zobraziť ikonu NFC</string>   
+    
+    <string name="status_bar_icons_title">Ikony v lište</string>                 
 </resources>

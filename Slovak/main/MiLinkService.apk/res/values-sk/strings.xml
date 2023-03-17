@@ -683,4 +683,6 @@ uistite sa, že balík obsahuje najnovšie verzie všetkých aplikácií."</stri
      <string name="find_device_popup_content_single_phone">Niekto hľadá toto zariadenie pomocou %1$s.</string>
      <string name="find_device_popup_content_single_tablet">Niekto hľadá toto zariadenie pomocou %1$s.</string>
      <string name="find_device_popup_content_tablet">%1$s hľadá toto zariadenie pomocou %2$s.</string>    
+     
+<string name="toast_nfc_same_wifi">Pripojte televízor aj toto zariadenie k rovnakej sieti</string>     
 </resources>

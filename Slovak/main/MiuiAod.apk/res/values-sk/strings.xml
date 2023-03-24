@@ -261,5 +261,18 @@ N e"</string>
     <string name="wednesday">Streda</string>
     <string name="wednesday_short">Str</string>
     <string name="wednesday_shortest">S</string>
+    
+<string name="bold_font">Tučné písmo</string>
+      <string name="material_hour_24h_suffix">%1$s hodín</string>
+      <string name="miuix_appcompat_edit">Upraviť</string>
+      <string name="mtrl_picker_announce_current_range_selection">Výber dátumu začiatku: %1$s – Výber dátumu ukončenia: %2$s</string>
+      <string name="mtrl_picker_announce_current_selection_none">žiadne</string>
+      <string name="mtrl_picker_end_date_description">Dátum ukončenia %1$s</string>
+      <string name="mtrl_picker_navigate_to_current_year_description">Prejsť na aktuálny rok %1$d</string>
+      <string name="mtrl_picker_start_date_description">Dátum začiatku %1$s</string>
+      <string name="mtrl_picker_today_description">Dnes %1$s</string>
+      <string name="searchview_clear_text_content_description">Vymazať text</string>
+      <string name="searchview_navigation_content_description">Späť</string>
+      <string name="side_sheet_accessibility_pane_title">Bočný hárok</string>                                       
 </resources>
 

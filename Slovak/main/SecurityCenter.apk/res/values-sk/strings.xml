@@ -5775,4 +5775,7 @@ Skúste zväčšiť rozlíšenie!"</string>
     <string name="xspace_warning_dialog_title">Upozornenie</string>
     <string name="xunyou_server_expired">Relácia vypršala.</string>
     <string name="yesterday">Včera</string>
+    
+<string name="pc_close_notifi_action">Vypnúť</string>
+     <string name="vb_video_effects_dolby_tips">Rozšírené dialógy a rozšírené stereo nebudú fungovať, keď je zapnutý pohlcujúci zvuk</string>  
 </resources>

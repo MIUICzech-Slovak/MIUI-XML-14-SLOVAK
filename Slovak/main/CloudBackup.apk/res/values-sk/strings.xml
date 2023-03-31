@@ -508,7 +508,7 @@ Pošlite tento kód technikovi."</string>
      <string name="dialog_get_installed_apps_consent_title">Vyžadujú sa povolenia</string>
      <string name="manual_request_notification_permission_dialog_negative_button">Zavrieť</string>
      <string name="manual_request_notification_permission_dialog_positive_button">Nastavenia</string>
-     <string name="manual_request_permissions_dialog_description">"Ak pre \"%s\" neudelíte povolenia, nebudete dostávať včasné upozornenia na neúspešné zálohovanie a iné dôležité akcie. Toto povolenie môžete udeliť v Nastaveniach."</ reťazec>
+     <string name="manual_request_permissions_dialog_description">"Ak pre \"%s\" neudelíte povolenia, nebudete dostávať včasné upozornenia na neúspešné zálohovanie a iné dôležité akcie. Toto povolenie môžete udeliť v Nastaveniach."</string>
      <string name="manual_request_permissions_dialog_title">Vyžadujú sa povolenia</string>
      <string name="request_notification_permission_dialog_confirm">Rozumiem</string>
      <string name="request_permission_post_notification">Na odosielanie upozornení o zálohovaní v cloude</string>

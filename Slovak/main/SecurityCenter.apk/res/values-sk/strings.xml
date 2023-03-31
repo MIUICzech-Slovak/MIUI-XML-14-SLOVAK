@@ -5778,4 +5778,20 @@ Skúste zväčšiť rozlíšenie!"</string>
     
 <string name="pc_close_notifi_action">Vypnúť</string>
      <string name="vb_video_effects_dolby_tips">Rozšírené dialógy a rozšírené stereo nebudú fungovať, keď je zapnutý pohlcujúci zvuk</string>  
+    
+<string name="terminal_privacy_ability">Funkcie a mechanizmy</string>
+     <string name="terminal_privacy_ability_img">Spracovanie obrázkov</string>
+     <string name="terminal_privacy_ability_img_summary">Chytré úpravy a rozpoznávanie fotiek a videí vo Fotoaparáte, Galérii a Tapluse</string>
+     <string name="terminal_privacy_ability_model">Rozpoznanie interakcie zariadení s prostredím</string>
+     <string name="terminal_privacy_ability_model_summary">Počítadlo krokov, múdre gestá, vreckový režim a automatický jas</string>
+     <string name="terminal_privacy_ability_others">Ďalšie mechanizmy</string>
+     <string name="terminal_privacy_ability_others_summary">Zdieľanie obrazovky, testovacie platobné prostredie, odtlačok prsta a rozpoznávanie tváre</string>
+     <string name="terminal_privacy_ability_suggest">Odporúčania</string>
+     <string name="terminal_privacy_ability_suggest_summary">Odporúčania a návrhy zo zložiek na ploche, bočného panela a Mi Wallet</string>
+     <string name="terminal_privacy_ability_summary">*Funkcie a mechanizmy ochrany súkromia v zariadení sa môžu líšiť v závislosti od modelu zariadenia</string>
+     <string name="terminal_privacy_ability_txt">Text</string>
+     <string name="terminal_privacy_ability_txt_summary">Úpravy textu, inteligentné titulky, Taplus, správy a zdieľaná schránka</string>
+     <string name="terminal_privacy_ability_voice">Rozpoznávanie reči</string>
+     <string name="terminal_privacy_ability_voice_summary">Hlasové príkazy a inteligentné titulky</string>
+     <string name="terminal_privacy_instruction">Ochrana súkromia v zariadení zahŕňa funkcie, ktoré zaistia, že vaše osobné údaje budú uložené v tomto zariadení a nebudú nahrané do cloudu</string>    
 </resources>

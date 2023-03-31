@@ -1248,4 +1248,7 @@ Prečítajte si a odsúhlaste naše Podmienky používania a Ochranu súkromia.
     <string name="xiaomi_cloud_service">MiCloud</string>
     <string name="xiaomi_cloud_service_subtitle">Všetky dôležité položky na jednom mieste</string>
     <string name="yesterday">Včera</string>
+	
+<string name="privacy_runtime_perm_notification_desc">Na odosielanie upozornení Xiaomi Cloud Služieb</string>
+     <string name="privacy_runtime_perm_notification_title">Upozornenia</string>	
 </resources>

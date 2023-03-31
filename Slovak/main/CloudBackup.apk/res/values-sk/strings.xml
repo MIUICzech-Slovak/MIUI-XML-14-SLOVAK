@@ -500,4 +500,21 @@ Pošlite tento kód technikovi."</string>
     <string name="wednesday_short">Str</string>
     <string name="wednesday_shortest">S</string>
     <string name="yesterday">Včera</string>
+	
+<string name="backup_failed_reason_get_installed_apps_denied">V Nastaveniach udeľte požadované povolenia na zálohovanie položiek</string>
+     <string name="dialog_button_get_installed_apps_agree">Nastavenia</string>
+     <string name="dialog_button_get_installed_apps_disagree">Zrušiť</string>
+     <string name="dialog_get_installed_apps_consent_message">Ak chcete mať možnosť zálohovať automaticky, udeľte tejto aplikácii v Nastaveniach povolenie na prístup k zoznamu aplikácií nainštalovaných vo vašom zariadení a vyberte možnosť Vždy povoliť.</string>
+     <string name="dialog_get_installed_apps_consent_title">Vyžadujú sa povolenia</string>
+     <string name="manual_request_notification_permission_dialog_negative_button">Zavrieť</string>
+     <string name="manual_request_notification_permission_dialog_positive_button">Nastavenia</string>
+     <string name="manual_request_permissions_dialog_description">"Ak pre \"%s\" neudelíte povolenia, nebudete dostávať včasné upozornenia na neúspešné zálohovanie a iné dôležité akcie. Toto povolenie môžete udeliť v Nastaveniach."</ reťazec>
+     <string name="manual_request_permissions_dialog_title">Vyžadujú sa povolenia</string>
+     <string name="request_notification_permission_dialog_confirm">Rozumiem</string>
+     <string name="request_permission_post_notification">Na odosielanie upozornení o zálohovaní v cloude</string>
+     <string name="request_permission_post_notification_title">Upozornenia</string>
+     <string name="request_permissions_dialog_description">Udeľte povolenia na odosielanie upozornení a pripomienok, aby ste mohli využívať všetky služby, ktoré cloudové zálohovanie ponúka.</string>
+     <string name="request_permissions_dialog_title">Vyžadujú sa povolenia</string>
+     <string name="session_failed_get_installed_apps_denied_detail">Ak chcete mať možnosť zálohovať automaticky, udeľte tejto aplikácii v Nastaveniach povolenie na prístup k zoznamu aplikácií nainštalovaných vo vašom zariadení a vyberte možnosť Vždy povoliť.</string>
+     <string name="session_failed_get_installed_apps_denied_title">Vyžadujú sa povolenia</string>	
 </resources>

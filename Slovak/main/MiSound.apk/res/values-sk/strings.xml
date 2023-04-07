@@ -389,14 +389,10 @@
     <string name="wireless_transmission_confirm">Zapnúť</string>
     <string name="wireless_transmission_definition">Prenášať zvuk z mikrofónu do externého Bluetooth zariadenia</string>
     <string name="wireless_transmission_prompt">Pre prenos zvuku musíte povoliť Bluetooth. Chcete ho zapnúť?</string>
-    <string name="yesterday">Včera</string>
-    
-<string name="permission_go_to_settings">Nastavenia</string>
+    <string name="yesterday">Včera</string>   
+    <string name="permission_go_to_settings">Nastavenia</string>
      <string name="permission_requesr_content">Povoľte tejto aplikácii pripojiť sa k zariadeniam v okolí.</string>
      <string name="permission_requesr_title">Vyžadujú sa povolenia</string>    
-     
-     
-<string name="dolby_dax_title">Priestorový zvuk</string>
      <string name="effect_3dsurround">Pohlcujúci zvuk</string>
      <string name="effect_3dsurround_summary">Vylepšenie hĺbky reprodukcie zvuku pre slúchadlá a reproduktory</string>
      <string name="effect_3dsurround_summary_headphone">Vylepšite hĺbku reprodukcie zvuku pre slúchadlá</string>
@@ -404,35 +400,5 @@
      <string name="effect_misound">Misound</string>
      <string name="effect_none">Žiadne</string>
      <string name="effect_selection">Zvukové efekty</string>
-     <string name="end_wireless_transmission">Zastaviť</string>
-     <string name="eq_preset_rename">Premenovať</string>
-     <string name="keep_sound">Uložiť predvoľbu</string>
-     <string name="music_app_unavailable">Uistite sa, že je k dispozícii aplikácia Mi Hudba.</string>
-     <string name="music_audio_effect_optimize">Nastavenia zvuku</string>
-     <string name="music_audio_effect_optimize_summary">Dirac, slúchadlá a ďalšie nastavenia zvuku</string>
-     <string name="music_audio_effect_optimize_summary_with_hd">Nastavenia zvuku Dirac, Hi-Fi, slúchadiel a ďalších</string>
-     <string name="music_audio_effect_optimize_summary_with_hifi">Nastavenia zvuku Dirac, Hi-Fi, slúchadiel a ďalších</string>
-     <string name="music_audio_effect_settings">Nastavenia efektov</string>
-     <string name="music_dirac_control">Optimalizácia kvality zvuku</string>
-     <string name="music_dirac_mode_general">Všeobecné</string>
-     <string name="music_dirac_mode_general_earbuds">Bežné slúchadlá</string>
-     <string name="music_dirac_mode_general_inear">Bežné slúchadlá do ucha</string>
-     <string name="music_dirac_mode_off">Dirac vypnutý</string>
-     <string name="music_dirac_mode_piston_100">Mi Piston</string>
-     <string name="music_headphone_settings">Vyberte typ slúchadiel</string>
-     <string name="music_headset_audio_visual_apply">Použiť</string>
-     <string name="music_headset_audio_visual_toast">Úspešne použité</string>
-     <string name="music_headset_button_settings">Priradiť tlačidlá</string>
-     <string name="music_mi_effect_summary">Pri používaní reproduktorov používajte Mi Sound Enhancer</string>
-     <string name="music_mi_effect_title">Mi Sound Enhancer</string>
-     <string name="music_sound">Prednastavené</string>
-     <string name="name">Názov</string>
-     <string name="retry_test">Začať odznova</string>
-     <string name="sound_id_rename_repeat">Tento názov je už použitý. Skúste iný.</string>
-     <string name="sound_transmission_cancel">Nie, ďakujem</string>
-<string name="spatial_audio_summary_spk">Zažite ponorenie a pocit priestoru pri prehrávaní zvuku</string>
-     <string name="switch_bluetooth_device">Prepnúť zariadenie</string>
-     <string name="wireless_transmission">Bezdrôtový reproduktor</string>
-     <string name="wireless_transmission_confirm">Zapnúť</string>
-<string name="wireless_transmission_prompt">Na prenos zvuku musí bezdrôtový reproduktor zapnúť Bluetooth. Zapnúť teraz?</string>     
+    <string name="spatial_audio_summary_spk">Zažite ponorenie a pocit priestoru pri prehrávaní zvuku</string>     
 </resources>

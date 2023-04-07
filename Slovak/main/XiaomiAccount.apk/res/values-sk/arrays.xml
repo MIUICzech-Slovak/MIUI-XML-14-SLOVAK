@@ -64,4 +64,9 @@
         <item>Zobrazte svoju profilovú fotku a spravujte informácie o účte</item>
         <item>Osobné údaje; profilová fotka; prezívka; informácie o účte; Xiaomi ID; ID; Xiaomi účet; účet</item>
     </string-array>
+    
+<string-array name="passport_account_user_gender_name">
+         <item>Muž</item>
+         <item>Žena</item>
+     </string-array>    
 </resources>

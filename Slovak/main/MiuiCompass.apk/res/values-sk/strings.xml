@@ -176,4 +176,10 @@
     <string name="wednesday_short">Str</string>
     <string name="wednesday_shortest">S</string>
     <string name="yesterday">Včera</string>
+    
+<string name="invisible_mode_dialog_message">Fotoaparát sa teraz nedá použiť. Ak chcete používať fotoaparát, vypnite režim inkognito v Nastaveniach.</string>
+     <string name="invisible_mode_dialog_negative">Zrušiť</string>
+     <string name="invisible_mode_dialog_positive">Nastavenia</string>
+     <string name="invisible_mode_dialog_title">Ste inkognito</string>
+         <string name="miuix_appcompat_edit">Upraviť</string>    
 </resources>

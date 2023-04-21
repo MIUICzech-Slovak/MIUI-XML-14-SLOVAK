@@ -1068,4 +1068,21 @@ Dajte si pauzu!"</item>
         <item quantity="other">Vírusy: %d</item>
         <item quantity="one">Vírusy: %d</item>
     </plurals>
+    
+<plurals name="gb_vision_enhance_desc_detail">
+         <item quantity="other">"Poznámka:
+·Vylepšený obraz nebude dostupný, keď je zapnutý šetrič batérie alebo je vaše zariadenie prehriate.
+·Inteligentná snímková frekvencia zobrazuje najlepšie výsledky, keď je vaša hra nastavená tak, aby zobrazovala aspoň %d snímok za sekundu."</item>
+         <item quantity="one">"Poznámka:
+·Vylepšený obraz nebude dostupný, keď je zapnutý šetrič batérie alebo je vaše zariadenie prehriate.
+·Inteligentná snímková frekvencia zobrazuje najlepšie výsledky, keď je vaša hra nastavená tak, aby zobrazovala aspoň %d snímok za sekundu."</item>
+     </plurals>
+     <plurals name="opt_antivirus_scan_multi_antivirus_notification_title">
+         <item quantity="other">%2$d aplikácií vrátane %1$s môže byť škodlivých</item>
+         <item quantity="one">%2$d aplikácia vrátane %1$s môže byť škodlivá</item>
+     </plurals>
+     <plurals name="power_center_battery_optimization">
+         <item quantity="other">Optimalizujte využitie batérie v %d scenároch</item>
+         <item quantity="one">Optimalizujte využitie batérie v %d scenári</item>
+     </plurals>    
 </resources>

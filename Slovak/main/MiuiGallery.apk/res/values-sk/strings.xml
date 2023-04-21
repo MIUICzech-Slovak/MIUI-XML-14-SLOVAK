@@ -2840,4 +2840,9 @@ Do %1$s môžete svoje položky presunúť do Fotiek Google alebo si ich stiahnu
     <string name="yuzhitiaojie">Upravenie hrúbky</string>
     <string name="zi_ding_yi_wenben">Vlastná veľkosť</string>
     <string name="zman_title">Bezpečné zdieľanie</string>
+    
+<string name="assistant_page_image_printing">Tlačiť</string>
+     <string name="miuix_appcompat_edit">Upraviť</string>
+     <string name="my_family">Môj domov</string>
+     <string name="user_family">"Domov %1$s"</string>    
 </resources>

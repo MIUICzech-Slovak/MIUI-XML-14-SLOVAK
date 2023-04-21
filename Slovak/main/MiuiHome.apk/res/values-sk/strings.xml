@@ -802,4 +802,7 @@ Zvýšená bezpečnosť."</string>
      <string name="home_pull_down_know">Rozumiem</string>
      <string name="home_pull_up_content">Vyhľadávanie môžete otvoriť potiahnutím prstom nadol na ploche.</string>
      <string name="risk_app_report">Nahlásiť túto aplikáciu</string>    
+     
+<string name="home_pull_down_content">Potiahnutím prstom nadol po domovskej obrazovke vyhľadajte položky na tomto zariadení a online.</string>
+     <string name="home_pull_down_content_tips">Nastavenia môžete zmeniť v časti Nastavenia > Domovská obrazovka > Potiahnutie prstom nadol na Domovskej obrazovke. Vaše nastavenia pre gesto potiahnutia nahor zostanú nezmenené.</string>     
 </resources>

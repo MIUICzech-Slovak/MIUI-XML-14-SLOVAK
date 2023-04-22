@@ -5797,7 +5797,6 @@ Skúste zväčšiť rozlíšenie!"</string>
      
 <string name="app_manager_as_dlg_msg_new">"Povolenie automatického spustenia aplikácie môže zvýšiť množstvo pamäte a výdrž batérie, ktorú využíva. MIUI optimalizuje povolenia automatického spustenia aplikácií, ktoré často nepoužívate, aby sa zlepšil výkon vášho zariadenia."</string >
 <string name="auto_start_tips">"MIUI optimalizuje povolenia automatického spustenia aplikácií, ktoré často nepoužívate, aby sa zlepšil výkon zariadenia."</string>
-<string name="auto_start_tips">"MIUI optimalizuje povolenia automatického spustenia aplikácií, ktoré často nepoužívate, aby sa zlepšil výkon zariadenia."</string>
      <string name="dialog_btn_yes_install_icon">Inštalovať</string>
      <string name="dialog_msg_install_manager_content">Chcete znova nainštalovať zabezpečenie?</string>
      <string name="gb_vision_enhance">Vylepšený vizuál</string>

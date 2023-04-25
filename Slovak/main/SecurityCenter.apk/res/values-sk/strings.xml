@@ -5598,7 +5598,7 @@ Remaining data includes data that has been rolled over from the previous month."
     <string name="user_define_title">Vlastný režim</string>
     <string name="user_guide">Potiahnite nahor pre viac hier</string>
     <string name="user_guide_title">Joystick Picks</string>
-    <string name="vb_advanced_settings">Obrázok</string>
+    <string name="vb_advanced_settings">Obraz</string>
     <string name="vb_advanced_settings_after_open">Potom</string>
     <string name="vb_advanced_settings_before_open">Predtým</string>
     <string name="vb_advanced_settings_pic_stronger_desc">Urobte pohybujúce sa objekty ostrejšie použitím vylepšenia animácií. Táto funkcia zvýši spotrebu batérie.</string>

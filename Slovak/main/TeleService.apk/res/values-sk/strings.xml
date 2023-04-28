@@ -2012,4 +2012,7 @@ Ak sa rozhodnete uprednostňovať mobilné siete, budú sa predvolene používa�
     <string name="xdivert_summary">CFNRc Nastavenia</string>
     <string name="xdivert_title">X-Divert</string>
     <string name="yesterday">Včera</string>
+    
+    <string name="intelligent_dual_sim_summary">Na zvýšenie rýchlosti pripojenia sa použijú mobilné dáta druhej SIM karty</string>
+    <string name="intelligent_dual_sim_title">Inteligentná duálna SIM</string>    
 </resources>

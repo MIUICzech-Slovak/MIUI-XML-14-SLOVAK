@@ -301,7 +301,6 @@
     <string name="config_name_hht">HHT</string>
     <string name="config_name_magic">Mágia</string>
     <string name="config_name_mimovie">Filmový rámček</string>
-    <string name="config_name_ratio">Pomer</string>
     <string name="config_name_scene">Scény</string>
     <string name="config_name_setting">Nastavenia</string>
     <string name="config_name_sound">Zvuk</string>
@@ -1715,11 +1714,7 @@ Pomocou nižšie uvedených tlačidiel môžete upraviť text, zobraziť ukážk
     <string name="yesterday">Včera</string>
     <string name="zoom_no_support_tip_48M">Zoom nefunguje v 48MP režime</string>
     
-<string name="download_hint_check_on_wifi">Ste pripojený k Wi-Fi. Stiahnuť tento súbor %1$s MB teraz?</string>
-     <string name="download_hint_check_on_wifi_cn">Ste pripojený k Wi-Fi. Stiahnuť tento súbor %1$s MB teraz?</string>
-     <string name="download_hint_check_on_wifi_remind">Už viac nepripomínať</string>
-     <string name="download_hint_check_on_wifi_remind_cn">Už viac nepripomínať</string>    
-     
+    
 <string name="accessibility_menu_indicator_down">Menu: Zbaliť</string>
      <string name="accessibility_menu_indicator_up">Menu: Rozbaliť</string>
      <string name="accessibility_watermark_image_off">Vodoznak je vypnutý</string>
@@ -1801,7 +1796,6 @@ Snímky Ultra RAW ušetria %d bit údajov a zachovajú si ešte viac detailov."<
 <string name="pref_watermark_summary">Vodoznaky sa objavia na fotografiách JPEG a HEIF. Sériové zábery, Ultra HD a obrázky Fun Cam nie sú podporované.</string>
      <string name="selfie_setting_title">Nastavenia selfie</string>
      <string name="slow_shutter_description_title">Pomalá uzávierka</string>
-     <string name="super_moon">Super mesiac</string>
      <string name="time_freeze_description_title">Zmrazenie času</string>
 <string name="tip_ai_audio_off">Priblíženie zvuku: Vypnuté</string>
      <string name="tip_ai_audio_single_off">Predný zvuk: Vyp.</string>

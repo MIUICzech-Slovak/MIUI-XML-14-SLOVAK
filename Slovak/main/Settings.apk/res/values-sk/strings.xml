@@ -7789,5 +7789,16 @@ Nastavenie telefónu môže vyžadovať prenos významného množstva dát."</st
     <string name="show_mute_icon_title">Zobraziť ikonu Režimu nerušiť</string>
     <string name="show_nfc_icon_title">Zobraziť ikonu NFC</string>   
     
-    <string name="status_bar_icons_title">Ikony v lište</string>                 
+    <string name="status_bar_icons_title">Ikony v lište</string>    
+    
+<string name="codec_low_latency_summary">Minimalizácia oneskorenia počas synchronizácie zvuku a videa hry</string>
+      <string name="codec_low_latency_title">Nízke oneskorenie</string>     
+      
+<string name="bt_lhdc_declaration">Keď zariadenie Bluetooth podporuje LHDC, bude predvolene pripojené. LHDC umožňuje prehrávať vysokokvalitný zvuk a znižuje latenciu počas hrania, no zároveň zvyšuje spotrebu energie. Počas prehrávania sa môžu vyskytnúť problémy v dôsledku hardvérových obmedzení Bluetooth.</string>
+      <string name="bt_lhdc_dialog_summary">LHDC umožňuje prehrávať vysokokvalitný zvuk a znižuje latenciu počas hrania, no zároveň zvyšuje spotrebu energie. Túto funkciu je možné vypnúť v Nastaveniach.</string>
+      <string name="bt_lhdc_dialog_title">Aktuálne zariadenie podporuje LHDC, ktoré bolo predvolene pripojené:</string>
+      <string name="bt_lhdc_open_dialog_summary">LHDC umožňuje prehrávať vysokokvalitný zvuk a znižuje latenciu počas hrania, no zároveň zvyšuje spotrebu energie. Počas prehrávania sa môžu vyskytnúť problémy v dôsledku hardvérových obmedzení Bluetooth.</string>
+      <string name="bt_lhdc_open_dialog_title">Zapnúť LHDC?</string>
+      <string name="bt_lhdc_pre_title">LHDC</string>
+      <string name="bt_lhdc_property">Nastavenia</string>                  
 </resources>

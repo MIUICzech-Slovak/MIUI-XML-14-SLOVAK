@@ -68,4 +68,9 @@
         <item quantity="other">Pred %d minútami</item>
         <item quantity="one">Pred minútou</item>
     </plurals>
+    
+     <plurals name="fast_connect_reset_common_seconds">
+        <item quantity="other">Stlačte a podržte %1$ds pre resetovanie</item>
+        <item quantity="one">Stlačte a podržte %1$ds pre resetovanie</item>
+     </plurals>    
 </resources>

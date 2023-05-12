@@ -805,4 +805,9 @@ Zvýšená bezpečnosť."</string>
      
 <string name="home_pull_down_content">Potiahnutím prstom nadol po domovskej obrazovke vyhľadajte položky na tomto zariadení a online.</string>
      <string name="home_pull_down_content_tips">Nastavenia môžete zmeniť v časti Nastavenia > Domovská obrazovka > Potiahnutie prstom nadol na Domovskej obrazovke. Vaše nastavenia pre gesto potiahnutia nahor zostanú nezmenené.</string>     
+	 
+    <string name="fsg_assist_enable_summary">Swipe from the corner of the screen to use Google Assistant</string>
+    <string name="fsg_assist_enable_title">Google Assistant</string>
+
+	 
 </resources>

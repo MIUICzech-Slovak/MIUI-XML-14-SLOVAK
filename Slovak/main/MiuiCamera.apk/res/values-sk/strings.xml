@@ -1205,7 +1205,7 @@ Objekt bude ostrý na rozmazanom pozadí."</string>
     <string name="pref_camera_snap_label_take_movie">Video</string>
     <string name="pref_camera_snap_label_take_picture">Fotografia</string>
     <string name="pref_camera_snap_toast_when_volume_can_wake_screen">Nie je možné použiť \"Rýchle zhotovenie fotografie\" ak sa používajú tlačidlá hlasitosti na prebudenie displeja.</string>
-    <string name="pref_camera_sound_title">Zvuk fotoaparátu</string>
+    <string name="pref_camera_sound_title">Zvuk spúšte</string>
     <string name="pref_camera_square_mode_title">Štvorec</string>
     <string name="pref_camera_sr_enable_title">Povoliť SR</string>
     <string name="pref_camera_stereo_mode_title">Upravenie zaostrenia</string>

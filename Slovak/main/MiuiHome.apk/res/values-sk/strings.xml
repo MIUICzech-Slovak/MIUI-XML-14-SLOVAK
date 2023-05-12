@@ -809,5 +809,7 @@ Zvýšená bezpečnosť."</string>
     <string name="fsg_assist_enable_summary">Swipe from the corner of the screen to use Google Assistant</string>
     <string name="fsg_assist_enable_title">Google Assistant</string>
 
+	<string name="fsg_assist_enable_summary">Ak chcete použiť Asistenta Google, potiahnite prstom z rohu obrazovky</string>
+     <string name="fsg_assist_enable_title">Google Asistent</string>
 	 
 </resources>

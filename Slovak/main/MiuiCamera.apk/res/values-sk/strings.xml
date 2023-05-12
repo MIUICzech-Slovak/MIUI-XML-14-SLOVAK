@@ -1847,4 +1847,30 @@ Snímky Ultra RAW ušetria %d bit údajov a zachovajú si ešte viac detailov."<
 <string name="settings_camera_lens_auto_switch_description">Automaticky prepínať medzi hlavným a teleobjektívom na základe vzdialenosti a jasu</string>
 <string name="pref_video_ai_audio_effect_comparation_3d_i">3D zvuk</string>
 
+
+<string name="cinemaster_cancel">Zrušiť</string>
+      <string name="cinemaster_confirm">Ukončiť</string>
+      <string name="cinemaster_connect_exit_message">Chcete teraz ukončiť nastavenie multicam?</string>
+      <string name="cinemaster_connection_prequires">Najskôr v ovládacom centre zapnite Wi-Fi.</string>
+      <string name="cinemaster_connection_prequires_china">Najskôr v ovládacom centre zapnite Wi-Fi.</string>
+      <string name="cinemaster_description_title">Režim režiséra</string>
+      <string name="cinemaster_guide_content">"Pripojte telefóny a tablety k rovnakej sieti, aby ste ich zjednotili do jedného nastavenia viacerých kamier. Budete môcť používať pripojené zariadenia ako kamery a monitory a snímať jednu scénu z viacerých uhlov."</ reťazec>
+      <string name="cinemaster_guide_content2">"Pripojte telefóny a tablety k rovnakej sieti, aby ste ich spojili do jedného nastavenia viacerých kamier. Budete môcť používať pripojené zariadenia ako kamery a monitory a snímať jednu scénu z viacerých uhlov. Ak vaša sieť prostredie zabraňuje bezproblémovému fungovaniu kanálov monitora, proces nahrávania zostane stále stabilný."</string>
+      <string name="cinemaster_guide_title">Režim režiséra</string>
+      <string name="cinemaster_network_lost">Zariadenie je odpojené. Skúste sa pripojiť znova.</string>
+      <string name="cinemaster_no_devices">Nie sú pripojené žiadne kamery</string>
+      <string name="cinemaster_no_devices_monitor">Nie sú pripojené žiadne monitory</string>
+      <string name="cinemaster_toast_camera_disconnect">Kamera %s je odpojená od nastavenia multikamery</string>
+      <string name="cinemaster_toast_monitor_all_disconnect">Všetky monitory sú odpojené</string>
+      <string name="cinemaster_toast_monitor_connect">Monitor bol úspešne pripojený</string>
+      <string name="cinemaster_toast_monitor_disconnect">Monitor je odpojený od nastavenia multicam</string>
+      <string name="cinemaster_toast_monitor_play_error">Kamera %s bola odpojená od nastavenia multicam z dôvodu chyby</string>
+      <string name="cinemaster_wifi_24g_tips">"Prepnite na sieť %s GHz, aby ste zvýšili stabilitu informačného kanála monitora"</string>
+      
+     <string name="module_name_street">Rýchla snímka</string>
+     <string name="module_name_street_hint">Vyberte vzdialenosť zaostrenia</string>      
+     <string name="street_tip_far">Umiestnite objekt do %d metrov</string>
+     <string name="street_tip_middle">Umiestnite objekt do %d metra</string>
+     <string name="street_tip_near">Umiestnite objekt do %d metra</string>     
+     <string name="module_name_microfilm">Krátky film</string>
 </resources>

@@ -1713,9 +1713,7 @@ Pomocou nižšie uvedených tlačidiel môžete upraviť text, zobraziť ukážk
     <string name="widget_camera_lens_talk_back">Profesionálne objektívy</string>
     <string name="yesterday">Včera</string>
     <string name="zoom_no_support_tip_48M">Zoom nefunguje v 48MP režime</string>
-    
-    
-<string name="accessibility_menu_indicator_down">Menu: Zbaliť</string>
+    <string name="accessibility_menu_indicator_down">Menu: Zbaliť</string>
      <string name="accessibility_menu_indicator_up">Menu: Rozbaliť</string>
      <string name="accessibility_watermark_image_off">Vodoznak je vypnutý</string>
      <string name="accessibility_watermark_image_on">Vodoznak je zapnutý</string>
@@ -1762,15 +1760,15 @@ Pomocou nižšie uvedených tlačidiel môžete upraviť text, zobraziť ukážk
      <string name="parameter_lens_description_wide_uw_tele">Môžete prepínať medzi viacerými dostupnými objektívmi: UW (ultraširokouhlý objektív), WIDE (širokouhlý objektív), TELE (teleobjektív)</string>
      <string name="parameter_lens_description_wide_uw_tele_x">Môžete prepínať medzi viacerými dostupnými objektívmi: UW (ultraširokouhlý objektív), WIDE (širokouhlý objektív), TELE-%1$sX (teleobjektív)</string>
      <string name="parameter_lens_description_wide_uw_tele_xx">Môžete prepínať medzi viacerými dostupnými objektívmi: UW (ultraširokouhlý objektív), WIDE (širokouhlý objektív), TELE-%1$sX (teleobjektív), TELE-%2$sX (teleobjektív šošovka)</string>
-<string name="parameter_log_lut_format_description">Ak chcete importovať prispôsobené LUT pre ukážky videa, zapnite LOG. Videá sa budú zaznamenávať do súborov LOG.</string>
-<string name="parameter_manual_picturestyle_description_new">Pomocou úprav tónov zvýšte alebo znížte kontrast a urobte na obrázku viac vrstiev. Experimentujte s rôznymi odtieňmi, aby vaše fotografie mali teplejší alebo chladnejší vzhľad. Rozhodnite sa, či chcete ostrejšie detaily alebo nižšiu ostrosť pre jemnejší dojem.</string>
-<string name="parameter_peak_raw_description_mm">Súbory RAW zachytávajú nekomprimované údaje a ponúkajú viac možností úprav obrázkov.</string>
+    <string name="parameter_log_lut_format_description">Ak chcete importovať prispôsobené LUT pre ukážky videa, zapnite LOG. Videá sa budú zaznamenávať do súborov LOG.</string>
+    <string name="parameter_manual_picturestyle_description_new">Pomocou úprav tónov zvýšte alebo znížte kontrast a urobte na obrázku viac vrstiev. Experimentujte s rôznymi odtieňmi, aby vaše fotografie mali teplejší alebo chladnejší vzhľad. Rozhodnite sa, či chcete ostrejšie detaily alebo nižšiu ostrosť pre jemnejší dojem.</string>
+    <string name="parameter_peak_raw_description_mm">Súbory RAW zachytávajú nekomprimované údaje a ponúkajú viac možností úprav obrázkov.</string>
      <string name="parameter_peak_raw_title_mm">Formát obrázka</string>
      <string name="parameter_peak_ultra_raw_description_mm">"Súbory RAW zachytávajú nekomprimované údaje a ponúkajú viac možností úpravy obrázkov.
 Snímky Ultra RAW ušetria %d bit údajov a zachovajú si ešte viac detailov."</string>
-<string name="pref_camera_auto_hibernation_desc">Po %d minútach nečinnosti vypnite obrazovku, aby ste šetrili energiu pri nahrávaní bežných alebo časozberných videí, pri použití časovaných zhlukov alebo dlhej expozície</string>
-<string name="pref_camera_heic_image_format_desc3">"Vysoko účinný formát obrázkového súboru šetrí úložný priestor v režimoch Foto a Ultra HD, ale nie je podporovaný niektorými aplikáciami tretích strán. V HEIF nemôžete robiť dynamické zábery a odstraňovať vodoznaky."</string>
-<string name="pref_camera_lying_desc">Upozorniť na aktuálnu orientáciu, keď je zariadenie rovnobežné so zemou pri fotografovaní a skenovaní dokumentov</string>
+    <string name="pref_camera_auto_hibernation_desc">Po %d minútach nečinnosti vypnite obrazovku, aby ste šetrili energiu pri nahrávaní bežných alebo časozberných videí, pri použití časovaných zhlukov alebo dlhej expozície</string>
+    <string name="pref_camera_heic_image_format_desc3">"Vysoko účinný formát obrázkového súboru šetrí úložný priestor v režimoch Foto a Ultra HD, ale nie je podporovaný niektorými aplikáciami tretích strán. V HEIF nemôžete robiť dynamické zábery a odstraňovať vodoznaky."</string>
+    <string name="pref_camera_lying_desc">Upozorniť na aktuálnu orientáciu, keď je zariadenie rovnobežné so zemou pri fotografovaní a skenovaní dokumentov</string>
      <string name="pref_camera_picture_format_title">Formát obrázka</string>
      <string name="pref_camera_picturesize_entry_moive">Film</string>
      <string name="pref_camera_pro_video_log_lut_delete_hint">Odstrániť</string>
@@ -1791,13 +1789,13 @@ Snímky Ultra RAW ušetria %d bit údajov a zachovajú si ešte viac detailov."<
      <string name="pref_camera_watermark_leica">Leica</string>
      <string name="pref_camera_watermark_standard">Normálne</string>
      <string name="pref_movie_solid_support_desc">Funguje pre videá v režime Pro a Time-lapse</string>
-<string name="pref_super_night_se_desc">Detekujte slabé svetelné podmienky pri používaní režimov Fotografia a Portrét na automatické zlepšenie kvality obrazu</string>
-<string name="pref_true_colour_video_mode_summary">Nahrávajte videá v rozlíšení 1080P a 4K v režimoch Video a Pro, aby ste zachytili realistické detaily, úžasné farby a výrazný kontrast (táto funkcia nemusí byť kompatibilná s niektorými aplikáciami tretích strán)</string>
-<string name="pref_watermark_summary">Vodoznaky sa objavia na fotografiách JPEG a HEIF. Sériové zábery, Ultra HD a obrázky Fun Cam nie sú podporované.</string>
+    <string name="pref_super_night_se_desc">Detekujte slabé svetelné podmienky pri používaní režimov Fotografia a Portrét na automatické zlepšenie kvality obrazu</string>
+    <string name="pref_true_colour_video_mode_summary">Nahrávajte videá v rozlíšení 1080P a 4K v režimoch Video a Pro, aby ste zachytili realistické detaily, úžasné farby a výrazný kontrast (táto funkcia nemusí byť kompatibilná s niektorými aplikáciami tretích strán)</string>
+    <string name="pref_watermark_summary">Vodoznaky sa objavia na fotografiách JPEG a HEIF. Sériové zábery, Ultra HD a obrázky Fun Cam nie sú podporované.</string>
      <string name="selfie_setting_title">Nastavenia selfie</string>
      <string name="slow_shutter_description_title">Pomalá uzávierka</string>
      <string name="time_freeze_description_title">Zmrazenie času</string>
-<string name="tip_ai_audio_off">Priblíženie zvuku: Vypnuté</string>
+    <string name="tip_ai_audio_off">Priblíženie zvuku: Vypnuté</string>
      <string name="tip_ai_audio_single_off">Predný zvuk: Vyp.</string>
      <string name="tip_ai_off">Kamera AI: vypnutá</string>
      <string name="tip_cvtype_title1">Štýl: Leica Authentic</string>
@@ -1833,22 +1831,19 @@ Snímky Ultra RAW ušetria %d bit údajov a zachovajú si ešte viac detailov."<
      <string name="tip_ultra_pixel_50M_off">%s: Vyp.</string>
      <string name="tip_ultra_raw_off">Ultra RAW: Vypnuté</string>
      <string name="tip_ultra_wide_boken_off">Režim celého tela: vypnutý</string>
-<string name="top_menu_hint_text">Potiahnutím nadol otvorte ponuku</string>
+    <string name="top_menu_hint_text">Potiahnutím nadol otvorte ponuku</string>
      <string name="vlog_pro_accessible_play_template_sound">Zvuky šablóny vlogu sú zapnuté</string>
      <string name="vlog_pro_accessible_stop_template_sound">Zvuky šablóny vlogu sú vypnuté</string>
      <string name="watermark_choose_one_tip">Na každú fotografiu môžete použiť iba jeden vodoznak.</string>
      <string name="watermark_function_description">O vodoznakoch</string>
-     <string name="watermark_keep_at_least_one">Vyberte aspoň jednu možnosť</string>    
-     
-<string name="pref_beauty_me_mp_switch_title">Úprava efektov mejkapu pre mužov</string>
-<string name="pref_beauty_me_mp_switch_desc">Upravte efekty mejkapu pre mužov na skupinových fotografiách</string>       
-<string name="module_name_street">Rýchla fotografia</string>         
-<string name="settings_camera_lens_auto_switch_title">Automatické nastavenie objektívu</string>
-<string name="settings_camera_lens_auto_switch_description">Automaticky prepínať medzi hlavným a teleobjektívom na základe vzdialenosti a jasu</string>
-<string name="pref_video_ai_audio_effect_comparation_3d_i">3D zvuk</string>
-
-
-<string name="cinemaster_cancel">Zrušiť</string>
+     <string name="watermark_keep_at_least_one">Vyberte aspoň jednu možnosť</string>         
+    <string name="pref_beauty_me_mp_switch_title">Úprava efektov mejkapu pre mužov</string>
+    <string name="pref_beauty_me_mp_switch_desc">Upravte efekty mejkapu pre mužov na skupinových fotografiách</string>       
+    <string name="module_name_street">Rýchla fotografia</string>         
+    <string name="settings_camera_lens_auto_switch_title">Automatické nastavenie objektívu</string>
+    <string name="settings_camera_lens_auto_switch_description">Automaticky prepínať medzi hlavným a teleobjektívom na základe vzdialenosti a jasu</string>
+    <string name="pref_video_ai_audio_effect_comparation_3d_i">3D zvuk</string>
+    <string name="cinemaster_cancel">Zrušiť</string>
       <string name="cinemaster_confirm">Ukončiť</string>
       <string name="cinemaster_connect_exit_message">Chcete teraz ukončiť nastavenie multicam?</string>
       <string name="cinemaster_connection_prequires">Najskôr v ovládacom centre zapnite Wi-Fi.</string>
@@ -1866,8 +1861,6 @@ Snímky Ultra RAW ušetria %d bit údajov a zachovajú si ešte viac detailov."<
       <string name="cinemaster_toast_monitor_disconnect">Monitor je odpojený od nastavenia multicam</string>
       <string name="cinemaster_toast_monitor_play_error">Kamera %s bola odpojená od nastavenia multicam z dôvodu chyby</string>
       <string name="cinemaster_wifi_24g_tips">"Prepnite na sieť %s GHz, aby ste zvýšili stabilitu informačného kanála monitora"</string>
-      
-     <string name="module_name_street">Rýchla snímka</string>
      <string name="module_name_street_hint">Vyberte vzdialenosť zaostrenia</string>      
      <string name="street_tip_far">Umiestnite objekt do %d metrov</string>
      <string name="street_tip_middle">Umiestnite objekt do %d metra</string>

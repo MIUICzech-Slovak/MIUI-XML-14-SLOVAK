@@ -795,21 +795,14 @@ Zvýšená bezpečnosť."</string>
     <string name="widget_global_search">Vyhľadávanie</string>
     <string name="widget_quick_function">Skratky</string>
     <string name="widgets_preview_title">Pridať widget</string>
-    <string name="yesterday">Včera</string>
-    
-<string name="global_search">Vyhľadávanie</string>
+    <string name="yesterday">Včera</string>    
+    <string name="global_search">Vyhľadávanie</string>
      <string name="home_gesture_notification_and_control_center">Panel upozornení a ovládacie centrum</string>
      <string name="home_pull_down_know">Rozumiem</string>
      <string name="home_pull_up_content">Vyhľadávanie môžete otvoriť potiahnutím prstom nadol na ploche.</string>
-     <string name="risk_app_report">Nahlásiť túto aplikáciu</string>    
-     
-<string name="home_pull_down_content">Potiahnutím prstom nadol po domovskej obrazovke vyhľadajte položky na tomto zariadení a online.</string>
+     <string name="risk_app_report">Nahlásiť túto aplikáciu</string>        
+    <string name="home_pull_down_content">Potiahnutím prstom nadol po domovskej obrazovke vyhľadajte položky na tomto zariadení a online.</string>
      <string name="home_pull_down_content_tips">Nastavenia môžete zmeniť v časti Nastavenia > Domovská obrazovka > Potiahnutie prstom nadol na Domovskej obrazovke. Vaše nastavenia pre gesto potiahnutia nahor zostanú nezmenené.</string>     
-	 
-    <string name="fsg_assist_enable_summary">Swipe from the corner of the screen to use Google Assistant</string>
-    <string name="fsg_assist_enable_title">Google Assistant</string>
-
 	<string name="fsg_assist_enable_summary">Ak chcete použiť Asistenta Google, potiahnite prstom z rohu obrazovky</string>
-     <string name="fsg_assist_enable_title">Google Asistent</string>
-	 
+     <string name="fsg_assist_enable_title">Google Asistent</string>	 
 </resources>

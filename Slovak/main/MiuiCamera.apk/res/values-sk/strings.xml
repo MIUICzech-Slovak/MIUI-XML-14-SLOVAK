@@ -1865,27 +1865,5 @@ Snímky Ultra RAW ušetria %d bit údajov a zachovajú si ešte viac detailov."<
      <string name="street_tip_far">Umiestnite objekt do %d metrov</string>
      <string name="street_tip_middle">Umiestnite objekt do %d metra</string>
      <string name="street_tip_near">Umiestnite objekt do %d metra</string>     
-     <string name="module_name_microfilm">Krátky film</string>
-     
-<string name="camera_newcta_other_message_new">Ak chcete počas používania aplikácie poskytovať ďalšie služby, môžeme vás požiadať o povolenie na prístup k vašej polohe a stavu hovoru vášho zariadenia.</string>
-     <string name="camera_newcta_phone_message">Na zisťovanie hovorov počas nahrávania videí</string>
-     <string name="camera_newcta_storage_message_2">Na zobrazovanie obrázkov, videí a zvukov</string>
-     <string name="camera_newcta_storage_message_audio">Na prístup a zobrazenie zvukových súborov na tomto zariadení</string>
-     <string name="camera_newcta_storage_message_vdieo_image">Na prístup k fotkám a videám a ich zobrazovanie</string>
-     <string name="cta_perm_phone">Prístup k stavu zariadenia</string>
-     <string name="cta_perm_storage_aural">Prístup k zvukovým súborom</string>
-     <string name="cta_perm_storage_aural_desc">Na prístup a zobrazenie zvukových súborov</string>
-     <string name="cta_perm_storage_visual">Prístup k fotografiám a videám</string>
-     <string name="cta_perm_storage_visual_desc">Na prístup k fotkám a videám a ich zobrazovanie</string>
-     <string name="lunch_audio_permission_content">Nahrať zvuk</string>
-     <string name="lunch_camera_permission_content">Prístup k fotoaparátu</string>
-     <string name="lunch_permission_not_ask_again_msg1">Klepnite na \"Nastavenia\" a udeľte požadované povolenia (%1$s), aby ste mohli používať súvisiace funkcie.</string>
-     <string name="lunch_permission_not_ask_again_msg2">Klepnite na \"Nastavenia\" a udeľte požadované povolenia (%1$s, %2$s), aby ste mohli používať súvisiace funkcie.</string>
-     <string name="lunch_permission_not_ask_again_msg3">Klepnite na \"Nastavenia\" a udeľte požadované povolenia (%1$s, %2$s, %3$s), aby ste mohli používať súvisiace funkcie.</string>
-     <string name="lunch_permission_not_ask_again_msg4">Klepnite na \"Nastavenia\" a udeľte požadované povolenia (%1$s, %2$s, %3$s, %4$s), aby ste mohli používať súvisiace funkcie.</string>
-     <string name="lunch_phone_permission_content">Získať informácie o zariadení</string>
-     <string name="lunch_phone_permission_des">Na zisťovanie hovorov počas nahrávania videí a vylúčenie zvuku hovoru zo záznamu</string>
-     <string name="lunch_storage_permission_audio">Prístup k zvukovým súborom</string>
-     <string name="lunch_storage_permission_video_image">Prístup k fotografiám a videám</string>
-     <string name="lunch_storge_permission_content">Prístup k úložisku</string>     
+     <string name="module_name_microfilm">Krátky film</string>  
 </resources>

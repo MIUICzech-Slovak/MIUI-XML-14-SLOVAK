@@ -226,4 +226,14 @@ dlhý screenshot"</string>
     <string name="wednesday_short">Str</string>
     <string name="wednesday_shortest">S</string>
     <string name="yesterday">Včera</string>
+    
+<string name="annotation_open">Zobraziť nástroje</string>
+     <string name="annotation_stow">Skryť nástroje</string>
+     <string name="privacy_mosaic_result_done">Súkromné informácie sú zablokované</string>
+     <string name="privacy_mosaic_result_fail">Súkromné informácie sa nepodarilo zablokovať. Skúste to znova.</string>
+     <string name="privacy_mosaic_result_none">Nenašli sa žiadne súkromné informácie</string>
+     <string name="privacy_mosaic_tip">Klepnutím zablokujete súkromné informácie</string>
+     <string name="scroll_annotation">Posúvajte sa a pridávajte poznámky</string>
+     <string name="scroll_annotation_btn_quit">Ukončiť anotácie</string>
+     <string name="scroll_annotation_quit_dialog_picture_msg">Uložiť anotácie pred ukončením?</string>    
 </resources>

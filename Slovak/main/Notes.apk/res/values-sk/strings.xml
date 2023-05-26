@@ -680,4 +680,7 @@ http://www.miuios.cz/rom
     <string name="widget_take_notes_title">Poznámky</string>
     <string name="widget_under_privacy_mode">Režim Súkromie, nie je možné zobraziť obsah poznámky</string>
     <string name="yesterday">Včera</string>
+    
+<string name="added_to_clipboard">Úspešne skopírované</string>
+     <string name="clip_resource_deleted">Táto položka už nie je k dispozícii</string> 
 </resources>

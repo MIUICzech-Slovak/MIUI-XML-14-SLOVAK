@@ -5822,4 +5822,41 @@ Táto funkcia nefunguje s vylepšenými videami.
 
 Zapnutím jedného sa vypne druhý.“</string>
 <string name="vb_video_effects_immersion_sound_summary_new">Zažite ponorenie a pocit priestoru pri prehrávaní podporovaného zvuku</string>     
+
+<string name="allow_onetime">Povoliť raz</string>
+     <string name="app_management_for_chain_start">Blokovať otváranie ďalších aplikácií</string>
+     <string name="app_management_for_chain_start_desc">Zabrániť tejto aplikácii pripájať sa k iným aplikáciám alebo ich otvárať</string>
+     <string name="app_management_for_device_id">Skryť identifikátory a zabrániť sledovaniu</string>
+     <string name="app_management_for_device_id_desc">Zabrániť tejto aplikácii v prístupe k vášmu telefónnemu číslu a informáciám umožňujúcim identifikáciu osôb</string>
+     <string name="app_management_for_independent_storage">Izolácia údajov vo vyrovnávacej pamäti</string>
+     <string name="app_management_for_independent_storage_desc">Povoliť aplikácii prístup iba k jej vlastným súborom a údajom</string>
+     <string name="app_management_for_install">Blokovať sťahovanie aplikácií</string>
+     <string name="app_management_for_install_desc">Zabrániť tejto aplikácii v sťahovaní alebo inštalácii iných aplikácií</string>
+     <string name="app_management_measures">Správa aplikácií</string>
+     <string name="app_manager_thumbnail_shield_summary">Maskovať ukážky aplikácií v časti Nedávne</string>
+     <string name="app_name_securitycenter_new">Zabezpečenie</string>
+     <string name="autostart_now_tip">"Zablokované otvorenie \"%1$s\" \"%2$s\" "</string>
+     <string name="blur_location_title">Približná poloha</string>
+     <string name="chainstart_desc_for_exemption">Neskontrolovaná aplikácia \"%1$s\" sa otvára \"%2$s\". Pri platbách buďte opatrní.</string>
+     <string name="cs_pickup_denoise_desc">Zníženie šumu prichádzajúceho zvuku pri používaní reproduktorov alebo slúchadiel</string>
+     <string name="cs_pickup_denoise_title">Redukcia hluku</string>
+<string name="cta_main_purpose_new">"Vitajte v Optimalizáciíí! Optimalizácia a jej moduly (vrátane bezpečnostných komponentov MIUI, bezpečnostných a systémových služieb a Joyose) môžete použiť na uvoľnenie úložného priestoru, skenovanie vášho zariadenia na vírusy, kontrolu spotreby batérie, optimalizujte svoje zariadenie na hranie hier, spravujte aplikácie, prijímajte včasné varovania pred zemetrasením atď. Bezpečnostné komponenty MIUI sa pripojí k internetu a vykonajú bezpečnostné kontroly počas inštalácie aplikácií a uskutočňovania platieb."</string>
+     <string name="dynamic_performance_optimization_summary">Dynamické nastavenie rozlíšenia počas hrania</string>
+     <string name="dynamic_performance_optimization_title">Dynamický výkon</string>
+     <string name="gb_vision_enhance_frme_insertion_tips">"Inteligentná snímková frekvencia
+%dFPS"</string>
+     <string name="input_hint_search_app">Vyhľadávanie aplikácií</string>
+     <string name="overlay_permission_dialog_comment">Povoľte zabezpečeniu zobrazovať položky cez iné aplikácie.</string>
+     <string name="overlay_permission_dialog_comment_pad">Povoľte zabezpečeniu zobrazovať položky cez iné aplikácie.</string>
+     <string name="overlay_permission_dialog_comment_security_service">Povoliť \"Nástrojom zabezpečenia\" zobrazovať položky cez iné aplikácie. Toto povolenie môžete udeliť v Nastaveniach.</string>
+     <string name="overlay_permission_dialog_message">Zabezpečenie potrebuje povolenia, aby mohlo normálne fungovať.</string>
+     <string name="overlay_permission_dialog_message_pad">Zabezpečenie potrebuje povolenia, aby mohlo normálne fungovať.</string>
+     <string name="overlay_permission_dialog_message_security_service">Zabezpečenie potrebuje na normálne fungovanie určité povolenia.</string>
+     <string name="overlay_permission_dialog_open">Nastavenia</string>
+     <string name="overlay_permission_dialog_title">Vyžadujú sa povolenia</string>
+     <string name="precise_location_title">Presná poloha</string>
+     <string name="privacy_thumbnail_shield_title">Maskovanie ukážky</string>
+     <string name="privacy_thumbnail_shield_top_tip">Maskovať ukážky aplikácií zobrazených v časti Nedávne</string>
+     <string name="sim_lock_verify_time_out">Časový limit overenia vypršal. Skúste to znova.</string>
+     <string name="st_sms_intercept_oversea">Medzinárodná SMS</string>
 </resources>

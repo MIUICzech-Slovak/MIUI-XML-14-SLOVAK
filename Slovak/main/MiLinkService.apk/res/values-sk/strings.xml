@@ -690,4 +690,7 @@ uistite sa, že balík obsahuje najnovšie verzie všetkých aplikácií."</stri
      <string name="onehop_mirror_guide_message_text_1">Prenášajte displej telefónu do počítača jedným klepnutím.</string>
      <string name="onehop_mirror_guide_message_text_2">Vyberte fotografie, videá a ďalšie súbory z aplikácie Galérie alebo Správcu súborov, ktoré chcete preniesť do počítača.</string>
      <string name="onehop_mirror_guide_message_title">Mi Smart Hub</string>
+     
+<string name="dialog_nearbydevice_permission_message">Povoľte tomuto zariadeniu prístup k zariadeniam v okolí, aby bolo možné používať funkcie prenášania.</string>
+     <string name="dialog_nearbydevice_permission_title">Vyžadujú sa povolenia</string>     
 </resources>

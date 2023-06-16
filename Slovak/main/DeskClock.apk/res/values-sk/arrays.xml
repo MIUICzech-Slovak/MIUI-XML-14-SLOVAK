@@ -149,4 +149,14 @@
         <item>Blíži sa piesočná búrka!</item>
         <item>Prajeme prijemný deň!</item>
     </string-array>
+    
+<string-array name="bedtime_guide_repeat_type_international">
+         <item>Po až Pia</item>
+         <item>Každý deň</item>
+     </string-array>
+     <string-array name="bedtime_repeat_entires_international">
+         <item>Každý deň</item>
+         <item>Po až Pia</item>
+         <item>Vlastné</item>
+     </string-array>    
 </resources>

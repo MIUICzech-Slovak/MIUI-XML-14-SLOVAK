@@ -419,4 +419,10 @@ Klepnite na \"%1$s\" a potom vyberte \"%2$s\"."</string>
      <string name="invisible_mode_dialog_negative">Zrušiť</string>
      <string name="invisible_mode_dialog_positive">Vypnúť</string>
      <string name="invisible_mode_dialog_title">Ste inkognito</string>	
+     
+<string name="new_search_alll_records_hint">Vyhľadať všetky nahrávky</string>
+     <string name="new_search_app_records_hint">Hľadať nahrávky aplikácie</string>
+     <string name="new_search_call_records_hint">Hľadať nahrávky hovorov</string>
+     <string name="new_search_fm_records_hint">Hľadať nahrávky rádia</string>
+     <string name="new_search_recorder_records_hint">Hľadať v záznamníku</string>     
 </resources>

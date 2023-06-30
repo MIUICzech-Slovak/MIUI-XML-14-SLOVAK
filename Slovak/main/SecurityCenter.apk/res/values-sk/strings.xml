@@ -5859,4 +5859,13 @@ Zapnutím jedného sa vypne druhý.“</string>
      <string name="privacy_thumbnail_shield_top_tip">Maskovať ukážky aplikácií zobrazených v časti Nedávne</string>
      <string name="sim_lock_verify_time_out">Časový limit overenia vypršal. Skúste to znova.</string>
      <string name="st_sms_intercept_oversea">Medzinárodná SMS</string>
+     
+<string name="about_autostart_gloabl">O automatickom spustení na pozadí</string>
+     <string name="activity_title_auto_start_manager_global">Automatické spustenie na pozadí</string>
+<string name="dialog_msg_auto_start_declare_global">Niektoré aplikácie môžu nesprávne indikovať, že im MIUI zabránila v spustení. Skontrolujte povolenia, ktoré boli udelené jednotlivým aplikáciám v Nastaveniach.</string>
+     <string name="dialog_title_auto_start_declare_global">O automatickom spustení na pozadí</string>
+     <string name="pc_continuity_has_open_save_mode_notifi_sumary">Šetrič batérie sa vypne, keď bude %1$s %2$s alebo úplne nabité</string>
+     <string name="pc_continuity_has_open_save_mode_notifi_title">Zapnutý šetrič batérie na %s</string>
+     <string name="pc_continuity_open_save_mode_notifi_sumary">%1$s batéria je nižšia ako %2$s. Ak chcete pridať %3$s %4$s, zapnite šetrič batérie.</string>
+     <string name="pc_continuity_open_save_mode_notifi_title">%s batéria je slabá</string>
 </resources>

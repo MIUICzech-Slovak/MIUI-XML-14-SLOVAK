@@ -723,4 +723,5 @@ na vašom iPhone"</string>
     <string name="wednesday_short">Str</string>
     <string name="wednesday_shortest">S</string>
     <string name="yesterday">Včera</string>
+    <string name="set_app_suspend">Táto aplikácia sa práve zálohuje. Počkajte na dokončenie zálohovania a skúste to znova.</string>
 </resources>

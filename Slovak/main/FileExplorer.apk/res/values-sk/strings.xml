@@ -1133,4 +1133,6 @@ Získali ste ďalších %1$s"</string>
 <string name="operation_copy_clipboard">Kopírovať do schránky</string>
      <string name="operation_copy_local">Kopírovať do zložky</string>
      <string name="toast_copy_clipboard">Pridané do schránky</string>    
+     <string name="cta_use_sync_midrive_file">Na synchronizáciu súborov na Mi Drive</string>
+         <string name="select_pdf">Vybrať PDF</string>
 </resources>

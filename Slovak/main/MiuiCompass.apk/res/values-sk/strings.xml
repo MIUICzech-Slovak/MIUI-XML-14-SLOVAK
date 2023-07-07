@@ -182,4 +182,16 @@
      <string name="invisible_mode_dialog_positive">Nastavenia</string>
      <string name="invisible_mode_dialog_title">Ste inkognito</string>
          <string name="miuix_appcompat_edit">Upraviť</string>    
+		 
+<string name="live_action">Živá ukážka</string>
+     <string name="location_permission_tip_one">Klepnutím udelíte povolenia na umiestnenie, aby ste zobrazili zemepisnú šírku, dĺžku, tlak vzduchu a nadmorskú výšku.</string>
+     <string name="location_permission_tip_two">Klepnutím udelíte povolenia na umiestnenie, aby ste mohli zobraziť zemepisnú šírku a dĺžku.</string>
+     <string name="network_dialog_message">Kompas sa musí pripojiť k internetu, aby získal presnejšie údaje o nadmorskej výške. Povoliť teraz?</string>
+     <string name="network_dialog_negative">Nepovoliť</string>
+     <string name="network_dialog_positive">Povoliť</string>
+     <string name="network_dialog_title">Vyžadujú sa povolenia</string>
+     <string name="new_cta_app_purpose_one">Vitajte v kompase! Pomocou tejto aplikácie môžete nájsť hlavné smery, zemepisnú šírku, dĺžku, tlak vzduchu a nadmorskú výšku. Táto aplikácia sa musí pripojiť k internetu, aby mohla poskytovať svoje služby.</string>
+     <string name="new_cta_app_purpose_two">Vitajte v kompase! Túto aplikáciu môžete použiť na vyhľadanie hlavných smerov, zemepisnej šírky a dĺžky. Táto aplikácia sa musí pripojiť k internetu, aby mohla poskytovať svoje služby.</string>
+     <string name="v2_permission_location_desc_one">Na zobrazenie zemepisnej šírky, dĺžky, nadmorskej výšky a tlaku vzduchu</string>
+     <string name="v2_permission_location_desc_two">Na zobrazenie zemepisnej šírky a dĺžky</string>		 
 </resources>

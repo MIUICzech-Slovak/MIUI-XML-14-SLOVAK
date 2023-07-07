@@ -683,4 +683,10 @@ http://www.miuios.cz/rom
     
 <string name="added_to_clipboard">Úspešne skopírované</string>
      <string name="clip_resource_deleted">Táto položka už nie je k dispozícii</string> 
+	 
+<string name="folder_note">Zložky poznámok</string>
+  <string name="folder_other">Iné zložky</string>
+     <string name="foler_pinned">Pripnuté zložky</string>
+     <string name="new_alert_title_delete">Odstrániť poznámky</string>
+<string name="new_sync_desc_state_disable">Zapnite synchronizáciu v cloude pre poznámky, úlohy a ďalšie</string>	 
 </resources>

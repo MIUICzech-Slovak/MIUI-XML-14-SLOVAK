@@ -424,5 +424,8 @@ Klepnite na \"%1$s\" a potom vyberte \"%2$s\"."</string>
      <string name="new_search_app_records_hint">Hľadať nahrávky aplikácie</string>
      <string name="new_search_call_records_hint">Hľadať nahrávky hovorov</string>
      <string name="new_search_fm_records_hint">Hľadať nahrávky rádia</string>
-     <string name="new_search_recorder_records_hint">Hľadať v záznamníku</string>     
+     <string name="new_search_recorder_records_hint">Hľadať v záznamníku</string>    
+<string name="pause_status_focus_notification">Pozastavené</string>
+     <string name="recording_status_focus_notification">Nahrávanie</string>
+<string name="stop_status_focus_notification">Dokončené</string>	 
 </resources>

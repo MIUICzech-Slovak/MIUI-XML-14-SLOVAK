@@ -46,4 +46,8 @@
     <string name="menu_delete">Vymazať</string>
     <string name="menu_edit">Upraviť</string>
     <string name="sync_phrase_label">Často používané frázy</string>
+	<string name="super_clipboard_alert_dialog_cancel_button">Zrušiť</string>
+     <string name="super_clipboard_alert_dialog_sure_button">OK</string>
+     <string name="super_clipboard_send_file">Vložiť súbor zo schránky?</string>
+     <string name="super_clipboard_send_image">Vložiť obrázok zo schránky?</string>
 </resources>

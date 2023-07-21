@@ -724,4 +724,8 @@ na vašom iPhone"</string>
     <string name="wednesday_shortest">S</string>
     <string name="yesterday">Včera</string>
     <string name="set_app_suspend">Táto aplikácia sa práve zálohuje. Počkajte na dokončenie zálohovania a skúste to znova.</string>
+	
+<string name="cannot_use_mi_huanji_bacause_of_downloader">\"%s\" už poskytuje služby zálohovania systému. Odinštalujte ho a reštartujte zariadenie, aby ste mohli používať Mi Mover.</string>
+     <string name="receiver_finish_not_transferred">Neprenesené</string>
+     <string name="receiver_finish_transferred">Prenesené</string>	
 </resources>

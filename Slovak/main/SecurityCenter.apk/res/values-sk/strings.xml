@@ -5903,5 +5903,12 @@ Zapnutím jedného sa vypne druhý.“</string>
      <string name="popular_action_net_assistant_title_global">Sledovanie rýchlosti sieťového pripojenia</string>
      <string name="popular_action_video_clean_title_global">Vymažte vyrovnávaciu pamäť videa a uvoľnite miesto</string>
      <string name="storage_activity_title_personage">Osobné</string>
-     <string name="storage_activity_title_work">Práca</string>	 
+     <string name="storage_activity_title_work">Práca</string>	
+
+<string name="global_satisfaction_notification_channel">Prieskum spokojnosti používateľov</string>
+<string name="permission_instruction_get_identifier">Prístup k identifikátoru zariadenia</string>
+<string name="permission_instruction_read_history">Prístup k histórii prehliadania</string>
+     <string name="permission_instruction_receive_sms">Prijímať SMS a MMS</string>
+<string name="permission_instruction_record_screen">Prístup k obsahu obrazovky</string>
+<string name="permission_instruction_transfer_data_to_other_devices">Prenos údajov do iných zariadení</string>	
 </resources>

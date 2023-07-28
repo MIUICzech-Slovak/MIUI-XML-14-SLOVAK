@@ -240,4 +240,7 @@ dlhý screenshot"</string>
 <string name="privacy_mosaic_tip_long">Dlhé screenshoty nie sú podporované</string>
      <string name="privacy_mosaic_tip_partial">Čiastočné screenshoty nie sú podporované</string>     
 	     <string name="copy_success_toast">Skopírované</string>
+
+<string name="screenshot_detected_multiple_template">Tento screenshot rozpoznalo viacero aplikácií vrátane %1$s</string>
+     <string name="screenshot_detected_template">%1$s rozpoznal tento screenshot</string>	
 </resources>

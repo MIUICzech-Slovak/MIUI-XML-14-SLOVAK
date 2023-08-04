@@ -5911,4 +5911,5 @@ Zapnutím jedného sa vypne druhý.“</string>
      <string name="permission_instruction_receive_sms">Prijímať SMS a MMS</string>
 <string name="permission_instruction_record_screen">Prístup k obsahu obrazovky</string>
 <string name="permission_instruction_transfer_data_to_other_devices">Prenos údajov do iných zariadení</string>	
+<string name="virus_auto_update_engine_1">Automaticky aktualizovať databázu</string>
 </resources>

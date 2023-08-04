@@ -688,5 +688,6 @@ http://www.miuios.cz/rom
   <string name="folder_other">Iné zložky</string>
      <string name="foler_pinned">Pripnuté zložky</string>
      <string name="new_alert_title_delete">Odstrániť poznámky</string>
-<string name="new_sync_desc_state_disable">Zapnite synchronizáciu v cloude pre poznámky, úlohy a ďalšie</string>	 
+<string name="new_sync_desc_state_disable">Zapnite synchronizáciu v cloude pre poznámky, úlohy a ďalšie</string>	
+<string name="permission_get_account_desc">Synchronizácia poznámok s cloudom</string> 
 </resources>

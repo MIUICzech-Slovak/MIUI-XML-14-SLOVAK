@@ -361,4 +361,8 @@ pokračovať“</string>
     <string name="worker_try_join_in_connected_state">Pripojené</string>
     <string name="worker_try_join_in_connecting_state">Pripájanie zariadenia...</string>
     <string name="yesterday">Včera</string>
+    
+<string name="settings_nfc_transfer_desc1">"·Prineste telefón prihlásený do svojho účtu Xiaomi v blízkosti modulu NFC tohto zariadenia, aby ste mohli zdieľať obsah obrazovky alebo preniesť položky vybraté v Správcovi súborov alebo Galérii."</string>
+     <string name="settings_nfc_transfer_desc2">·Zoznam kompatibilných zariadení si môžete pozrieť tu: %s</string>
+     <string name="settings_nfc_transfer_title">Prenos položiek cez NFC</string>    
 </resources>

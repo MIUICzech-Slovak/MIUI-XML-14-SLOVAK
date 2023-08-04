@@ -560,4 +560,8 @@
     <string name="wednesday_shortest">S</string>
     <string name="yes">Áno</string>
     <string name="yesterday">Včera</string>
+    
+<string name="HIPS_Perm_operator_shake">Prístup k pohybu a orientácii zariadenia</string>
+     <string name="HIPS_Perm_operator_shake_Desc">Na zisťovanie polohy zariadenia v priestore, rozpoznávanie otrasov a poskytovanie interaktívnych zmyslových funkcií</string>
+<string name="permdesc_shake">Povoliť \"%1$s\" používať senzory zariadenia na rozpoznanie trasenia a poskytovanie interaktívnych senzorických funkcií</string>    
 </resources>

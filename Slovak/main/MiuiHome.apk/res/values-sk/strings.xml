@@ -811,5 +811,12 @@ Zvýšená bezpečnosť."</string>
 <string name="free_style_title">Mi Space</string>
 <string name="find_app_by_color">Zoskupujte ikony podľa farby, aby ste rýchlejšie našli aplikácie</string>
      <string name="free_style_unavailable_message">Mi Space už nie je v tejto verzii podporovaný. Túto tému však môžete používať aj naďalej.</string>
+
+<string name="international_home_pull_down_content">Potiahnutím prstom nadol po domovskej obrazovke spustíte vyhľadávanie v tomto zariadení a na internete.</string>
+     <string name="international_home_pull_down_sub_content">Toto gesto môžete prepnúť na otvorenie ovládacieho centra v časti Nastavenia > Plocha > Potiahnite prstom nadol na ploche.</string>
+     <string name="international_home_pull_down_up_btn_get">Rozumiem</string>
+     <string name="international_home_pull_up_content">Potiahnutím prstom nahor po domovskej obrazovke otvorte Obsahové centrum.</string>
+     <string name="international_home_pull_up_sub_content">Ak chcete otvoriť vyhľadávanie, potiahnite prstom nadol zo stredu plochy.</string>
+     <string name="content_center">Centrum obsahu</string>	
           
 </resources>

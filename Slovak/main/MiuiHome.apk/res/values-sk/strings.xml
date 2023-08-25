@@ -818,5 +818,5 @@ Zvýšená bezpečnosť."</string>
      <string name="international_home_pull_up_content">Potiahnutím prstom nahor po domovskej obrazovke otvorte Obsahové centrum.</string>
      <string name="international_home_pull_up_sub_content">Ak chcete otvoriť vyhľadávanie, potiahnite prstom nadol zo stredu plochy.</string>
      <string name="content_center">Centrum obsahu</string>	
-          
+<string name="switch_personal_assistant_summary">Potiahnutím prstom doprava na ploche otvorte Google Asistenta</string>          
 </resources>

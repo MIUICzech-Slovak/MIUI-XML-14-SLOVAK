@@ -1085,8 +1085,7 @@ Dajte si pauzu!"</item>
          <item quantity="other">Optimalizujte využitie batérie v %d scenároch</item>
          <item quantity="one">Optimalizujte využitie batérie v %d scenári</item>
      </plurals>    
-     
-<plurals name="hints_auto_start_disable_title_global">
+     <plurals name="hints_auto_start_disable_title_global">
          <item quantity="other">"%d aplikácií sa nemôže spustiť na pozadí"</item>
          <item quantity="one">"%d aplikácia sa nemôže spustiť na pozadí"</item>
      </plurals>
@@ -1094,8 +1093,8 @@ Dajte si pauzu!"</item>
          <item quantity="other">%d aplikácií sa môže spustiť na pozadí</item>
          <item quantity="one">%d aplikácia sa môže spustiť na pozadí</item>
      </plurals>     
-<plurals name="app_manager_updater_title">
-         <item kvantita="other">Aktualizácia %d aplikácií</item>
-         <item kvantita="one">Aktualizovať %d aplikáciu</item>
+     <plurals name="app_manager_updater_title">
+         <item quantity="other">Aktualizácia %d aplikácií</item>
+         <item quantity="one">Aktualizovať %d aplikáciu</item>
      </plurals>     
 </resources>

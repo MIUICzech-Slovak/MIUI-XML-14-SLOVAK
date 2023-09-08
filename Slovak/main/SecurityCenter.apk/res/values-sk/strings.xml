@@ -5912,4 +5912,32 @@ Zapnutím jedného sa vypne druhý.“</string>
 <string name="permission_instruction_record_screen">Prístup k obsahu obrazovky</string>
 <string name="permission_instruction_transfer_data_to_other_devices">Prenos údajov do iných zariadení</string>	
 <string name="virus_auto_update_engine_1">Automaticky aktualizovať databázu</string>
+
+<string name="app_info_all_services_label">Všetky služby</string>
+     <string name="app_manager_shortcut_manager">Spravovať odkazy na ploche</string>
+     <string name="app_usage_half_year">Posledné %d mesiace</string>
+     <string name="app_usage_more_year">Pred viac ako %d rokom</string>
+     <string name="app_usage_never_1">Nikdy nepoužité</string>
+     <string name="app_usage_one_day">Dnes</string>
+     <string name="app_usage_one_month">Posledných %d dní</string>
+     <string name="app_usage_one_week">Posledných %d dní</string>
+<string name="app_usage_year">Do %d roka</string>
+     <string name="card_main_video_manage_title">Spravovať videá</string>
+<string name="custom_define_permission_desc_android.permission.GET_ACCOUNTS">Na správu autorizácie pri overovaní identity naprieč zariadeniami, ladenie USB a obnovenie hesla na ochranu súkromia a zámku aplikácie</string>
+<string name="custom_define_permission_desc_android.permission.READ_PHONE_STATE">Na rozpoznanie stavu hovoru pri vysokej teplote alebo nízkej batérii</string>
+<string name="custom_define_permission_desc_android.permission.group.SENSORS">Na zisťovanie seizmických vĺn pri monitorovaní zemetrasení</string>
+<string name="custom_define_permission_desc_android.permission_group.MICROPHONE">Na nahrávanie zvuku počas používania hry Game Turbo</string>
+     <string name="gb_barrage_app_manger">Spravovať aplikácie</string>
+     <string name="gb_barrage_guide_text">Klepnutím na komentár odpoviete alebo otvoríte plávajúce okno</string>
+     <string name="global_satisfaction_notification_summary">Povedzte nám, ako sa vám toto zariadenie páči</string>
+     <string name="pc_category_charge_settings">Nastavenia nabíjania</string>
+     <string name="pc_hight_refresh_rate_reminder_content">Vaše zariadenie používa vyššiu obnovovaciu frekvenciu pre lepší zážitok zo sledovania. To môže zvýšiť spotrebu energie a teplotu zariadenia.</string>
+     <string name="pc_hight_refresh_rate_reminder_summary">Použitie vyššej obnovovacej frekvencie. To môže zvýšiť spotrebu energie a teplotu zariadenia.</string>
+     <string name="pc_hight_refresh_rate_reminder_title">Pozeranie videa s vysokou snímkovou frekvenciou</string>
+<string name="pc_smart_discharge_protect_notifi_summary2">Na ochranu batérie sa pri používaní navigačných aplikácií automaticky zastaví nabíjanie na zvolenej úrovni</string>
+     <string name="special_perm_intercept_autostart_msg">Povoliť spustenie aplikácie na pozadí kedykoľvek bez obmedzení</string>
+     <string name="special_perm_intercept_autostart_title">Neobmedzené automatické spustenie</string>
+     <string name="vb_power_performance_mode_conflict_toast">Túto funkciu nie je možné použiť, keď je zapnutý režim výkonu</string>
+     <string name="vb_power_save_mode_conflict_toast">Túto funkciu nie je možné použiť, keď je zapnutý šetrič batérie</string>
+<string name="vb_super_power_save_mode_conflict_toast">Túto funkciu nie je možné použiť, keď je zapnutý ultra šetrič batérie</string>
 </resources>

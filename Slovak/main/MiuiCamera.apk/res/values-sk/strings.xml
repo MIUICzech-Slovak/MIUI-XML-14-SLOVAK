@@ -1866,4 +1866,6 @@ Snímky Ultra RAW ušetria %d bit údajov a zachovajú si ešte viac detailov."<
      <string name="street_tip_middle">Umiestnite objekt do %d metra</string>
      <string name="street_tip_near">Umiestnite objekt do %d metra</string>     
      <string name="module_name_microfilm">Krátky film</string>  
+<string name="new_bie_dialog_cancel">Zatvoriť</string>
+     <string name="new_bie_dialog_desc">Popis funkcie</string>     
 </resources>

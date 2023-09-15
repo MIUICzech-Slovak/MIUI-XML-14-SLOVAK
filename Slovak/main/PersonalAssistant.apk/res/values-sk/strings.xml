@@ -1070,5 +1070,17 @@ na zobrazenie widgetov."</string>
      <string name="pa_picker_detail_theme_app_need_login">Prihlásiť sa</string>
      <string name="pa_picker_detail_theme_app_need_login_pre">Najprv sa prihláste do svojho účtu Xiaomi.</string>
      <string name="pa_widget_advert_loading_dialog_message">Načítavanie...</string>     
-     
+
+<string name="pa_picker_detail_add_to_stack">Pridať do skupiny</string>
+     <string name="pa_picker_detail_app_widget_in_dev">Táto miniaplikácia zatiaľ nie je k dispozícii. Môžete si namiesto nej vyskúšať iné wifgety.</string>
+     <string name="pa_picker_detail_view_more">Zobraziť viac</string>
+     <string name="pa_picker_stack_operate_empty_title">"Zatiaľ tu nič nie je.
+Ak chcete začať, pridajte widgety."</string>
+     <string name="pa_picker_stack_operate_title">Upraviť skupinu</string>
+     <string name="pa_picker_toast_count_limit_for_stack">Pridajte až 10 položiek</string>
+     <string name="pa_stack_summary">Presunúť widgety s novými informáciami nahor</string>
+     <string name="pa_stack_text">Presunúť aktualizované položky nahor</string>
+     <string name="pa_widget_menu_edit_card_in_stack">Upraviť \"%s\"</string>
+     <string name="pa_widget_menu_edit_stack">Upraviť skupinu</string>
+     <string name="pa_widget_menu_remove_card_in_stack">Odstrániť \"%s\"</string>    
 </resources>

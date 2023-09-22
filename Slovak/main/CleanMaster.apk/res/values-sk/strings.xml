@@ -930,4 +930,7 @@
     <string name="white_list_title">Ignorované</string>
     <string name="year_month_day_format">dd. MMM, yyyy</string>
     <string name="yesterday">Včera</string>
+    
+<string name="be_figuring">Prepočítavanie…</string>
+    <string name="dc_storage_info_new">Dostupné %1$s</string>    
 </resources>

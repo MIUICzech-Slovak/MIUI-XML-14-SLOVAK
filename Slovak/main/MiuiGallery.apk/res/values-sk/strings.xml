@@ -2880,4 +2880,18 @@ Do %1$s môžete svoje položky presunúť do Fotiek Google alebo si ich stiahnu
      <string name="transfer_dialog_title">Xiaomi Cloud nahradený zálohou Fotiek Google</string>
      <string name="transfer_service_msg">Služby synchronizácie cloudu Xiaomi boli nahradené zálohou Fotiek Google. Sťahovanie nesynchronizovaných položiek už nie je k dispozícii.</string>
 <string name="upload_progress_message">Služby synchronizácie cloudu Xiaomi boli nahradené zálohou Fotiek Google. Musíme skontrolovať položky uložené v tomto zariadení a v cloude, aby sme sa uistili, že nestratíte nič dôležité. Tento proces môže trvať niekoľko minút. Neopúšťajte Galériu, kým nebude dokončená.</string>     
+
+<string name="backup_category_title">ZÁLOHA</string>
+     <string name="backup_display">Pripomenutia úložiska</string>
+     <string name="backup_google_description">Uchovajte svoje fotografie v bezpečí zálohovaním do Google účtu</string>
+     <string name="backup_google_name">Fotky Google</string>
+     <string name="backup_off_des">Ak chcete automaticky zálohovať fotografie a videá, zapnite synchronizáciu s cloudom</string>
+     <string name="backup_onedrive_description">Chráňte svoje fotografie v cloude a pristupujte k nim na akomkoľvek zariadení</string>
+     <string name="backup_onedrive_name">Microsoft OneDrive</string>
+     <string name="backup_onedrive_single_name">OneDrive</string>
+     <string name="global_cloud_action_upgrade_onedrive">Inovovať OneDrive</string>
+     <string name="global_cloud_full_space_tip_message">Inovujte svoj plán cloudového úložiska, aby ste mohli zálohovať všetky svoje fotografie a videá do cloudu.</string>
+     <string name="manager_backup">Spravovať</string>
+     <string name="open_backup">Zapnúť</string>
+     <string name="select_backup">Vybrať zálohu</string>
 </resources>

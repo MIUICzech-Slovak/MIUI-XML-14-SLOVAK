@@ -1921,8 +1921,7 @@ Snímky Ultra RAW ušetria %d bit údajov a zachovajú si ešte viac detailov."<
       <string name="aperture_invalid_zoomratio_tip">Pri aktuálnom pomere priblíženia nie je možné nastaviť clonu</string>
       <string name="aperture_near_range_tip">Pri fotení zblízka sa nedá nastaviť clona</string>
       <string name="aperture_no_wide_camera_tip">Clonu je možné upraviť iba pre hlavný fotoaparát</string>        
-      
-<string name="beauty_mo_fe_mm">Film</string>
+      <string name="beauty_mo_fe_mm">Film</string>
       <string name="beauty_mo_ma_mm">Čerstvé</string>
       <string name="beauty_mode_confirm_text">Vybrať</string>
       <string name="beauty_mode_hint_title">Vyberte štýl portrétu</string>
@@ -1932,8 +1931,6 @@ Snímky Ultra RAW ušetria %d bit údajov a zachovajú si ešte viac detailov."<
       <string name="bluetooth_headset_permission_des">Na určenie stavu pripojenia slúchadiel Bluetooth a nahrávanie zvuku pomocou mikrofónu slúchadiel</string>
       <string name="bluetooth_permission_not_ask_again">Povoľte tejto aplikácii pripojiť sa k zariadeniam v okolí v Nastaveniach, aby ste sa mohli pripojiť k slúchadlám Bluetooth.</string>
       <string name="cine_image_modify_layout_content_description">Upraviť rozloženie</string>
-      <string name="cinemaster_connection_prequires">Najskôr v ovládacom centre zapnite Wi-Fi.</string>
-      <string name="cinemaster_connection_prequires_china">Najskôr v ovládacom centre zapnite Wi-Fi.</string>
       <string name="color_effect_entry_blackgold">Zlaté vibrácie</string>
       <string name="color_effect_entry_blackice">Čierny ľad</string>
       <string name="color_effect_entry_classic">Klasické</string>
@@ -1962,8 +1959,7 @@ Odporúčame pripojiť sa k sieťam Wi-Fi %s GHz, ktoré podporujú štandard š
       <string name="cv_lens_humanities">Dokumentárny</string>
       <string name="cv_lens_none">Predvolené</string>
       <string name="cv_lens_portrait">Portrét</string>      
-      
-<string name="dd_frn_f_t">Ak chcete použiť predný fotoaparát, zložte svoje zariadenie</string>
+      <string name="dd_frn_f_t">Ak chcete použiť predný fotoaparát, zložte svoje zariadenie</string>
       <string name="dialog_truecolor_setting_open">Zapnúť</string>
       <string name="friend_exit_dialog_message">Ak budete pokračovať, zariadenia budú od seba odpojené. Chcete teraz túto reláciu ukončiť?</string>
       <string name="friend_exit_dialog_title">Ukončiť reláciu asistenta?</string>
@@ -1993,8 +1989,7 @@ Ak na pripojenie používate hotspot, nastavte jeho pásmo AP na %s GHz v Nastav
       <string name="friend_mode_searching_tips_china">Pripojte dve zariadenia k rovnakej sieti Wi-Fi alebo hotspotu a otvorte kameru Assist, aby ste mohli fotografovať pomocou jedného zariadenia z druhého.</string>
       <string name="friend_mode_select_device">Vyberte asistenčné zariadenie</string>
       <string name="friend_mode_transfer_picture">Prenášajú sa fotografie…</string>   
-      
-<string name="frind_sign_button_accessibility">Vypnúť asistenčnú kameru</string>
+      <string name="frind_sign_button_accessibility">Vypnúť asistenčnú kameru</string>
       <string name="function_friend_mode">Asistujúca kamera</string>
       <string name="hdr10plus_mutex_func_alert">Táto funkcia nefunguje s HDR10+</string>
       <string name="heif_mutex_pixel_hdr_alert">HEIF nie je podporovaný v režime Ultra HD</string>
@@ -2036,8 +2031,7 @@ Ak na pripojenie používate hotspot, nastavte jeho pásmo AP na %s GHz v Nastav
       <string name="reset_manual_picture_style_new_toast">Úspešné resetovanie parametrov</string>
       <string name="reset_manually_parameter_confirmed">OK</string>
       <string name="reset_manually_parameter_hint">Obnoviť</string>         
-      
-<string name="scan_install_prompt_header">Inštalovať skener</string>
+      <string name="scan_install_prompt_header">Inštalovať skener</string>
       <string name="scan_install_prompt_loading">Inštaluje sa skener…</string>
       <string name="scan_install_prompt_message">Nainštalujte skener a skúste to znova.</string>
       <string name="street_auto_desc">Automatická zaostrovacia vzdialenosť</string>

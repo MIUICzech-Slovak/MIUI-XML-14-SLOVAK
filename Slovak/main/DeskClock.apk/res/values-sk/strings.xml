@@ -615,5 +615,13 @@ d.MM."</string>
     <string name="your_sounds">Moje zvuky</string>
      <string name="snooze_alarm_alert">Odložené do %s</string>
      <string name="timer_alert_pause">Časovač je pozastavený</string>
-     <string name="timer_alert_running">Časovač je spustený</string>        
+     <string name="timer_alert_running">Časovač je spustený</string>  
+
+<string name="alarm_repeat_self_define_button">Prispôsobiť</string>
+     <string name="look_sleep_data">Údaje o spánku</string>
+     <string name="notification_permission_dialog_content">Povoľte tejto aplikácii odosielať upozornenia, aby ste mohli dostávať upozornenia na alarmy. Toto povolenie môžete udeliť v Nastaveniach.</string>
+     <string name="notification_permission_dialog_not_open">Neskôr</string>
+     <string name="notification_permission_dialog_open">Nastavenia</string>
+     <string name="notification_permission_dialog_title">Vyžadujú sa povolenia</string>
+     <string name="upcoming_alarm_new">Nadchádzajúci budík: %s</string>    
 </resources>

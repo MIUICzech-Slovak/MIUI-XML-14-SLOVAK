@@ -7805,5 +7805,8 @@ Nastavenie telefónu môže vyžadovať prenos významného množstva dát."</st
 <string name="screen_effect_adapt_color_summary">Upraviť farby podľa aktuálneho osvetlenia</string>
       <string name="screen_effect_adapt_color_title">Živé</string>
       <string name="screen_effect_origin_color_summary">Reprodukcia realistických farieb pomocou kalibrácie farieb</string>
-      <string name="screen_effect_origin_color_title">Reálne farby PRO</string>                 
+      <string name="screen_effect_origin_color_title">Reálne farby PRO</string>              
+<string name="eye_gaze_dialog_message">"Keď zapnete funkciu Rozpoznať pohľad, zariadenie sa nezablokuje, keď zistí, že sa pozeráte na obrazovku. Charakteristiky vašej tváre nebudú analyzované a informácie o vašej tvári nebudú byť uložené vo vašom zariadení alebo odovzdané do cloudu. Zapnúť teraz?“</string>
+<string name="eye_gaze_dialog_title">Bezpečnostné upozornenie</string>      
+         
 </resources>
